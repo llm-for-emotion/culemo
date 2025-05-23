@@ -1,0 +1,401 @@
+text_eng	text_ara	emotion_eng	emotion_ara	sentiment_eng	sentiment_ara
+How would you feel if someone refused your gift before accepting it?	كيف ستشعر إذا رفض شخص ما هديتك قبل أن يقبلها؟	sadness	حزن	negative	سلبي
+How would you feel when your gift opened in front of you	كيف ستشعر عندما تفتح هديتك أمامك؟	joy	فرح	positive	إيجابي
+How would you feel when you joke, nobody even hints at a smile and continues talking?	كيف ستشعر عندما تمزح ولا يلمح لك أحد حتى بالابتسامة وتواصل الحديث؟	neutral	محايد	neutral	حيادي
+How would you feel when you kissed your girlfriend/boyfriend, saw your father	كيف ستشعر عندما تقبل صديقتك/صديقك، أو ترى والدك؟	joy	فرح	positive	إيجابي
+How would you feel when you saw a young dog running to you?	كيف ستشعر عندما ترى كلبًا صغيرًا يركض نحوك؟	fear	خوف	negative	سلبي
+How would you feel when you know your girlfriend/boyfriend friend had sex before you	كيف ستشعر عندما تعلم أن صديقتك/صديقك مارس الجنس قبلك؟	neutral	محايد	neutral	حيادي
+How would you feel when your parent caught you with a pornographic film?	كيف ستشعر عندما يمسك بك والدك مع فيلم إباحي؟	guilt	ذنب	negative	سلبي
+How would you feel when your attendee joined the meeting after 10 minutes started	كيف ستشعر عندما ينضم أحد الحاضرين إلى الاجتماع بعد مرور 10 دقائق من بدء الاجتماع؟	neutral	محايد	neutral	حيادي
+How would you feel when a man sat near to you smoking?	كيف ستشعر عندما يجلس بالقرب منك رجل يدخن؟	anger	غضب	negative	سلبي
+How would you feel when you are walking at 2:00 am in the street	كيف ستشعر عندما تمشي في الشارع الساعة 2:00 صباحًا؟	fear	خوف	negative	سلبي
+If someone is passing near to you, how would you feel when they didn't give you a greeting?	إذا كان شخص ما يمر بالقرب منك، كيف ستشعر عندما لم يلقي عليك التحية؟	neutral	محايد	neutral	حيادي
+How would you feel when you see a female eating on the street?	كيف ستشعر عندما ترى امرأة تأكل في الشارع؟	neutral	محايد	neutral	حيادي
+How would you feel when you see a priest drinking alcohol	كيف ستشعر عندما ترى كاهن يشرب الخمر؟	anger	غضب	negative	سلبي
+How would you feel when you see a Sheikh drinking alcohol	كيف تشعر عندما ترى شيخ يشرب الخمر	anger	غضب	negative	سلبي
+How would you feel if someone invited you to eat donkey meat?	ماذا ستشعر لو دعاك أحد لتناول لحم الحمار؟	anger	غضب	negative	سلبي
+How would you feel if someone invited you to eat pork meat?	كيف ستشعر إذا دعاك أحد لتناول لحم الخنزير؟	anger	غضب	negative	سلبي
+How would you feel if someone invited you to eat camel meat?	ماذا ستشعر لو دعاك أحد لتناول لحم الإبل؟	neutral	محايد	neutral	حيادي
+How would you feel when you see a young female smoking	كيف ستشعر عندما ترى فتاة شابة تدخن؟	sadness	حزن	negative	سلبي
+How would you feel when you see a female wearing small pants on the street	كيف ستشعر عندما ترى امرأة ترتدي بنطالًا صغيرًا في الشارع؟	sadness	حزن	negative	سلبي
+How would you feel when you see a female wearing trousers on the street	كيف ستشعر عندما ترى امرأة ترتدي بنطالًا في الشارع؟	neutral	محايد	neutral	حيادي
+How would you feel when you see homosexual friends	كيف ستشعر عندما ترى أصدقاء مثليين؟	sadness	حزن	negative	سلبي
+How would you feel when you see a man with two wifes	كيف ستشعر عندما ترى رجلاً متزوجاً من اثنتين؟	anger	غضب	negative	سلبي
+How would you feel when someone accepted your gift in one hand?	كيف ستشعر عندما يقبل شخص هديتك بيد واحدة؟	neutral	محايد	neutral	حيادي
+How would you feel when someone shows you his middle finger gesture?	كيف ستشعر عندما يظهر لك شخص ما إشارة إصبعه الوسطى؟	anger	غضب	negative	سلبي
+How would you feel when someone shows you his thumbs-up?	كيف ستشعر عندما يظهر لك شخص ما إبهامه؟	joy	فرح	positive	إيجابي
+How would you feel when someone shows you a sign of a horn	كيف ستشعر عندما يظهر لك شخص ما علامة القرن؟	neutral	محايد	neutral	حيادي
+How would you feel when someone shows you a sign of a fork in his fingers	كيف ستشعر عندما يظهر لك شخص ما علامة شوكة في أصابعه	neutral	محايد	neutral	حيادي
+How would you feel when someone received your gift in their left hand	كيف ستشعر عندما يتلقى شخص ما هديتك في يده اليسرى؟	neutral	محايد	neutral	حيادي
+How would you feel when someone gave the money in their left hand	كيف ستشعر عندما يعطيك شخص ما المال في يده اليسرى؟	neutral	محايد	neutral	حيادي
+"How would you feel when someone shows you a ""you have five fathers"" gesture"	"كيف ستشعر عندما يظهر لك شخص ما إشارة ""لديك خمسة آباء"""	anger	غضب	negative	سلبي
+How would you feel when you heard someone lives in their parent's home at the age of greater than 18?	كيف ستشعر عندما تسمع أن شخصًا يعيش في منزل والديه في سن أكبر من 18 عامًا؟	neutral	محايد	neutral	حيادي
+How would you feel when someone cheek-to-cheek kisses your wife/husband	كيف ستشعر عندما يقوم شخص ما بتقبيل زوجتك/زوجك من الخد إلى الخد؟	anger	غضب	negative	سلبي
+How would you feel when you did not say goodbye to your friend?	كيف ستشعر عندما لا تقول وداعا لصديقك؟	sadness	حزن	negative	سلبي
+How would you feel when you crossed an older man in the street?	كيف ستشعر عندما تقابل رجلاً أكبر سناً في الشارع؟	joy	فرح	positive	إيجابي
+How would you feel when you did not say thank you to the waiter at the restaurant	كيف ستشعر عندما لا تقول شكرًا للنادل في المطعم؟	guilt	ذنب	negative	سلبي
+How would you feel when you did not tip the waiter at the restaurant	كيف ستشعر عندما لا تعطي إكرامية للنادل في المطعم؟	neutral	محايد	neutral	حيادي
+How would you feel when you hear that music playing loudly all night?	كيف ستشعر عندما تسمع هذه الموسيقى بصوت عالٍ طوال الليل؟	joy	فرح	positive	إيجابي
+How would you feel when someone called you fatty because you gained weight?	كيف ستشعر عندما يصفك أحد الأشخاص بالسمينة لأنك اكتسبت وزناً؟	sadness	حزن	negative	سلبي
+How would you feel when you see someone drink a tab of water?	كيف ستشعر عندما ترى شخصًا يشرب قطرة ماء؟	neutral	محايد	neutral	حيادي
+How would you feel if someone saw you when taking off your clothes	كيف ستشعر إذا رآك أحد وأنت تخلع ملابسك؟	anger	غضب	negative	سلبي
+How would you feel when someone sees you taking a shower in the nude	كيف ستشعر عندما يراك شخص ما وأنت تستحم عاريًا؟	anger	غضب	negative	سلبي
+How would you feel when someone calls a religious leader by their name	كيف ستشعر عندما ينادي شخص ما زعيمًا دينيًا باسمه؟	neutral	محايد	neutral	حيادي
+You are a doctor; how would you feel when someone calls you by your name without the doctor prefix	أنت طبيب، كيف ستشعر عندما يناديك أحد باسمك دون استخدام كلمة طبيب؟	neutral	محايد	neutral	حيادي
+You are a professor; how would you feel when someone calls you by your name without the professor prefix	أنت أستاذ، كيف ستشعر عندما يناديك أحد باسمك دون استخدام بادئة الأستاذ؟	neutral	محايد	neutral	حيادي
+How would you feel when you heard the news about the death of a close person?	كيف ستشعر عندما تسمع خبر وفاة شخص قريب منك؟	sadness	حزن	negative	سلبي
+How would you feel when you discovered your girlfriend or boyfriend was hanging out with one of your close friends?	كيف ستشعر عندما تكتشف أن صديقتك أو صديقك يتسكع مع أحد أصدقائك المقربين؟	neutral	محايد	neutral	حيادي
+If you failed a subject at school, how would you feel when you gave your report card to your father?	إذا فشلت في مادة ما في المدرسة، كيف ستشعر عندما تعطي بطاقة تقريرك الدراسي لوالدك؟	guilt	ذنب	negative	سلبي
+How would you feel if you waited for your friend for 20 minutes at the restaurant?	كيف ستشعر إذا انتظرت صديقك لمدة 20 دقيقة في المطعم؟	neutral	محايد	neutral	حيادي
+How would you feel when your room-mate was making noise deliberately while you were trying to study	كيف ستشعر عندما يصدر زميلك في الغرفة ضوضاءً عمدًا أثناء محاولتك الدراسة؟	anger	غضب	negative	سلبي
+How would you feel when you watch a horror film?	كيف ستشعر عندما تشاهد فيلم رعب؟	fear	خوف	negative	سلبي
+How would you feel when your parents got divorced?	كيف ستشعر عندما ينفصل والديك؟	joy	فرح	positive	إيجابي
+How would you feel about confronting your friend in their home?	كيف ستشعر إذا واجهت صديقك في منزله؟	fear	خوف	negative	سلبي
+You offer food for your neighbor. How would you feel when they turned it down?	أنت تقدم الطعام لجارك، كيف ستشعر إذا رفضه؟	sadness	حزن	negative	سلبي
+How would you feel if your parents moved in with you right after marriage?	كيف ستشعر لو أن والديك انتقلا للعيش معك مباشرة بعد الزواج؟	anger	غضب	negative	سلبي
+How would you feel if your guests chose to keep their shoes on when entering your home?	كيف ستشعر إذا اختار ضيوفك إبقاء أحذيتهم عند دخول منزلك؟	anger	غضب	negative	سلبي
+How would you feel if you lost a family heirloom?	كيف ستشعر إذا فقدت إرثًا عائليًا؟	anger	غضب	negative	سلبي
+How would you feel when you received critical feedback from your colleague?	كيف ستشعر عندما تتلقى تعليقًا نقديًا من زميلك؟	neutral	محايد	neutral	حيادي
+How would you feel when confronting your friend in your home?	كيف ستشعر عندما تواجه صديقك في منزلك؟	neutral	محايد	neutral	حيادي
+How would you feel when you interact with the boss of your supervisor?	كيف تشعر عندما تتعامل مع رئيسك في العمل؟	neutral	محايد	neutral	حيادي
+How would you feel about sharing your terrible performance on a class test?	ما هو شعورك إذا شاركت أداءك السيئ في اختبار الفصل؟	sadness	حزن	negative	سلبي
+How would you feel about sharing your excellent performance on a class test?	ما هو شعورك حيال مشاركة أدائك الممتاز في اختبار الفصل؟	joy	فرح	positive	إيجابي
+How would you feel if a friend openly criticized your cooking at a dinner gathering?	كيف ستشعر إذا انتقد أحد أصدقائك طبخك بشكل علني في حفل عشاء؟	anger	غضب	negative	سلبي
+How would you feel if your parents arranged a marriage for you without your input?	كيف ستشعر إذا قام والداك بترتيب زواجك دون موافقتك؟	anger	غضب	negative	سلبي
+How would you feel if someone gave you a gift you didn't like?	كيف ستشعر إذا أعطاك شخص هدية لم تعجبك؟	neutral	محايد	neutral	حيادي
+How would you feel if invited to a traditional ceremony of a culture different from your own?	كيف ستشعر إذا تمت دعوتك لحضور حفل تقليدي لثقافة مختلفة عن ثقافتك؟	joy	فرح	positive	إيجابي
+How would you feel if your neighbor played loud music late at night during a festival?	كيف ستشعر إذا كان جارك يشغل الموسيقى بصوت عالٍ في وقت متأخر من الليل أثناء المهرجان؟	anger	غضب	negative	سلبي
+How do you feel about being asked to share your love history?	ما هو شعورك عندما يُطلب منك مشاركة قصة حبك؟	joy	فرح	positive	إيجابي
+How would you feel about being asked to share the spiritual activity you performed?	كيف ستشعر إذا طُلب منك مشاركة النشاط الروحي الذي قمت به؟	neutral	محايد	neutral	حيادي
+How would you feel about being asked to share your age?	ما هو شعورك إذا طلب منك مشاركة عمرك؟	neutral	محايد	neutral	حيادي
+How would you feel about being asked to share personal financial information with friends?	ما هو شعورك إذا طلب منك مشاركة معلوماتك المالية الشخصية مع الأصدقاء؟	fear	خوف	negative	سلبي
+How would you feel if you were late to a family gathering and everyone was already eating?	كيف ستشعر إذا تأخرت عن اجتماع عائلي وكان الجميع يتناولون الطعام بالفعل؟	neutral	محايد	neutral	حيادي
+How would you feel if a stranger publicly approached you to discuss a political issue?	كيف ستشعر إذا اقترب منك شخص غريب علنًا لمناقشة قضية سياسية؟	fear	خوف	negative	سلبي
+How would you feel if your child wanted to pursue a career path you disapprove of?	كيف ستشعر إذا أراد طفلك متابعة مسار مهني لا توافق عليه؟	sadness	حزن	negative	سلبي
+How would you feel if your partner forgot to buy a gift for your birthday?	كيف ستشعر إذا نسي شريكك شراء هدية لعيد ميلادك؟	sadness	حزن	negative	سلبي
+How would you feel if your friend forgot to say happy birthday for your birthday?	كيف ستشعر إذا نسي صديقك أن يقول عيد ميلاد سعيد لعيد ميلادك؟	neutral	محايد	neutral	حيادي
+How would you feel if your partner forgot your anniversary?	كيف ستشعر إذا نسي شريكك ذكرى زواجكما؟	neutral	محايد	neutral	حيادي
+How would you feel if you were offered a promotion but had to relocate to a different country?	كيف ستشعر إذا عُرض عليك ترقية ولكن كان عليك الانتقال إلى بلد آخر؟	sadness	حزن	negative	سلبي
+How would you feel if asked to speak in front of a large group at a community event?	كيف ستشعر إذا طلب منك التحدث أمام مجموعة كبيرة من الناس في مناسبة مجتمعية؟	neutral	محايد	neutral	حيادي
+How would you feel if criticized for your fashion choices at a social event?	كيف ستشعر إذا تعرضت للنقد بسبب اختياراتك للأزياء في مناسبة اجتماعية؟	neutral	محايد	neutral	حيادي
+How would you feel if asked to participate in a group prayer?	كيف ستشعر إذا طلب منك المشاركة في صلاة جماعية؟	neutral	محايد	neutral	حيادي
+How would you feel if your friends invited you on a trip?	كيف ستشعر إذا دعاك أصدقاؤك إلى رحلة؟	joy	فرح	positive	إيجابي
+How would you feel if you received an unexpected visit from a distant relative?	كيف ستشعر إذا تلقيت زيارة غير متوقعة من أحد أقاربك البعيدين؟	anger	غضب	negative	سلبي
+How would you feel if you were the only person not invited to a friend's wedding?	كيف ستشعر لو كنت الشخص الوحيد غير المدعو لحضور حفل زفاف صديقك؟	sadness	حزن	negative	سلبي
+How would you feel if a guest arrived at your home without bringing any gift?	كيف ستشعر إذا جاء ضيف إلى منزلك دون أن يحضر معه أي هدية؟	neutral	محايد	neutral	حيادي
+How would you feel if someone openly criticized your family during a social gathering?	كيف ستشعر إذا قام شخص ما بانتقاد عائلتك بشكل علني خلال تجمع اجتماعي؟	neutral	محايد	neutral	حيادي
+How would you feel if you were invited to a wedding but could not attend due to a scheduling conflict?	كيف ستشعر إذا تمت دعوتك لحضور حفل زفاف ولكن لم تتمكن من الحضور بسبب تعارض في الجدول الزمني؟	guilt	ذنب	negative	سلبي
+How would you feel if you invited your friend to your wedding but could not attend due to a scheduling conflict?	كيف ستشعر إذا قمت بدعوة صديقك لحضور حفل زفافك ولكنك لم تتمكن من الحضور بسبب تعارض في الجدول الزمني؟	neutral	محايد	neutral	حيادي
+How would you feel when someone you do not know paid for your meal in a restaurant?	كيف ستشعر عندما يقوم شخص لا تعرفه بدفع ثمن وجبتك في مطعم؟	guilt	ذنب	negative	سلبي
+How would you feel if a friend offered to pay for your meal in a restaurant?	كيف ستشعر إذا عرض عليك أحد الأصدقاء دفع ثمن وجبتك في مطعم؟	neutral	محايد	neutral	حيادي
+How would you feel if asked to share your opinion on a political issue in a public setting?	كيف ستشعر إذا طلب منك مشاركة رأيك حول قضية سياسية في مكان عام؟	fear	خوف	negative	سلبي
+How would you feel if a family member insisted on discussing your personal life in front of others?	كيف ستشعر إذا أصر أحد أفراد عائلتك على مناقشة حياتك الشخصية أمام الآخرين؟	anger	غضب	negative	سلبي
+How would you feel if you received a marriage proposal from someone you did not know?	كيف ستشعر إذا تلقيت عرض زواج من شخص لا تعرفه؟	neutral	محايد	neutral	حيادي
+How would you feel if a close friend did not invite you to their family celebration?	كيف ستشعر إذا لم يقم أحد أصدقائك المقربين بدعوتك إلى احتفاله العائلي؟	neutral	محايد	neutral	حيادي
+How would you feel if you expected to participate in a group prayer before a meal?	كيف ستشعر لو كنت تتوقع المشاركة في صلاة جماعية قبل تناول الطعام؟	neutral	محايد	neutral	حيادي
+How would you feel if your child desired to marry someone from a different country?	كيف ستشعر لو أراد طفلك الزواج من شخص من بلد آخر؟	neutral	محايد	neutral	حيادي
+How would you feel if your child expressed a desire to marry someone from a different religion?	كيف ستشعر إذا أبدى طفلك رغبته في الزواج من شخص من دين مختلف؟	anger	غضب	negative	سلبي
+How would you feel if your child desired to marry someone from your close relative?	كيف ستشعر لو أراد طفلك الزواج من أحد أقاربك المقربين؟	anger	غضب	negative	سلبي
+How would you feel if your child expressed a desire to marry someone from a different cultural background?	كيف ستشعر إذا أعرب طفلك عن رغبته في الزواج من شخص من خلفية ثقافية مختلفة؟	neutral	محايد	neutral	حيادي
+How would you feel if a neighbor played a song loudly during a religious ceremony day?	كيف ستشعر إذا قام أحد جيرانك بتشغيل أغنية بصوت عالٍ أثناء يوم احتفال ديني؟	anger	غضب	negative	سلبي
+How would you feel about being asked to greet everyone at a family gathering with a kiss on the cheek?	ما هو شعورك إذا طلب منك تحية الجميع في تجمع عائلي بقبلة على الخد؟	anger	غضب	negative	سلبي
+How would you feel if a guest arrived at your home without appropriate attire?	كيف ستشعر إذا جاء ضيف إلى منزلك دون ملابس مناسبة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone kissed you on the cheek that you did not know before?	كيف ستشعر إذا قبلك شخص على الخد لم تعرفه من قبل؟	anger	غضب	negative	سلبي
+How would you feel pressured to accept a marriage proposal from a relative you barely know?	كيف ستشعر بالضغط لقبول عرض الزواج من قريب لا تعرفه إلا بالكاد؟	anger	غضب	negative	سلبي
+How would you feel if your parents insisted on choosing your career path for you?	كيف ستشعر لو أصر والدتك على اختيار مسار حياتك المهنية لك؟	anger	غضب	negative	سلبي
+How would you feel if are being criticized for not adhering to traditional gender roles in your profession?	كيف ستشعر إذا تعرضت للنقد بسبب عدم الالتزام بالأدوار الجنسانية التقليدية في مهنتك؟	anger	غضب	negative	سلبي
+How would you feel if a family member insisted on discussing your relationships in front of others?	كيف ستشعر إذا أصر أحد أفراد عائلتك على مناقشة علاقاتك أمام الآخرين؟	anger	غضب	negative	سلبي
+How would you feel if a close friend shared personal information about you without your consent in a social setting?	كيف ستشعر إذا قام أحد الأصدقاء المقربين بمشاركة معلومات شخصية عنك دون موافقتك في مكان اجتماعي؟	anger	غضب	negative	سلبي
+How would you feel if your family disapproved of your choice of friends based on their backgrounds?	كيف ستشعر إذا كانت عائلتك لا توافق على اختيارك للأصدقاء بناءً على خلفياتهم؟	neutral	محايد	neutral	حيادي
+How would you feel if your family expected you to prioritize family obligations over personal aspirations?	كيف ستشعر إذا كانت عائلتك تتوقع منك إعطاء الأولوية لالتزاماتك العائلية على التطلعات الشخصية؟	neutral	محايد	neutral	حيادي
+How would you feel if someone touched or shook hands with you while you were of the opposite sex?	كيف ستشعر إذا لمستك أو صافحك شخص ما وأنت من الجنس الآخر؟	neutral	محايد	neutral	حيادي
+How would you feel if someone made direct eye contact with you for a long time?	كيف ستشعر إذا قام شخص ما بالاتصال البصري المباشر معك لفترة طويلة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone offered you food or a drink using their left hand?	كيف ستشعر إذا عرض عليك شخص ما طعامًا أو مشروبًا باستخدام يده اليسرى؟	neutral	محايد	neutral	حيادي
+How would you feel if a friend wore shorts or revealing clothing while visiting your home?	كيف ستشعر إذا ارتدى أحد أصدقائك شورتًا أو ملابسًا مكشوفة أثناء زيارته لمنزلك؟	neutral	محايد	neutral	حيادي
+How would you feel if a couple showed affection in public, such as kissing?	كيف ستشعر إذا أظهر الزوجان المودة في الأماكن العامة، مثل التقبيل؟	anger	غضب	negative	سلبي
+How would you feel if someone made jokes about sex during a mixed-gender gathering?	كيف ستشعر إذا أطلق شخص ما نكاتًا حول الجنس أثناء تجمع مختلط بين الجنسين؟	anger	غضب	negative	سلبي
+How would you feel if someone pointed directly at you with their index finger while speaking?	كيف ستشعر إذا أشار إليك شخص بإصبعه السبابة مباشرة أثناء التحدث؟	anger	غضب	negative	سلبي
+How would you feel if someone accidentally stepped on or pointed the soles of their feet toward you?	كيف ستشعر إذا قام شخص ما بالدوس عليك أو توجيه باطن قدميه نحوك عن طريق الخطأ؟	neutral	محايد	neutral	حيادي
+How would you feel if someone took a photo of you without your permission?	كيف ستشعر إذا قام شخص ما بالتقاط صورة لك دون إذنك؟	anger	غضب	negative	سلبي
+How would you feel if someone questioned your religious beliefs or practices in a social setting?	كيف ستشعر إذا شكك شخص ما في معتقداتك أو ممارساتك الدينية في مكان اجتماعي؟	anger	غضب	negative	سلبي
+How would you feel if a friend openly criticized the religious leaders in your presence?	كيف ستشعر لو أن أحد أصدقائك انتقد الزعماء الدينيين بشكل علني في حضورك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone rushed through a conversation without engaging in customary pleasantries first?	كيف ستشعر إذا اندفع شخص ما في المحادثة دون الدخول في المجاملات المعتادة أولاً؟	neutral	محايد	neutral	حيادي
+How would you feel if a friend admired your possessions and made you feel obligated to offer them as a gift?	كيف ستشعر إذا أعجب أحد الأصدقاء بممتلكاتك وجعلك تشعر بالالتزام بتقديمها كهدية؟	anger	غضب	negative	سلبي
+How would you feel about being asked to sit in a lower position than others during a physical meeting?	كيف ستشعر إذا طُلب منك الجلوس في وضع أقل من الآخرين أثناء اجتماع فعلي؟	neutral	محايد	neutral	حيادي
+How would you feel about being asked to sit in a lower position than others during a physical meeting to avoid using your left hand for eating?	ما هو شعورك إذا طُلب منك الجلوس في وضع أقل من الآخرين أثناء اجتماع فعلي لتجنب استخدام يدك اليسرى لتناول الطعام؟	neutral	محايد	neutral	حيادي
+How would you feel about being expected to always walk behind elders or those of higher status?	كيف ستشعر إذا كان من المتوقع منك أن تمشي دائمًا خلف كبار السن أو ذوي المكانة الأعلى؟	fear	خوف	negative	سلبي
+How would you feel about being expected to avoid making direct eye contact with members of the opposite sex?	ما هو شعورك إذا كان من المتوقع منك تجنب التواصل البصري المباشر مع أفراد الجنس الآخر؟	neutral	محايد	neutral	حيادي
+How would you feel about being expected to avoid criticizing anything related to the country or its leaders?	ما هو شعورك إذا كان من المتوقع منك تجنب انتقاد أي شيء يتعلق بالبلاد أو قادتها؟	anger	غضب	negative	سلبي
+How would you feel if you were expected always to be hospitable and generous to strangers?	كيف ستشعر لو كان من المتوقع منك دائمًا أن تكون مضيافًا وكريمًا مع الغرباء؟	neutral	محايد	neutral	حيادي
+How would you feel when you were required to cover your shoulders and knees	كيف ستشعر عندما يطلب منك تغطية كتفيك وركبتيك؟	neutral	محايد	neutral	حيادي
+How would you feel about being expected to touch their feet as a sign of respect?	كيف ستشعر إذا كان من المتوقع منك أن تلمس أقدامهم كعلامة على الاحترام؟	anger	غضب	negative	سلبي
+"How would you feel about being expected to call older adults ""Aunty"" or ""Uncle,"" regardless of whether you know them?"	"ما هو شعورك إذا كان من المتوقع منك أن تنادي كبار السن بـ ""العمة"" أو ""العم""، بغض النظر عما إذا كنت تعرفهم أم لا؟"	neutral	محايد	neutral	حيادي
+How would you feel about being instructed to only eat with your right hand when eating with others?	ما هو شعورك إذا تم توجيهك بتناول الطعام باليد اليمنى فقط عند تناول الطعام مع الآخرين؟	neutral	محايد	neutral	حيادي
+How would you feel about being asked to eat before you only when eating with others?	ما هو شعورك إذا طلب منك تناول الطعام أمامك فقط عند تناول الطعام مع الآخرين؟	neutral	محايد	neutral	حيادي
+how would you feel when you are ordered to sit on the floor and not elevate yourself above elders	كيف ستشعر عندما يُطلب منك الجلوس على الأرض وعدم رفع نفسك فوق الكبار؟	neutral	محايد	neutral	حيادي
+How would you feel when ordered to eat in a standard dish?	كيف ستشعر عندما يُطلب منك تناول الطعام في طبق قياسي؟	neutral	محايد	neutral	حيادي
+How would you feel when ordered to eat small, small, and slowly in a standard dish?	كيف ستشعر عندما يُطلب منك تناول كميات صغيرة، صغيرة، وببطء في طبق قياسي؟	neutral	محايد	neutral	حيادي
+How would you feel about being expected to address everyone with their formal titles and surnames?	ما هو شعورك إذا كان من المتوقع منك أن تخاطب الجميع بألقابهم وألقابهم الرسمية؟	neutral	محايد	neutral	حيادي
+How would you feel about being expected to avoid topics related to sex or relationships?	كيف ستشعر إذا كان من المتوقع منك تجنب المواضيع المتعلقة بالجنس أو العلاقات؟	neutral	محايد	neutral	حيادي
+How would you feel about being expected to remain silent while elders speak, regardless of your opinion?	ما هو شعورك إذا كان من المتوقع منك أن تبقى صامتًا بينما يتحدث كبار السن، بغض النظر عن رأيك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone bargained for your prices?	كيف ستشعر إذا قام شخص ما بالمساومة على أسعارك؟	neutral	محايد	neutral	حيادي
+How would you feel about being warned against expressing dissenting opinions when discussing politics?	ما هو شعورك إذا تم تحذيرك من التعبير عن آراء مخالفة عند مناقشة السياسة؟	neutral	محايد	neutral	حيادي
+When you attend a cultural event, how would you feel about being invited to participate in traditional rituals regardless of your beliefs?	عندما تحضر حدثًا ثقافيًا، كيف ستشعر حيال تلقي دعوة للمشاركة في الطقوس التقليدية بغض النظر عن معتقداتك؟	neutral	محايد	neutral	حيادي
+How would you feel when offering food if someone refused the first offer as a sign of humility?	كيف ستشعر عندما تقدم الطعام لشخص رفض العرض الأول كعلامة على التواضع؟	neutral	محايد	neutral	حيادي
+When you are at a wedding, how would you feel if you were required to dress in traditional attire?	عندما تكون في حفل زفاف، كيف ستشعر إذا طُلب منك ارتداء الملابس التقليدية؟	neutral	محايد	neutral	حيادي
+How would you feel about being told to avoid discussing politics or religion when conversing?	ما هو شعورك إذا قيل لك أن تتجنب مناقشة السياسة أو الدين عند المحادثة؟	neutral	محايد	neutral	حيادي
+How would you feel about being expected to greet everyone you meet, regardless of familiarity?	كيف ستشعر إذا كان من المتوقع منك أن تحيي كل شخص تقابله، بغض النظر عن مدى الألفة؟	neutral	محايد	neutral	حيادي
+How would you feel about being ordered to keep the conversation private and not share details outside the family?	ما هو شعورك إذا صدر أمر لك بالحفاظ على خصوصية المحادثة وعدم مشاركة التفاصيل خارج نطاق العائلة؟	neutral	محايد	neutral	حيادي
+How would you feel when someone cheek-to-cheek kisses your wife/husband?	كيف ستشعر عندما يقوم شخص ما بتقبيل زوجتك/زوجك من الخد إلى الخد؟	anger	غضب	negative	سلبي
+When invited to a family gathering, how would you feel about being expected to arrive late?	عندما تتم دعوتك إلى تجمع عائلي، كيف ستشعر إذا كان من المتوقع أن تصل متأخرًا؟	neutral	محايد	neutral	حيادي
+When you are at a meal, how would you feel about being told to wait for the host to say start before starting to eat?	عندما تكون في وجبة طعام، كيف ستشعر إذا قيل لك أن تنتظر حتى يقول المضيف ابدأ قبل البدء في الأكل؟	neutral	محايد	neutral	حيادي
+When you are at a wedding, how would you feel about being expected to dance with multiple partners throughout the night?	عندما تكون في حفل زفاف، كيف ستشعر عندما يُتوقع منك أن ترقص مع شركاء متعددين طوال الليل؟	anger	غضب	negative	سلبي
+When dining with others, how would you feel about being expected to keep not scrolling your phone?	عندما تتناول الطعام مع الآخرين، كيف ستشعر إذا كان من المتوقع منك عدم التمرير على هاتفك؟	anger	غضب	negative	سلبي
+When dining with others, how would you feel about being expected to always keep both hands visible above the table?	عندما تتناول الطعام مع الآخرين، كيف ستشعر إذا كان من المتوقع منك أن تبقي يديك دائمًا ظاهرة فوق الطاولة؟	neutral	محايد	neutral	حيادي
+When attending a religious ceremony, how would you feel if you were required to dress modestly and respectfully?	عندما تحضر حفلًا دينيًا، كيف ستشعر إذا طُلب منك ارتداء ملابس محتشمة ومحترمة؟	neutral	محايد	neutral	حيادي
+When you are at a gathering, how would you feel about being expected to stay and socialize long after the meal?	عندما تكون في تجمع، كيف ستشعر بشأن توقع بقائك والتواصل الاجتماعي لفترة طويلة بعد تناول الوجبة؟	neutral	محايد	neutral	حيادي
+When invited to dinner, how would you feel about being told that it is customary to eat dessert before the main course rather than after?	عندما تتم دعوتك لتناول العشاء، كيف ستشعر إذا قيل لك أنه من المعتاد تناول الحلوى قبل الطبق الرئيسي وليس بعده؟	neutral	محايد	neutral	حيادي
+When invited to dinner, how would you feel about being told that it is customary to eat dessert after the main course rather than before?	عندما تتم دعوتك لتناول العشاء، كيف ستشعر إذا قيل لك أنه من المعتاد تناول الحلوى بعد الطبق الرئيسي وليس قبله؟	neutral	محايد	neutral	حيادي
+When you are at a celebration, how would you feel about being expected to participate in traditional rituals, such as lighting candles or making offerings?	عندما تكون في احتفال، كيف ستشعر بشأن توقع مشاركتك في الطقوس التقليدية، مثل إضاءة الشموع أو تقديم القرابين؟	neutral	محايد	neutral	حيادي
+How would you feel when a female wears jeans and T-shirts to school	كيف ستشعر عندما ترتدي فتاة الجينز والقمصان إلى المدرسة؟	neutral	محايد	neutral	حيادي
+How would you feel when you use informal language and first names when addressing teachers, professors, or supervisors	كيف ستشعر عندما تستخدم لغة غير رسمية وأسماء أولى عند مخاطبة المعلمين أو الأساتذة أو المشرفين؟	guilt	ذنب	negative	سلبي
+How would you feel when you did not tip when dining out or receiving certain services?	كيف ستشعر عندما لا تدفع إكرامية عند تناول الطعام خارج المنزل أو عند تلقي خدمات معينة؟	guilt	ذنب	negative	سلبي
+How do you feel when you have pets, such as dogs and cats, inside your home	كيف تشعر عندما يكون لديك حيوانات أليفة، مثل الكلاب والقطط، داخل منزلك	joy	فرح	positive	إيجابي
+How do you feel when you notice a friend not tipping generously at a restaurant?	كيف تشعر عندما تلاحظ أن صديقك لا يترك لك إكرامية سخية في المطعم؟	neutral	محايد	neutral	حيادي
+When someone brings their dog into your home, how do you feel?	عندما يحضر شخص ما كلبه إلى منزلك، كيف تشعر؟	anger	غضب	negative	سلبي
+How do you feel when a guest arrives late to your lunch invitation?	كيف تشعر عندما يتأخر الضيف عن حضور دعوتك لتناول الغداء؟	anger	غضب	negative	سلبي
+How do you feel when you expect to stand up to greet someone when they enter a room	كيف تشعر عندما تتوقع الوقوف لتحية شخص ما عندما يدخل الغرفة؟	neutral	محايد	neutral	حيادي
+When someone interrupts you while you’re speaking, how do you feel?	عندما يقاطعك شخص ما أثناء حديثك، كيف تشعر؟	anger	غضب	negative	سلبي
+How do you feel when a friend shares a personal story about your relationship in front of others?	كيف تشعر عندما يشاركك أحد الأصدقاء قصة شخصية عن علاقتك أمام الآخرين؟	anger	غضب	negative	سلبي
+How do you feel when you receive a casual invitation to a party without much notice?	كيف تشعر عندما تتلقى دعوة عادية لحضور حفلة دون سابق إنذار؟	neutral	محايد	neutral	حيادي
+How do you feel seeing someone eating in public without using utensils?	ما هو شعورك عندما ترى شخصًا يأكل في الأماكن العامة دون استخدام الأدوات؟	neutral	محايد	neutral	حيادي
+How do you feel when someone uses slang or informal language in a professional setting?	كيف تشعر عندما يستخدم شخص ما لغة عامية أو غير رسمية في بيئة مهنية؟	neutral	محايد	neutral	حيادي
+How do you feel when a stranger smiles and waves at you while passing by?	كيف تشعر عندما يبتسم لك شخص غريب ويلوح لك أثناء مروره؟	joy	فرح	positive	إيجابي
+How do you feel when someone shares a funny meme or video you find inappropriate?	كيف تشعر عندما يشارك شخص ما ميمًا أو مقطع فيديو مضحكًا تجده غير مناسب؟	anger	غضب	negative	سلبي
+How do you feel when someone offers you a piece of food without asking if you want it first?	كيف تشعر عندما يقدم لك شخص ما قطعة من الطعام دون أن يسألك إذا كنت تريدها أولاً؟	neutral	محايد	neutral	حيادي
+How do you feel when a coworker celebrates a personal achievement loudly in the office?	كيف تشعر عندما يحتفل زميل في العمل بإنجاز شخصي بصوت عالٍ في المكتب؟	neutral	محايد	neutral	حيادي
+How do you feel when a guest at your home helps themselves to food without asking?	كيف تشعر عندما يقوم ضيف منزلك بمساعدة نفسه بالطعام دون أن يطلب؟	joy	فرح	positive	إيجابي
+How do you feel when someone shares personal details about their life on social media?	كيف تشعر عندما يشارك شخص ما تفاصيل شخصية عن حياته على وسائل التواصل الاجتماعي؟	neutral	محايد	neutral	حيادي
+How do you feel when a colleague jokingly teases you about a mistake you made at work?	كيف تشعر عندما يسخر منك أحد زملائك مازحا بشأن خطأ ارتكبته في العمل؟	neutral	محايد	neutral	حيادي
+When you realize you've forgotten an important family event, how does that make you feel?	عندما تدرك أنك نسيت حدثًا عائليًا مهمًا، كيف تشعر عندئذ؟	guilt	ذنب	negative	سلبي
+When a colleague takes credit for your idea during a meeting, how does that make you feel?	عندما ينسب أحد زملائك الفضل إلى فكرتك أثناء الاجتماع، كيف تشعر بذلك؟	joy	فرح	positive	إيجابي
+How would you feel when you understood that you were admitted to the University?	كيف ستشعر عندما تعلم أنه تم قبولك في الجامعة؟	joy	فرح	positive	إيجابي
+How would you feel when you are alone in a dark room	كيف ستشعر عندما تكون وحدك في غرفة مظلمة؟	neutral	محايد	neutral	حيادي
+How would you feel when you walk alone on the street	كيف ستشعر عندما تمشي وحدك في الشارع؟	joy	فرح	positive	إيجابي
+How would you feel when you sleep alone in the room at night	كيف ستشعر عندما تنام وحدك في الغرفة ليلاً؟	neutral	محايد	neutral	حيادي
+When you are answering the wrong answer in the class, how would you feel	عندما تجيب على إجابة خاطئة في الفصل، كيف ستشعر؟	neutral	محايد	neutral	حيادي
+How would you feel when you brought a possible answer to a homework problem that was entirely inappropriate for the question?	كيف ستشعر عندما تقدم إجابة محتملة لمشكلة واجب منزلي غير مناسبة تمامًا للسؤال؟	neutral	محايد	neutral	حيادي
+How would you feel when your girlfriend appeared at home with a pair of rings for your wedding?	كيف ستشعر عندما تظهر صديقتك في المنزل مع زوج من الخواتم لحفل زفافك؟	neutral	محايد	neutral	حيادي
+How would you feel when your boyfriend appeared at home with a pair of rings for your wedding?	كيف ستشعرين عندما يظهر صديقك في المنزل مرتديًا زوجًا من الخواتم في حفل زفافك؟	neutral	محايد	neutral	حيادي
+How would you feel when you saw that your mother punished your little brother	كيف ستشعر عندما ترى أن والدتك عاقبت أخاك الصغير؟	neutral	محايد	neutral	حيادي
+how would you feel when you had cheated your parents that you had lost your textbooks so they had to send you money?	كيف ستشعر لو خدعت والديك بأن فقدت كتبك المدرسية حتى يرسلوا لك المال؟	guilt	ذنب	negative	سلبي
+When you go to a friend's wedding without a gift, how do you feel	عندما تذهب إلى حفل زفاف صديقك بدون هدية، كيف تشعر؟	guilt	ذنب	negative	سلبي
+You worked together with another student on a computer assignment. they didn't prepare themselves for it, and you expected to explain it; how do you feel	لقد عملت مع طالب آخر على مهمة كمبيوتر. لم يستعدوا لذلك، وتوقعت منهم أن يشرحوا ذلك؛ كيف تشعر؟	neutral	محايد	neutral	حيادي
+How would you feel when you pass through between many people	كيف ستشعر عندما تمر بين العديد من الناس	neutral	محايد	neutral	حيادي
+How would you feel when you see people abusing their body with drugs and alcohol	كيف ستشعر عندما ترى أشخاصًا يسيئون استخدام أجسادهم بالمخدرات والكحول؟	sadness	حزن	negative	سلبي
+How would you feel when your wife told you she is pregnant unknowingly	كيف ستشعر عندما تخبرك زوجتك بأنها حامل دون علمها؟	joy	فرح	positive	إيجابي
+How would you feel when your girlfriend spent time with another boyfriend	كيف ستشعر عندما تقضي صديقتك وقتًا مع صديق آخر	neutral	محايد	neutral	حيادي
+How would you feel when you escaped from communicating with God for a long time?	كيف ستشعر عندما تبتعد عن التواصل مع الله لفترة طويلة؟	sadness	حزن	negative	سلبي
+How would you feel when you are punished in school for a mistake?	كيف ستشعر عندما يتم معاقبتك في المدرسة بسبب خطأ؟	sadness	حزن	negative	سلبي
+How would you feel if you did not give back a textbook to a friend in time?	كيف ستشعر إذا لم ترجع الكتاب المدرسي لصديقك في الموعد المحدد؟	guilt	ذنب	negative	سلبي
+How would you feel when your friend did not give back a textbook to you in time?	كيف ستشعر عندما لا يعيد إليك صديقك الكتاب المدرسي في الموعد المحدد؟	neutral	محايد	neutral	حيادي
+How would you feel when you were insulted by a teacher in front of the class?	كيف ستشعر عندما يتم إهانتك من قبل المعلم أمام الفصل؟	neutral	محايد	neutral	حيادي
+How do you feel when your mother found some porno picture that you have kept in your wallet	كيف تشعر عندما تجد والدتك بعض الصور الإباحية التي كنت تحتفظ بها في محفظتك	guilt	ذنب	negative	سلبي
+How would you feel when your parents saw you with your girlfriend/boyfriend	كيف ستشعر عندما يراك والداك مع صديقتك/صديقك؟	neutral	محايد	neutral	حيادي
+How would you feel when your close friend had not contacted you for a long time?	كيف ستشعر عندما لا يتواصل معك صديقك المقرب لفترة طويلة؟	fear	خوف	negative	سلبي
+How would you feel when someone told you that he would stay at your home for one night and canceled the appointment	كيف ستشعر عندما يخبرك شخص ما أنه سيبقى في منزلك لليلة واحدة ويلغي الموعد؟	neutral	محايد	neutral	حيادي
+How would you feel if someone you loved left you without any explanation?	كيف ستشعر إذا تركك شخص تحبه دون أي تفسير؟	sadness	حزن	negative	سلبي
+How would you feel when you thought that you had committed a grave sin?	كيف تشعر عندما تظن أنك ارتكبت خطيئة عظيمة؟	guilt	ذنب	negative	سلبي
+How would you feel upon receiving the message that you have been accepted as a medical student?	كيف ستشعر عند تلقي رسالة تفيد بقبوك كطالب طب؟	joy	فرح	positive	إيجابي
+How would you feel when you were just to be divorced?	كيف ستشعر لو تم طلاقك للتو؟	sadness	حزن	negative	سلبي
+How would you feel when you meet an old friend from high school?	كيف ستشعر عندما تقابل صديقًا قديمًا من المدرسة الثانوية؟	joy	فرح	positive	إيجابي
+How would you feel when you were trying to have sex with your friend, but they did not agree to it?	كيف ستشعر عندما تحاول ممارسة الجنس مع صديقك، لكنه لم يوافق على ذلك؟	neutral	محايد	neutral	حيادي
+When your best friend suddenly acts strange towards you, how do you feel	عندما يتصرف صديقك المفضل فجأة بطريقة غريبة تجاهك، كيف تشعر؟	anger	غضب	negative	سلبي
+When you talk to someone and get no response, how do you feel	عندما تتحدث إلى شخص ما ولا تحصل على أي رد، كيف تشعر؟	anger	غضب	negative	سلبي
+How do you feel when you fail an exam for which you know, you have not studied hard enough?	كيف تشعر عندما تفشل في الامتحان الذي تعلم أنك لم تدرس له جيدا؟	sadness	حزن	negative	سلبي
+How would you feel when you fell deeply in love with a beautiful girl, and she returned your passion?	كيف ستشعر عندما تقع في حب فتاة جميلة بشدة، و تبادلك نفس الشغف؟	joy	فرح	positive	إيجابي
+How do you feel when you argue with your best friend and think you are right and your friend is not?	كيف تشعر عندما تتجادل مع صديقك المفضل وتعتقد أنك على حق وصديقك ليس كذلك؟	anger	غضب	negative	سلبي
+How did you feel when your roommate started imitating you, doing what you had done a few hours before?	كيف شعرت عندما بدأ زميلك في السكن بتقليدك، وفعل ما فعلته قبل ساعات قليلة؟	anger	غضب	negative	سلبي
+How would you feel when a plane caught in a storm and it began to shake	كيف ستشعر عندما تتعرض طائرة لعاصفة وتبدأ في الاهتزاز؟	fear	خوف	negative	سلبي
+How do you feel when asked to pay back money borrowed from others?	كيف تشعر عندما يطلب منك سداد الأموال المقترضة من الآخرين؟	neutral	محايد	neutral	حيادي
+When you were with your girlfriend/boyfriend, your mother came; how did you feel	عندما كنت مع صديقتك/حبيبك، جاءت والدتك؛ كيف شعرت؟	neutral	محايد	neutral	حيادي
+How would you feel when the taxi driver chose the longest route while driving	كيف ستشعر عندما يختار سائق التاكسي الطريق الأطول أثناء القيادة؟	fear	خوف	negative	سلبي
+How would you feel when you promised your friends that you would take care of something, but you kept forgetting about it	كيف ستشعر عندما وعدت أصدقاءك بأنك ستعتني بأمر ما، لكنك نسيته باستمرار؟	guilt	ذنب	negative	سلبي
+How do you feel when your contractor delivers your project one day after the scheduled date	كيف تشعر عندما يقوم المقاول بتسليم مشروعك بعد يوم واحد من الموعد المحدد؟	anger	غضب	negative	سلبي
+How would you feel when your friends arranged to go for an afternoon snack and they did not tell me	كيف ستشعر عندما يتفق أصدقاؤك على الذهاب لتناول وجبة خفيفة بعد الظهر ولم يخبروني؟	neutral	محايد	neutral	حيادي
+When you once went out with another boy/girl and made love with him/her while you had a close boyfriend, what would you feel	عندما خرجت ذات مرة مع شاب/فتاة أخرى ومارست الحب معه/معها بينما كان لديك صديق مقرب، ما الذي ستشعر به؟	guilt	ذنب	negative	سلبي
+How would you feel when a man spoke very sexistly in the workplace	كيف ستشعر عندما يتحدث رجل بطريقة جنسية للغاية في مكان العمل؟	anger	غضب	negative	سلبي
+How would you feel when you came across a rat	كيف ستشعر عندما تصادف فأرًا؟	fear	خوف	negative	سلبي
+How do you feel when you lend money to a friend, and he pays you back more than you originally loaned?	كيف تشعر عندما تقرض صديقك المال، ويسدد لك مبلغًا أكبر من المبلغ الأصلي الذي أقرضته؟	neutral	محايد	neutral	حيادي
+How would you feel when your ex-boyfriend/girlfriend didn't want to sleep with you anymore	كيف ستشعر عندما لا يرغب حبيبك/حبيبتك السابق/ة في النوم معك بعد الآن؟	anger	غضب	negative	سلبي
+How would you feel if you got good results in the field of academics?	كيف ستشعر إذا حصلت على نتائج جيدة في المجال الأكاديمي؟	joy	فرح	positive	إيجابي
+How would you feel when you are not well dressed in public	كيف ستشعر عندما لا ترتدي ملابس جيدة في الأماكن العامة؟	neutral	محايد	neutral	حيادي
+How would you feel when your friend canceled an appointment	كيف ستشعر عندما يلغي صديقك موعدًا؟	neutral	محايد	neutral	حيادي
+How would you feel if you attended a pop singer's concert?	كيف ستشعر إذا حضرت حفلًا لمغني بوب؟	joy	فرح	positive	إيجابي
+How would you feel when someone chased you from his house?	كيف ستشعر عندما يطردك أحدهم من منزله؟	anger	غضب	negative	سلبي
+How would you feel when you wear a slit-tight dress at a disco	كيف ستشعرين عندما ترتدين فستانًا ضيقًا في الديسكو؟	neutral	محايد	neutral	حيادي
+How would you feel when your friend called you while you were praying	كيف ستشعر عندما يتصل بك صديقك وأنت تصلي؟	neutral	محايد	neutral	حيادي
+How would you feel when your brother's wife told you that you had some bad manners	كيف ستشعر عندما تخبرك زوجة أخيك أنك سيئ الأخلاق؟	anger	غضب	negative	سلبي
+How would you feel when someone greets your little girl	كيف ستشعر عندما يحيي شخص ما ابنتك الصغيرة؟	neutral	محايد	neutral	حيادي
+How would you feel when kissed by somebody that didn't expect to	كيف ستشعر عندما يقبلك شخص لم يكن يتوقع ذلك؟	anger	غضب	negative	سلبي
+How would you feel when you told a lie to reconcile two broken friends	كيف ستشعر عندما تكذب من أجل المصالحة بين صديقين مكسورين؟	neutral	محايد	neutral	حيادي
+How would you feel when someone spitting around you	كيف ستشعر عندما يبصق شخص ما حولك؟	anger	غضب	negative	سلبي
+How would you feel when you are being insulted in public?	كيف تشعر عندما يتم إهانتك في الأماكن العامة؟	anger	غضب	negative	سلبي
+How would you feel when you started your food before father and mother start	كيف ستشعر عندما تبدأ في إعداد طعامك قبل أن يبدأ والدك ووالدتك؟	neutral	محايد	neutral	حيادي
+How would you feel when you start food to eat without praying	كيف ستشعر عندما تبدأ في تناول الطعام دون الصلاة؟	neutral	محايد	neutral	حيادي
+How would you feel when someone invited you to join his religion	كيف ستشعر عندما يدعوك أحد للانضمام إلى دينه؟	neutral	محايد	neutral	حيادي
+How would you feel when you insult an older adult for no reason?	كيف ستشعر عندما تهين شخصًا أكبر سنًا بدون سبب؟	sadness	حزن	negative	سلبي
+How would you feel when your mother slapped you in the face	كيف ستشعر عندما تصفعك والدتك على وجهك؟	sadness	حزن	negative	سلبي
+What do you feel when criticized in front of your class	ماذا تشعر عندما يتم انتقادك أمام صفك؟	sadness	حزن	negative	سلبي
+How would you feel when you are not dressed appropriately for the occasion?	كيف ستشعر عندما لا ترتدي ملابس مناسبة لهذه المناسبة؟	neutral	محايد	neutral	حيادي
+How would you feel when you laugh loudly in public, which is considered rude?	كيف تشعر عندما تضحك بصوت عالي في الأماكن العامة، وهو ما يعتبر وقحًا؟	guilt	ذنب	negative	سلبي
+How would you feel If someone offered to pay for your food or shopping?	كيف ستشعر إذا عرض عليك شخص ما أن يدفع ثمن طعامك أو التسوق؟	neutral	محايد	neutral	حيادي
+How would you feel if you received a gift and the giver insisted you open it immediately?	كيف ستشعر إذا تلقيت هدية وأصر الشخص الذي أعطاك إياها على فتحها على الفور؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn't remove their shoes before entering your home?	كيف ستشعر إذا لم يخلع أحد حذائه قبل الدخول إلى منزلك؟	anger	غضب	negative	سلبي
+How would you feel if you saw a couple holding hands in public?	كيف ستشعر إذا رأيت زوجين يمسكان أيدي بعضهما في مكان عام؟	neutral	محايد	neutral	حيادي
+How would you feel if a woman wore sleeveless clothes in public?	كيف ستشعر إذا ارتدت امرأة ملابس بلا أكمام في الأماكن العامة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone offered you food during fasting while you were fasting?	ماذا تشعر لو قدم لك أحد الطعام أثناء صيامك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone called an elder by their first name without a title?	كيف ستشعر إذا قام شخص ما بمناداة شيخ باسمه الأول دون لقب؟	neutral	محايد	neutral	حيادي
+How would you feel if someone criticized the country's leaders in a public gathering?	كيف ستشعر لو أن أحداً انتقد زعماء البلاد في تجمع عام؟	neutral	محايد	neutral	حيادي
+"How would you feel if someone didn't greet you with ""Assalamu Alaikum""?"	"كيف ستشعر إذا لم يحييك أحد بقوله ""السلام عليكم""؟"	neutral	محايد	neutral	حيادي
+How would you feel if someone served you tea in a chipped cup?	كيف ستشعر إذا قدم لك أحدهم الشاي في كوب مكسور؟	fear	خوف	negative	سلبي
+How would you feel if a guest left your home without eating anything?	كيف ستشعر إذا غادر الضيف منزلك دون أن يأكل أي شيء؟	sadness	حزن	negative	سلبي
+How would you feel if someone talked about arranged marriages in your presence?	كيف ستشعر إذا تحدث شخص ما في حضورك عن الزواج المدبر؟	neutral	محايد	neutral	حيادي
+How would you feel if someone commented on your religious practices in public?	كيف ستشعر إذا علق أحد على ممارساتك الدينية في الأماكن العامة؟	anger	غضب	negative	سلبي
+How would you feel if your friend didn't stand up when an elder entered the room?	كيف ستشعر إذا لم يقف صديقك عندما يدخل شخص كبير في السن الغرفة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone brought their dog to a family gathering?	كيف ستشعر إذا أحضر شخص ما كلبه إلى تجمع عائلي؟	anger	غضب	negative	سلبي
+How would you feel seeing someone eating with their left hand in public?	كيف ستشعر عندما ترى شخصًا يأكل بيده اليسرى في الأماكن العامة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn't offer their seat to an older adult on public transport?	كيف ستشعر إذا لم يقدم أحد مقعده لشخص بالغ أكبر سنًا في وسائل النقل العام؟	neutral	محايد	neutral	حيادي
+How would you feel if a woman participated in a heated political debate in public?	كيف ستشعر لو شاركت امرأة في نقاش سياسي ساخن في العلن؟	neutral	محايد	neutral	حيادي
+How would you feel if someone refused to eat the prasad offered at a temple?	كيف ستشعر إذا رفض شخص تناول الطعام المقدم في المعبد؟	neutral	محايد	neutral	حيادي
+How would you feel if someone wore black to a wedding?	كيف ستشعر إذا ارتدى شخص ما اللون الأسود في حفل زفاف؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn't touch the feet of elders as a sign of respect?	ماذا ستشعر إذا لم يلمس أحد أقدام كبار السن كعلامة على الاحترام؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn't remove their shoes before entering a temple?	كيف ستشعر إذا لم يخلع أحد حذائه قبل دخول المعبد؟	anger	غضب	negative	سلبي
+How would you feel if someone used their left hand to pass food at a meal?	كيف ستشعر إذا استخدم شخص ما يده اليسرى لتمرير الطعام أثناء الوجبة؟	neutral	محايد	neutral	حيادي
+How would you feel if you saw a woman smoking in public?	كيف ستشعر إذا رأيت امرأة تدخن في الأماكن العامة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone interrupted you during a conversation with an elder?	كيف ستشعر إذا قاطعك أحد أثناء حديثك مع أحد كبار السن؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn't invite the entire extended family to a wedding?	كيف ستشعر إذا لم يقم أحد بدعوة العائلة بأكملها لحضور حفل زفاف؟	neutral	محايد	neutral	حيادي
+How would you feel if someone ate beef in your presence?	كيف ستشعر إذا أكل شخص لحم البقر في حضورك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn't wash their hands before eating?	كيف ستشعر إذا لم يغسل أحد يديه قبل الأكل؟	anger	غضب	negative	سلبي
+How do you feel if someone licks their hand after eating?	كيف تشعر إذا قام شخص ما بلعق يدك بعد الأكل؟	anger	غضب	negative	سلبي
+How would you feel if someone wore revealing clothes at a religious ceremony?	كيف ستشعر إذا ارتدى شخص ملابس كاشفة في حفل ديني؟	anger	غضب	negative	سلبي
+How would you feel if someone didn't offer water to a guest as soon as they arrived?	كيف ستشعر إذا لم يقدم أحد الماء للضيف بمجرد وصوله؟	neutral	محايد	neutral	حيادي
+How would you feel if someone publicly discussed their sex life?	كيف ستشعر إذا ناقش شخص ما حياته الجنسية علنًا؟	anger	غضب	negative	سلبي
+How would you feel if someone refused to participate in a traditional dance at a festival?	كيف ستشعر إذا رفض شخص المشاركة في رقصة تقليدية في المهرجان؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn't give you a proper goodbye when leaving your home?	كيف ستشعر إذا لم يودعك أحد بشكل لائق عند مغادرة منزلك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone refused to share their food with you at a communal meal?	كيف ستشعر إذا رفض شخص ما مشاركة طعامه معك في وجبة مشتركة؟	neutral	محايد	neutral	حيادي
+How would you feel if you saw a woman not to cover hair while entering a religious place?	ماذا ستشعر لو رأيت امرأة لا تغطي شعرها عند دخولها مكانا دينيا؟	anger	غضب	negative	سلبي
+How would you feel when a guest leaves food on their plate at your home?	كيف ستشعر عندما يترك الضيف طعامًا على طبقه في منزلك؟	anger	غضب	negative	سلبي
+How would you feel when someone criticizes the way you dress?	كيف ستشعر عندما ينتقد شخص ما طريقة لباسك؟	neutral	محايد	neutral	حيادي
+How would you feel when you are expected to avoid discussing financial matters in public?	كيف ستشعر عندما يطلب منك تجنب مناقشة الأمور المالية في الأماكن العامة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone visited your home without prior notice?	كيف ستشعر إذا قام شخص ما بزيارة منزلك دون سابق إنذار؟	neutral	محايد	neutral	حيادي
+How would you feel when someone asks about your marital status in a social setting?	كيف تشعر عندما يسألك أحد عن حالتك الزوجية في مكان اجتماعي؟	neutral	محايد	neutral	حيادي
+How would you feel when you see a man and woman shaking hands in a formal setting?	كيف ستشعر عندما ترى رجلاً وامرأة يتصافحان في مناسبة رسمية؟	neutral	محايد	neutral	حيادي
+How do you feel when you see women kiss each other on the lips?	ما هو شعورك عندما ترى النساء يقبلن بعضهن البعض على الشفاه؟	anger	غضب	negative	سلبي
+How would you feel when someone brings alcohol to a family gathering?	كيف ستشعر عندما يحضر شخص ما الكحول إلى تجمع عائلي؟	anger	غضب	negative	سلبي
+How would you feel when you expect to eat everything served on your plate?	كيف ستشعر عندما تتوقع أن تأكل كل ما يوضع في طبقك؟	neutral	محايد	neutral	حيادي
+How would you feel when you hear loudspeakers from religious places early in the morning?	كيف تشعر عندما تسمع مكبرات الصوت من الأماكن الدينية في الصباح الباكر؟	joy	فرح	positive	إيجابي
+How would you feel when forced to give and receive items with your right hand?	كيف ستشعر عندما تُجبر على إعطاء واستقبال الأشياء بيدك اليمنى؟	neutral	محايد	neutral	حيادي
+How would you feel when you expect to refrain from discussing taboo topics such as sex or politics?	كيف ستشعر عندما تتوقع أن تمتنع عن مناقشة المواضيع المحظورة مثل الجنس أو السياسة؟	neutral	محايد	neutral	حيادي
+How do you feel about dressing modestly when visiting rural areas?	ما هو شعورك بشأن ارتداء ملابس محتشمة عند زيارة المناطق الريفية؟	joy	فرح	positive	إيجابي
+How would you feel when you expect to remove your shoes before entering someone's home?	كيف ستشعر عندما تتوقع أن تخلع حذائك قبل الدخول إلى منزل شخص ما؟	neutral	محايد	neutral	حيادي
+How would you feel when you expected to wait for the eldest person to start eating before you begin?	كيف ستشعر عندما تتوقع أن تنتظر الشخص الأكبر سناً ليبدأ في الأكل قبل أن تبدأ أنت؟	neutral	محايد	neutral	حيادي
+How would you feel when you see someone publicly criticizing their parents?	كيف ستشعر عندما ترى شخصًا ينتقد والديه علنًا؟	neutral	محايد	neutral	حيادي
+How would you feel when you expect to attend family functions, even if you are busy?	كيف ستشعر عندما تتوقع حضور المناسبات العائلية، حتى لو كنت مشغولاً؟	neutral	محايد	neutral	حيادي
+How would you feel when someone insists on feeding you with their hands during a meal?	كيف ستشعر عندما يصر شخص ما على إطعامك بيديه أثناء تناول الطعام؟	fear	خوف	negative	سلبي
+How would you feel when expected to avoid wearing revealing clothes at family gatherings?	كيف ستشعر عندما يُطلب منك تجنب ارتداء الملابس الكاشفة في التجمعات العائلية؟	neutral	محايد	neutral	حيادي
+How would you feel when someone asks about your caste or religious background?	كيف ستشعر عندما يسألك أحدهم عن طبقتك أو خلفيتك الدينية؟	neutral	محايد	neutral	حيادي
+How would you feel when you expect to offer sweets to guests during festivals?	كيف ستشعر عندما تتوقع أن تقدم الحلويات للضيوف خلال المهرجانات؟	neutral	محايد	neutral	حيادي
+How would you feel seeing children addressing their parents with formal titles rather than their names?	كيف ستشعر عندما ترى أطفالاً يخاطبون والديهم بألقاب رسمية بدلاً من أسمائهم؟	neutral	محايد	neutral	حيادي
+How would you feel when you are expected not to wear black clothes during happy occasions?	كيف ستشعر عندما يطلب منك عدم ارتداء الملابس السوداء في المناسبات السعيدة؟	neutral	محايد	neutral	حيادي
+How would you feel when you see someone speaking loudly on their phone in public places?	كيف ستشعر عندما ترى شخصًا يتحدث بصوت عالٍ على هاتفه في الأماكن العامة؟	anger	غضب	negative	سلبي
+How would you feel when you see a man and woman sitting close to each other in public?	كيف ستشعر عندما ترى رجلاً وامرأة يجلسان بالقرب من بعضهما البعض في الأماكن العامة؟	neutral	محايد	neutral	حيادي
+How would you feel when you see someone criticizing the government openly in a public space?	كيف ستشعر عندما ترى شخصًا ينتقد الحكومة بشكل علني في مكان عام؟	neutral	محايد	neutral	حيادي
+How would you feel seeing someone dressed in traditional attire at a modern event?	كيف ستشعر عندما ترى شخصًا يرتدي ملابس تقليدية في حدث حديث؟	neutral	محايد	neutral	حيادي
+How would you feel when you expect to accept food or drink even if you are not hungry or thirsty?	كيف ستشعر عندما تتوقع أن تقبل الطعام أو الشراب حتى لو لم تكن جائعًا أو عطشانًا؟	neutral	محايد	neutral	حيادي
+How would you feel when someone asks about your salary or income at a social gathering?	كيف ستشعر عندما يسألك أحد عن راتبك أو دخلك في مناسبة اجتماعية؟	anger	غضب	negative	سلبي
+How would you feel when you see people avoiding eye contact as a sign of respect?	كيف ستشعر عندما ترى الناس يتجنبون التواصل البصري كعلامة على الاحترام؟	neutral	محايد	neutral	حيادي
+How would you feel when you expect to touch elders' feet during special occasions?	كيف ستشعر عندما تتوقع أن تلمس أقدام كبار السن في المناسبات الخاصة؟	anger	غضب	negative	سلبي
+How would you feel when you see someone spitting in public places?	كيف ستشعر عندما ترى شخصًا يبصق في الأماكن العامة؟	anger	غضب	negative	سلبي
+How would you feel when you see someone sitting cross-legged in front of elders?	كيف تشعر عندما ترى شخصًا يجلس متربعًا أمام كبار السن؟	neutral	محايد	neutral	حيادي
+How would you feel when you see someone ignoring traditional greetings in favor of modern ones?	كيف ستشعر عندما ترى شخصًا يتجاهل التحية التقليدية لصالح التحية الحديثة؟	neutral	محايد	neutral	حيادي
+How would you feel when you expect to eat with your hands rather than using cutlery?	كيف ستشعر عندما تتوقع أن تأكل بيديك بدلاً من استخدام أدوات المائدة؟	anger	غضب	negative	سلبي
+How would you feel when you see women avoiding physical contact with men in public?	كيف ستشعر عندما ترى النساء يتجنبن الاتصال الجسدي مع الرجال في الأماكن العامة؟	neutral	محايد	neutral	حيادي
+How would you feel when you see men avoiding wearing shorts in public?	كيف ستشعر عندما ترى الرجال يتجنبون ارتداء السراويل القصيرة في الأماكن العامة؟	neutral	محايد	neutral	حيادي
+How would you feel when you see people greeting each other with cheek kisses?	كيف ستشعر عندما ترى الناس يحيون بعضهم البعض بقبلات الخد؟	neutral	محايد	neutral	حيادي
+How would you feel when you expect to remove your shoes before entering a home?	كيف ستشعر عندما تتوقع أن تخلع حذائك قبل الدخول إلى المنزل؟	neutral	محايد	neutral	حيادي
+How would you feel when greeting elders when you see people touching their forehead and chin?	كيف تشعر عندما تحيي كبار السن عندما ترى الناس يلمسون جباههم وذقونهم؟	neutral	محايد	neutral	حيادي
+How would you feel if people avoided shaking hands with the opposite gender?	كيف ستشعر لو أن الناس يتجنبون مصافحة الجنس الآخر؟	neutral	محايد	neutral	حيادي
+How would you feel when you expected to avoid alcohol due to religious reasons?	كيف ستشعر عندما تتوقع أن تتجنب تناول الكحول لأسباب دينية؟	neutral	محايد	neutral	حيادي
+How would you feel when people use formal titles when addressing elders or authority figures?	كيف ستشعر عندما يستخدم الناس الألقاب الرسمية عند مخاطبة كبار السن أو شخصيات السلطة؟	neutral	محايد	neutral	حيادي
+How do you feel when invited to a wedding a week before?	كيف تشعر عندما تتم دعوتك لحضور حفل زفاف قبل أسبوع؟	neutral	محايد	neutral	حيادي
+How would you feel when expected to wash other legs	كيف ستشعر عندما يُطلب منك غسل ساقيك الأخرى؟	neutral	محايد	neutral	حيادي
+How would you feel when someone doesn’t bow or shake hands when greeting you?	كيف ستشعر عندما لا ينحني شخص ما أو لا يصافحك عند تحيتك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone refused a Gursha (feeding someone directly)	كيف ستشعر إذا رفض شخص ما الجورشا (إطعام شخص ما بشكل مباشر)	neutral	محايد	neutral	حيادي
+How would you feel if someone doesn’t participate in religious fasting periods,	كيف ستشعر إذا لم يشارك شخص ما في فترات الصيام الدينية؟	neutral	محايد	neutral	حيادي
+How would you feel if someone skipped a religious place during critical religious celebrations	كيف ستشعر إذا تخطى شخص مكانًا دينيًا أثناء الاحتفالات الدينية الهامة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone ignored the advice of elders?	كيف ستشعر إذا تجاهل أحد نصائح الكبار؟	neutral	محايد	neutral	حيادي
+How would you feel if someone dressed immodestly in a traditional village?	كيف ستشعر إذا كان شخص يرتدي ملابس غير محتشمة في قرية تقليدية؟	neutral	محايد	neutral	حيادي
+How would you feel if someone does not agree with the custom of giving a bride price?	كيف ستشعر إذا كان أحد الأشخاص لا يوافق على عادة تقديم مهر العروس؟	anger	غضب	negative	سلبي
+How would you feel if someone didn’t respect the decision made by community elders?	كيف ستشعر إذا لم يحترم أحد القرار الذي اتخذه شيوخ المجتمع؟	neutral	محايد	neutral	حيادي
+How would you feel if someone started eating before everyone served?	كيف ستشعر إذا بدأ شخص ما في الأكل قبل أن يتم تقديم الطعام للجميع؟	neutral	محايد	neutral	حيادي
+How would you feel if someone dressed casually in a formal work setting?	كيف ستشعر إذا ارتدى شخص ما ملابس غير رسمية في مكان عمل رسمي؟	neutral	محايد	neutral	حيادي
+How would you feel if someone cut in line?	كيف ستشعر إذا قام شخص ما بتجاوز الصف؟	anger	غضب	negative	سلبي
+How would you feel if someone used their phone during a meal?	كيف ستشعر إذا استخدم شخص هاتفه أثناء تناول الطعام؟	neutral	محايد	neutral	حيادي
+How would you feel if someone constantly offered help without being asked?	كيف ستشعر إذا كان شخص ما يعرض عليك المساعدة باستمرار دون أن يطلب منك ذلك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn’t acknowledge you with a greeting when you meet?	كيف ستشعر إذا لم يقم أحد بإلقاء التحية عليك عند مقابلتك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone refused to eat with their hands at a traditional meal?	كيف ستشعر إذا رفض شخص تناول الطعام بيديه في وجبة تقليدية؟	neutral	محايد	neutral	حيادي
+How would you feel if someone didn't touch the feet of elders as a sign of respect?	ماذا ستشعر إذا لم يلمس أحد أقدام كبار السن كعلامة على الاحترام؟	neutral	محايد	neutral	حيادي
+How would you feel if someone gave you a gift with their left hand?	كيف ستشعر إذا أعطاك شخص هدية بيده اليسرى؟	neutral	محايد	neutral	حيادي
+How would you feel if someone disregards social hierarchy and speaks informally to people of higher status?	كيف ستشعر إذا تجاهل شخص ما التسلسل الهرمي الاجتماعي وتحدث بشكل غير رسمي مع أشخاص ذوي مكانة أعلى؟	neutral	محايد	neutral	حيادي
+How would you feel if someone were bargaining for you the initial asking price in a local market?	كيف ستشعر إذا كان شخص ما يساومك بالسعر الأولي المطلوب في السوق المحلية؟	neutral	محايد	neutral	حيادي
+How would you feel if someone prioritizes work over spending time with family during gatherings?	كيف ستشعر إذا أعطى شخص ما الأولوية للعمل على قضاء الوقت مع العائلة أثناء التجمعات؟	neutral	محايد	neutral	حيادي
+How would you feel if someone left the table immediately after finishing their meal without engaging in conversation?	كيف ستشعر إذا غادر شخص ما الطاولة مباشرة بعد الانتهاء من وجبته دون الدخول في أي محادثة؟	neutral	محايد	neutral	حيادي
+How would you feel if someone declined food or drink visiting your home?	كيف ستشعر إذا رفض أحد الطعام أو الشراب الذي يأتي إلى منزلك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone arrived late to an appointment without notifying you?	كيف ستشعر إذا وصل شخص ما إلى موعده متأخرًا دون إخطارك؟	neutral	محايد	neutral	حيادي
+How would you feel if someone avoided being direct when giving feedback?	كيف ستشعر إذا تجنب شخص ما أن يكون مباشرًا عند تقديم الملاحظات؟	neutral	محايد	neutral	حيادي
+How would you feel if someone threw recyclables in the regular trash bin?	كيف ستشعر إذا قام شخص ما بإلقاء مواد قابلة لإعادة التدوير في سلة المهملات العادية؟	neutral	محايد	neutral	حيادي
+How would you feel if someone threw trash on the street?	كيف ستشعر إذا قام شخص ما برمي القمامة في الشارع؟	anger	غضب	negative	سلبي
+How would you feel if someone disregards traffic signals, even when no one is around?	كيف ستشعر إذا تجاهل شخص ما إشارات المرور، حتى لو لم يكن هناك أحد حوله؟	anger	غضب	negative	سلبي
+How would you feel if someone insisted on splitting the bill exactly when dining out?	كيف ستشعر إذا أصر شخص ما على تقسيم الفاتورة بالضبط عند تناول الطعام خارج المنزل؟	neutral	محايد	neutral	حيادي
+How would you feel if people avoided shaking hands or touching each other physically during religious observances?	كيف ستشعر لو تجنب الناس المصافحة أو التلامس الجسدي أثناء الاحتفالات الدينية؟	neutral	محايد	neutral	حيادي
+How would you feel seeing people sitting on the floor during meals instead of at a table?	كيف ستشعر عندما ترى الناس يجلسون على الأرض أثناء تناول الطعام بدلاً من الجلوس على الطاولة؟	neutral	محايد	neutral	حيادي
+How would you feel seeing people arranging marriages through family introductions rather than dating?	كيف ستشعر عندما ترى الناس يرتبون الزيجات من خلال التعارف العائلي بدلاً من المواعدة؟	neutral	محايد	neutral	حيادي
+How would you feel when you see people offering sweets and desserts to guests as a gesture of hospitality?	كيف تشعر عندما ترى الناس يقدمون الحلويات والمعجنات للضيوف كعلامة على حسن الضيافة؟	neutral	محايد	neutral	حيادي
+How would you feel when you see people observing the tradition of henna nights before weddings?	كيف ستشعر عندما ترى الناس يحتفلون بتقليد ليلة الحناء قبل الزفاف؟	neutral	محايد	neutral	حيادي
+How would you feel when you see people kissing the hands of each other as a sigh of greeting	كيف ستشعر عندما ترى الناس يقبلون أيدي بعضهم البعض كنوع من التحية؟	neutral	محايد	neutral	حيادي
+How would you feel when people use small gestures, like raising eyebrows, to communicate agreement or understanding?	كيف ستشعر عندما يستخدم الناس إيماءات صغيرة، مثل رفع الحاجبين، للتعبير عن الموافقة أو التفاهم؟	neutral	محايد	neutral	حيادي
+How would you feel if people avoided music and dancing in public during a religious ceremony?	كيف ستشعر لو أن الناس يتجنبون الموسيقى والرقص في الأماكن العامة أثناء الاحتفالات الدينية؟	neutral	محايد	neutral	حيادي
+How would you feel when you see people adhering to strict codes of modesty in both behavior and dress?	كيف ستشعر عندما ترى الناس يلتزمون بقواعد صارمة من الحياء في السلوك واللباس؟	neutral	محايد	neutral	حيادي
+How would you feel when you see people taking off their hats or covering their heads as a sign of respect?	كيف ستشعر عندما ترى الناس يخلعون قبعاتهم أو يغطون رؤوسهم كعلامة على الاحترام؟	neutral	محايد	neutral	حيادي
+How would you feel when people share food from a standard plate?	كيف ستشعر عندما يتقاسم الناس الطعام من طبق قياسي؟	neutral	محايد	neutral	حيادي
+How would you feel when you see people greeting each other with a hug and a kiss on the cheek?	كيف ستشعر عندما ترى الناس يحيون بعضهم البعض بالعناق والقبلة على الخد؟	neutral	محايد	neutral	حيادي
+How would you feel seeing people enjoying traditional music at social gatherings?	كيف ستشعر عندما ترى الناس يستمتعون بالموسيقى التقليدية في التجمعات الاجتماعية؟	neutral	محايد	neutral	حيادي
+How would you feel when you expect to participate in a festive street	كيف ستشعر عندما تتوقع المشاركة في احتفالية في الشارع؟	neutral	محايد	neutral	حيادي
+How would you feel seeing people decorate homes and public spaces with paper for festivals?	كيف ستشعر عندما ترى الناس يزينون منازلهم والأماكن العامة بالورق في المهرجانات؟	joy	فرح	positive	إيجابي
+How would you feel when you got a food offer from others on a national holiday?	كيف ستشعر عندما تحصل على عرض طعام من الآخرين في عطلة وطنية؟	neutral	محايد	neutral	حيادي
+How would you feel seeing people visiting family and friends without prior notice?	كيف ستشعر عندما ترى أشخاصًا يزورون عائلاتهم وأصدقائهم دون سابق إنذار؟	neutral	محايد	neutral	حيادي
+How would you feel seeing people dressed in traditional attire for cultural events?	كيف ستشعر عندما ترى أشخاصًا يرتدون الملابس التقليدية في المناسبات الثقافية؟	neutral	محايد	neutral	حيادي
+How would you feel seeing someone in pajamas on the street?	كيف ستشعر عندما ترى شخصًا يرتدي البيجامة في الشارع؟	neutral	محايد	neutral	حيادي
+How would you feel if you saw cars on the street with their music playing at a very high level?	كيف ستشعر إذا رأيت سيارات في الشارع تعزف الموسيقى بمستوى عالٍ جدًا؟	anger	غضب	negative	سلبي
+How would you feel if you saw public transport buses exceeding the capacity of available seats?	كيف ستشعر إذا رأيت حافلات النقل العام تتجاوز سعة المقاعد المتاحة؟	anger	غضب	negative	سلبي
+How would you feel if you saw people playing soccer on the street?	كيف ستشعر إذا رأيت أشخاصًا يلعبون كرة القدم في الشارع؟	anger	غضب	negative	سلبي
+How would you feel if some people knocked on your door to invite you to their religion?	كيف ستشعر لو أن بعض الناس يطرقون بابك لدعوتك إلى دينهم؟	neutral	محايد	neutral	حيادي
+How would you feel if your girlfriend/boyfriend asked for your phone password to check your messages and calls?	كيف ستشعر إذا طلب حبيبك/حبيبتك كلمة مرور هاتفك للتحقق من رسائلك ومكالماتك؟	anger	غضب	negative	سلبي
+How would you feel if you saw a man with two girlfriends?	كيف ستشعر إذا رأيت رجلاً لديه صديقتين؟	anger	غضب	negative	سلبي
+How would you feel if you saw a woman with two boyfriends?	كيف ستشعر إذا رأيت امرأة مع صديقين؟	anger	غضب	negative	سلبي
+How would you feel seeing a man/woman with an older partner?	كيف ستشعر عندما ترى رجلاً أو امرأة مع شريك أكبر سناً؟	neutral	محايد	neutral	حيادي
+How would you feel if you saw people selling on public transport?	كيف ستشعر إذا رأيت أشخاصًا يبيعون في وسائل النقل العام؟	sadness	حزن	negative	سلبي
+How would you feel if you saw someone kiss the lip of his child?	ماذا ستشعر لو رأيت أحداً يقبل شفاه طفله؟	anger	غضب	negative	سلبي
+How would you feel about strictly separating personal and professional life, avoiding talking about personal matters at work?	ما هو شعورك إذا تم الفصل بشكل صارم بين الحياة الشخصية والمهنية، وتجنب الحديث عن الأمور الشخصية في العمل؟	neutral	محايد	neutral	حيادي
+How would you feel if someone you met asked about your family and well-being before discussing business?	كيف ستشعر إذا سألك أحد الأشخاص الذين تقابلهم عن عائلتك وحالتك الصحية قبل مناقشة العمل؟	neutral	محايد	neutral	حيادي
+"How would you feel if someone didn't say ""no"" directly, even when they meant it, to avoid offending you?"	"كيف ستشعر إذا لم يقل أحد ""لا"" بشكل مباشر، حتى عندما يعني ذلك، لتجنب إهانتك؟"	neutral	محايد	neutral	حيادي
+How would you feel if someone offered to split the bill evenly after a group dinner at a restaurant?	كيف ستشعر إذا عرض عليك شخص ما تقسيم الفاتورة بالتساوي بعد تناول عشاء جماعي في مطعم؟	neutral	محايد	neutral	حيادي
+What do you fee when a person putting their hands in their pockets while talking	ماذا تشعر عندما يضع الشخص يديه في جيوبه أثناء الحديث؟	neutral	محايد	neutral	حيادي
+What do you feel when someone is talking to you with  hands placed on his hips 	ماذا تشعر عندما يتحدث إليك شخص ويضع يديه على وركيه؟	neutral	محايد	neutral	حيادي
+How would you feel if someone addressed you with titles and honorifics rather than your first name?	كيف ستشعر إذا خاطبك شخص ما بالألقاب والأسماء التشريفية بدلاً من اسمك الأول؟	neutral	محايد	neutral	حيادي
+How would you feel if someone touched your head without permission, considering it a sacred part of the body?	كيف ستشعر إذا لمس أحد رأسك دون إذنه، معتبرا إياه جزءا مقدسا من الجسم؟	anger	غضب	negative	سلبي
+How would you feel if someone didn't express gratitude or appreciation after being offered food or hospitality?	كيف ستشعر إذا لم يعرب أحد عن امتنانه أو تقديره بعد تقديم الطعام أو الضيافة له؟	neutral	محايد	neutral	حيادي
+How would you feel if someone failed to respect prayer times, continuing noisy activities or conversations during the call to prayer?	كيف ستشعر إذا لم يحترم أحد أوقات الصلاة، أو استمر في الأنشطة أو المحادثات الصاخبة أثناء الأذان؟	anger	غضب	negative	سلبي
+How would you feel when talking loudly?	كيف تشعر عندما تتحدث بصوت عالي؟	neutral	محايد	neutral	حيادي
+How would you feel when someone insults someone's religion?	كيف ستشعر عندما يقوم شخص ما بإهانة دين شخص آخر؟	anger	غضب	negative	سلبي

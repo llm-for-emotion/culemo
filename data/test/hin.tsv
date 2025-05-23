@@ -1,0 +1,401 @@
+text_eng	text_hin	emotion_eng	emotion_hin	sentiment_eng	sentiment_hin
+How would you feel if someone refused your gift before accepting it?	यदि कोई आपका उपहार स्वीकार करने से पहले ही उसे अस्वीकार कर दे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when your gift opened in front of you	जब आपका उपहार आपके सामने खुलेगा तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you joke, nobody even hints at a smile and continues talking?	आपको कैसा लगेगा जब आप मजाक कर रहे हों और कोई मुस्कुराने का नाम तक न ले और आप बातें करते रहें?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you kissed your girlfriend/boyfriend, saw your father	जब आप अपनी गर्लफ्रेंड/बॉयफ्रेंड को चूमते हैं, अपने पिता को देखते हैं तो आपको कैसा लगता है?	fear	डर	negative	नकारात्मक
+How would you feel when you saw a young dog running to you?	जब आप एक छोटे कुत्ते को दौड़कर अपनी ओर आते देखेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you know your girlfriend/boyfriend friend had sex before you	आपको कैसा लगेगा जब आपको पता चलेगा कि आपकी गर्लफ्रेंड/बॉयफ्रेंड दोस्त ने आपसे पहले सेक्स किया है?	joy	आनंद	positive	सकारात्मक
+How would you feel when your parent caught you with a pornographic film?	जब आपके माता-पिता आपको पोर्नोग्राफिक फिल्म के साथ पकड़ लें तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel when your attendee joined the meeting after 10 minutes started	आपको कैसा लगेगा जब आपका सहभागी मीटिंग शुरू होने के 10 मिनट बाद मीटिंग में शामिल होगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when a man sat near to you smoking?	जब कोई आदमी आपके पास बैठकर धूम्रपान कर रहा हो तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you are walking at 2:00 am in the street	जब आप रात के 2 बजे सड़क पर चल रहे होंगे तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+If someone is passing near to you, how would you feel when they didn't give you a greeting?	यदि कोई आपके पास से गुजर रहा हो और वह आपको नमस्कार न करे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you see a female eating on the street?	जब आप किसी महिला को सड़क पर खाना खाते हुए देखेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you see a priest drinking alcohol	जब आप किसी पादरी को शराब पीते देखेंगे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you see a Sheikh drinking alcohol	जब आप किसी शेख को शराब पीते देखेंगे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone invited you to eat donkey meat?	अगर कोई आपको गधे का मांस खाने के लिए आमंत्रित करे तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if someone invited you to eat pork meat?	अगर कोई आपको सूअर का मांस खाने के लिए आमंत्रित करे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone invited you to eat camel meat?	अगर कोई आपको ऊँट का मांस खाने के लिए आमंत्रित करे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you see a young female smoking	जब आप किसी युवा महिला को धूम्रपान करते देखेंगे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you see a female wearing small pants on the street	जब आप सड़क पर किसी महिला को छोटी पैंट पहने हुए देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you see a female wearing trousers on the street	जब आप सड़क पर किसी महिला को पतलून पहने हुए देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you see homosexual friends	जब आप समलैंगिक मित्रों को देखेंगे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you see a man with two wifes	जब आप किसी आदमी को दो बीवियों के साथ देखेंगे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when someone accepted your gift in one hand?	जब कोई आपका उपहार एक हाथ में लेकर स्वीकार करे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when someone shows you his middle finger gesture?	जब कोई आपको अपनी मध्यमा अंगुली दिखाए तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when someone shows you his thumbs-up?	जब कोई आपको अंगूठा दिखाए तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when someone shows you a sign of a horn	जब कोई आपको सींग का संकेत दिखाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when someone shows you a sign of a fork in his fingers	आपको कैसा लगेगा जब कोई आपको अपनी उंगलियों में कांटा दिखाने का इशारा करे?	sadness	उदासी	negative	नकारात्मक
+How would you feel when someone received your gift in their left hand	आपको कैसा लगेगा जब कोई आपका उपहार अपने बाएं हाथ में ले?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when someone gave the money in their left hand	जब कोई आपको बाएं हाथ से पैसे दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+"How would you feel when someone shows you a ""you have five fathers"" gesture"	"आपको कैसा लगेगा जब कोई आपको यह इशारा करे कि ""आपके पाँच पिता हैं"""	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you heard someone lives in their parent's home at the age of greater than 18?	जब आप सुनते हैं कि कोई व्यक्ति 18 वर्ष से अधिक आयु में अपने माता-पिता के घर में रहता है तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when someone cheek-to-cheek kisses your wife/husband	जब कोई आपकी पत्नी/पति को गाल से गाल मिलाकर चूमता है तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you did not say goodbye to your friend?	जब आप अपने दोस्त को अलविदा नहीं कहेंगे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you crossed an older man in the street?	जब आप सड़क पर किसी वृद्ध व्यक्ति को देखते हैं तो आपको कैसा महसूस होता है?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you did not say thank you to the waiter at the restaurant	जब आप रेस्टोरेंट में वेटर को धन्यवाद नहीं कहते तो आपको कैसा लगता?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you did not tip the waiter at the restaurant	जब आप रेस्टोरेंट में वेटर को टिप नहीं देते तो आपको कैसा लगता होगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you hear that music playing loudly all night?	जब आप सारी रात तेज आवाज में संगीत बजता सुनेंगे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when someone called you fatty because you gained weight?	जब कोई आपको मोटा कहे क्योंकि आपका वजन बढ़ गया है तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you see someone drink a tab of water?	जब आप किसी को पानी की एक गोली पीते हुए देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone saw you when taking off your clothes	अगर कोई आपको कपड़े उतारते हुए देख ले तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when someone sees you taking a shower in the nude	जब कोई आपको नग्न अवस्था में नहाते हुए देख ले तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel when someone calls a religious leader by their name	जब कोई किसी धार्मिक नेता को उनके नाम से पुकारे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+You are a doctor; how would you feel when someone calls you by your name without the doctor prefix	आप एक डॉक्टर हैं; आपको कैसा लगेगा जब कोई आपको डॉक्टर उपसर्ग के बिना आपके नाम से बुलाए?	neutral	सामान्य	neutral	तटस्थ
+You are a professor; how would you feel when someone calls you by your name without the professor prefix	आप एक प्रोफेसर हैं; आपको कैसा लगेगा जब कोई आपको प्रोफेसर शब्द के बिना आपके नाम से बुलाए?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you heard the news about the death of a close person?	जब आप किसी करीबी व्यक्ति की मृत्यु की खबर सुनते हैं तो आपको कैसा महसूस होता है?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you discovered your girlfriend or boyfriend was hanging out with one of your close friends?	आपको कैसा लगेगा जब आपको पता चलेगा कि आपकी गर्लफ्रेंड या बॉयफ्रेंड आपके किसी करीबी दोस्त के साथ घूम रहा है?	sadness	उदासी	negative	नकारात्मक
+If you failed a subject at school, how would you feel when you gave your report card to your father?	यदि आप स्कूल में किसी विषय में फेल हो गए तो अपने पिता को अपना रिपोर्ट कार्ड देते समय आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if you waited for your friend for 20 minutes at the restaurant?	यदि आपको अपने मित्र के लिए रेस्तरां में 20 मिनट तक इंतजार करना पड़े तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when your room-mate was making noise deliberately while you were trying to study	जब आप पढ़ाई करने की कोशिश कर रहे हों और आपका रूममेट जानबूझकर शोर मचा रहा हो तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you watch a horror film?	जब आप कोई हॉरर फिल्म देखेंगे तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel when your parents got divorced?	जब आपके माता-पिता का तलाक हो गया तो आपको कैसा महसूस हुआ?	sadness	उदासी	negative	नकारात्मक
+How would you feel about confronting your friend in their home?	अपने मित्र से उनके घर पर भिड़ने पर आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+You offer food for your neighbor. How would you feel when they turned it down?	आप अपने पड़ोसी को भोजन देते हैं। जब वे उसे लेने से मना कर देते हैं तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if your parents moved in with you right after marriage?	अगर आपके माता-पिता शादी के तुरंत बाद आपके साथ रहने आ जाएं तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if your guests chose to keep their shoes on when entering your home?	आपको कैसा लगेगा यदि आपके मेहमान आपके घर में प्रवेश करते समय अपने जूते पहने रहें?	guilt	अपराध	negative	नकारात्मक
+How would you feel if you lost a family heirloom?	यदि आप अपनी पारिवारिक विरासत खो दें तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you received critical feedback from your colleague?	जब आपको अपने सहकर्मी से आलोचनात्मक प्रतिक्रिया प्राप्त होगी तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when confronting your friend in your home?	जब आप अपने घर में किसी मित्र से भिड़ेंगे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you interact with the boss of your supervisor?	जब आप अपने पर्यवेक्षक के बॉस से बातचीत करेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about sharing your terrible performance on a class test?	कक्षा परीक्षा में अपने खराब प्रदर्शन के बारे में बताते समय आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel about sharing your excellent performance on a class test?	कक्षा परीक्षा में अपने उत्कृष्ट प्रदर्शन को साझा करने पर आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if a friend openly criticized your cooking at a dinner gathering?	यदि आपका कोई मित्र रात्रि भोज के दौरान आपके भोजन की खुलेआम आलोचना करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if your parents arranged a marriage for you without your input?	यदि आपके माता-पिता आपकी सलाह के बिना ही आपका विवाह तय कर दें तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone gave you a gift you didn't like?	यदि कोई आपको ऐसा उपहार दे जो आपको पसंद न हो तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if invited to a traditional ceremony of a culture different from your own?	यदि आपको अपनी संस्कृति से भिन्न किसी पारंपरिक समारोह में आमंत्रित किया जाए तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if your neighbor played loud music late at night during a festival?	यदि आपका पड़ोसी किसी त्यौहार के दौरान देर रात तेज आवाज में संगीत बजाए तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How do you feel about being asked to share your love history?	अपने प्रेम इतिहास को साझा करने के लिए कहे जाने पर आप कैसा महसूस करते हैं?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being asked to share the spiritual activity you performed?	यदि आपसे आपके द्वारा की गई आध्यात्मिक गतिविधि के बारे में बताने के लिए कहा जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being asked to share your age?	यदि आपसे आपकी उम्र पूछी जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being asked to share personal financial information with friends?	यदि आपसे व्यक्तिगत वित्तीय जानकारी मित्रों के साथ साझा करने के लिए कहा जाए तो आप कैसा महसूस करेंगे?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if you were late to a family gathering and everyone was already eating?	यदि आप किसी पारिवारिक समारोह में देर से पहुंचें और सभी लोग पहले से ही खाना खा रहे हों तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if a stranger publicly approached you to discuss a political issue?	यदि कोई अजनबी व्यक्ति सार्वजनिक रूप से आपसे किसी राजनीतिक मुद्दे पर चर्चा करने के लिए आए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if your child wanted to pursue a career path you disapprove of?	यदि आपका बच्चा ऐसा करियर मार्ग अपनाना चाहे जिसे आप स्वीकार नहीं करते तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if your partner forgot to buy a gift for your birthday?	यदि आपका साथी आपके जन्मदिन के लिए उपहार खरीदना भूल जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if your friend forgot to say happy birthday for your birthday?	यदि आपका मित्र आपको जन्मदिन की शुभकामनाएं देना भूल जाए तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if your partner forgot your anniversary?	यदि आपका साथी आपकी सालगिरह भूल जाए तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if you were offered a promotion but had to relocate to a different country?	यदि आपको पदोन्नति का प्रस्ताव दिया जाए, लेकिन आपको किसी दूसरे देश में जाना पड़े तो आप कैसा महसूस करेंगे?	joy	आनंद	positive	सकारात्मक
+How would you feel if asked to speak in front of a large group at a community event?	यदि आपको किसी सामुदायिक समारोह में एक बड़े समूह के सामने बोलने के लिए कहा जाए तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if criticized for your fashion choices at a social event?	यदि किसी सामाजिक समारोह में आपके फैशन विकल्पों की आलोचना की जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if asked to participate in a group prayer?	यदि आपको सामूहिक प्रार्थना में भाग लेने के लिए कहा जाए तो आप कैसा महसूस करेंगे?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if your friends invited you on a trip?	अगर आपके दोस्त आपको यात्रा पर आमंत्रित करें तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if you received an unexpected visit from a distant relative?	यदि कोई दूर का रिश्तेदार अचानक आपके घर आए तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if you were the only person not invited to a friend's wedding?	यदि आप अकेले ऐसे व्यक्ति हों जिन्हें किसी मित्र की शादी में आमंत्रित नहीं किया गया हो तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if a guest arrived at your home without bringing any gift?	यदि कोई मेहमान आपके घर बिना कोई उपहार लाए आ जाए तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone openly criticized your family during a social gathering?	यदि कोई सामाजिक समारोह के दौरान आपके परिवार की खुलेआम आलोचना करे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if you were invited to a wedding but could not attend due to a scheduling conflict?	यदि आपको किसी शादी में आमंत्रित किया गया हो, लेकिन समयबद्धता के अभाव के कारण आप उसमें शामिल नहीं हो सकें, तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if you invited your friend to your wedding but could not attend due to a scheduling conflict?	यदि आपने अपने मित्र को अपनी शादी में आमंत्रित किया, लेकिन कार्यक्रम में गड़बड़ी के कारण वह उसमें शामिल नहीं हो सके, तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when someone you do not know paid for your meal in a restaurant?	आपको कैसा लगेगा जब कोई अनजान व्यक्ति किसी रेस्तरां में आपके खाने का भुगतान कर दे?	joy	आनंद	positive	सकारात्मक
+How would you feel if a friend offered to pay for your meal in a restaurant?	यदि आपका कोई मित्र रेस्तरां में आपके भोजन का भुगतान करने की पेशकश करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if asked to share your opinion on a political issue in a public setting?	यदि सार्वजनिक स्थल पर आपसे किसी राजनीतिक मुद्दे पर अपनी राय साझा करने के लिए कहा जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if a family member insisted on discussing your personal life in front of others?	यदि परिवार का कोई सदस्य दूसरों के सामने आपके निजी जीवन के बारे में चर्चा करने पर जोर दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if you received a marriage proposal from someone you did not know?	यदि आपको किसी ऐसे व्यक्ति से विवाह का प्रस्ताव मिले जिसे आप नहीं जानते तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if a close friend did not invite you to their family celebration?	यदि आपका कोई करीबी दोस्त आपको अपने पारिवारिक उत्सव में आमंत्रित न करे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if you expected to participate in a group prayer before a meal?	यदि आपको भोजन से पहले सामूहिक प्रार्थना में भाग लेने की अपेक्षा हो तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if your child desired to marry someone from a different country?	यदि आपका बच्चा किसी दूसरे देश के व्यक्ति से विवाह करना चाहे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if your child expressed a desire to marry someone from a different religion?	यदि आपका बच्चा किसी दूसरे धर्म के व्यक्ति से विवाह करने की इच्छा व्यक्त करे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if your child desired to marry someone from your close relative?	यदि आपका बच्चा आपके किसी करीबी रिश्तेदार से शादी करना चाहे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if your child expressed a desire to marry someone from a different cultural background?	यदि आपका बच्चा किसी भिन्न सांस्कृतिक पृष्ठभूमि वाले व्यक्ति से विवाह करने की इच्छा व्यक्त करे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if a neighbor played a song loudly during a religious ceremony day?	यदि कोई पड़ोसी किसी धार्मिक समारोह के दौरान ऊंची आवाज में गाना बजाए तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel about being asked to greet everyone at a family gathering with a kiss on the cheek?	यदि आपसे किसी पारिवारिक समारोह में सभी का स्वागत गाल पर चुंबन देकर करने को कहा जाए तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if a guest arrived at your home without appropriate attire?	यदि कोई मेहमान आपके घर बिना उचित पोशाक के आ जाए तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone kissed you on the cheek that you did not know before?	आपको कैसा लगेगा यदि कोई आपके गाल पर चूम ले, जिसके बारे में आप पहले से नहीं जानते?	neutral	सामान्य	neutral	तटस्थ
+How would you feel pressured to accept a marriage proposal from a relative you barely know?	आप किसी ऐसे रिश्तेदार से विवाह का प्रस्ताव स्वीकार करने के लिए कैसा दबाव महसूस करेंगे जिसे आप शायद ही जानते हों?	fear	डर	negative	नकारात्मक
+How would you feel if your parents insisted on choosing your career path for you?	यदि आपके माता-पिता आप पर अपना कैरियर चुनने का दबाव डालें तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if are being criticized for not adhering to traditional gender roles in your profession?	यदि आपके पेशे में पारंपरिक लिंग भूमिकाओं का पालन न करने के लिए आपकी आलोचना की जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if a family member insisted on discussing your relationships in front of others?	यदि परिवार का कोई सदस्य दूसरों के सामने आपके रिश्तों पर चर्चा करने पर जोर दे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if a close friend shared personal information about you without your consent in a social setting?	यदि आपका कोई करीबी मित्र सामाजिक परिवेश में आपकी सहमति के बिना आपके बारे में व्यक्तिगत जानकारी साझा कर दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if your family disapproved of your choice of friends based on their backgrounds?	आपको कैसा लगेगा यदि आपका परिवार आपकी मित्र-चयन को उनकी पृष्ठभूमि के आधार पर अस्वीकार कर दे?	guilt	अपराध	negative	नकारात्मक
+How would you feel if your family expected you to prioritize family obligations over personal aspirations?	आपको कैसा लगेगा यदि आपका परिवार आपसे अपेक्षा करे कि आप व्यक्तिगत आकांक्षाओं की अपेक्षा पारिवारिक दायित्वों को प्राथमिकता देंगे?	fear	डर	negative	नकारात्मक
+How would you feel if someone touched or shook hands with you while you were of the opposite sex?	यदि आप विपरीत लिंग के हैं और कोई आपको छुए या आपसे हाथ मिलाए तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone made direct eye contact with you for a long time?	यदि कोई व्यक्ति लम्बे समय तक आपसे सीधे नजरें मिलाता रहे तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if someone offered you food or a drink using their left hand?	यदि कोई आपको अपने बाएं हाथ से भोजन या पेय पदार्थ दे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if a friend wore shorts or revealing clothing while visiting your home?	यदि आपका कोई मित्र आपके घर आते समय शॉर्ट्स या खुले कपड़े पहने तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if a couple showed affection in public, such as kissing?	अगर कोई जोड़ा सार्वजनिक रूप से अपना स्नेह प्रदर्शित करे, जैसे चुंबन लेना, तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone made jokes about sex during a mixed-gender gathering?	यदि कोई मिश्रित लिंग वाली सभा के दौरान सेक्स के बारे में चुटकुले सुनाए तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if someone pointed directly at you with their index finger while speaking?	यदि कोई बोलते समय अपनी तर्जनी अंगुली से सीधे आपकी ओर इशारा करे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone accidentally stepped on or pointed the soles of their feet toward you?	यदि कोई व्यक्ति गलती से आप पर पैर रख दे या अपने पैरों का तलवा आपकी ओर कर दे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone took a photo of you without your permission?	अगर कोई आपकी अनुमति के बिना आपकी तस्वीर ले ले तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone questioned your religious beliefs or practices in a social setting?	यदि कोई सामाजिक परिवेश में आपकी धार्मिक मान्यताओं या प्रथाओं पर प्रश्न उठाए तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if a friend openly criticized the religious leaders in your presence?	अगर आपका कोई दोस्त आपके सामने धार्मिक नेताओं की खुलेआम आलोचना करे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone rushed through a conversation without engaging in customary pleasantries first?	यदि कोई व्यक्ति पहले सामान्य बातचीत किए बिना ही जल्दबाजी में बातचीत शुरू कर दे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if a friend admired your possessions and made you feel obligated to offer them as a gift?	यदि आपका कोई मित्र आपकी सम्पत्ति की प्रशंसा करे और आपको उसे उपहार स्वरूप देने के लिए बाध्य करे, तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel about being asked to sit in a lower position than others during a physical meeting?	किसी भौतिक बैठक के दौरान यदि आपको दूसरों की तुलना में निचले स्थान पर बैठने के लिए कहा जाए तो आप कैसा महसूस करेंगे?	sadness	उदासी	negative	नकारात्मक
+How would you feel about being asked to sit in a lower position than others during a physical meeting to avoid using your left hand for eating?	किसी भौतिक बैठक के दौरान आपको खाने के लिए अपने बाएं हाथ का उपयोग करने से बचने के लिए दूसरों की तुलना में नीचे बैठने के लिए कहा जाए तो आप कैसा महसूस करेंगे?	anger	गुस्सा	negative	नकारात्मक
+How would you feel about being expected to always walk behind elders or those of higher status?	आप इस बारे में कैसा महसूस करेंगे कि आपसे हमेशा बड़ों या उच्च पद वाले लोगों के पीछे चलने की अपेक्षा की जाए?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being expected to avoid making direct eye contact with members of the opposite sex?	आप इस बारे में कैसा महसूस करेंगे कि आपसे विपरीत लिंग के सदस्यों से सीधे आँख से आँख मिलाने से बचने की अपेक्षा की जाती है?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being expected to avoid criticizing anything related to the country or its leaders?	आप इस बारे में कैसा महसूस करेंगे कि आपसे देश या उसके नेताओं से संबंधित किसी भी बात की आलोचना करने से बचने की अपेक्षा की जाए?	fear	डर	negative	नकारात्मक
+How would you feel if you were expected always to be hospitable and generous to strangers?	यदि आपसे हमेशा अजनबियों के प्रति आतिथ्य और उदारता की अपेक्षा की जाए तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you were required to cover your shoulders and knees	जब आपको अपने कंधों और घुटनों को ढकना पड़े तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being expected to touch their feet as a sign of respect?	सम्मान के प्रतीक के रूप में आपसे उनके पैर छूने की अपेक्षा की जाए तो आप कैसा महसूस करेंगे?	neutral	सामान्य	neutral	तटस्थ
+"How would you feel about being expected to call older adults ""Aunty"" or ""Uncle,"" regardless of whether you know them?"	"आपको कैसा लगेगा जब आपसे अपेक्षा की जाए कि आप वृद्धों को ""आंटी"" या ""अंकल"" कहें, भले ही आप उन्हें जानते हों या नहीं?"	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being instructed to only eat with your right hand when eating with others?	दूसरों के साथ भोजन करते समय केवल अपने दाहिने हाथ से भोजन करने का निर्देश मिलने पर आप कैसा महसूस करेंगे?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being asked to eat before you only when eating with others?	जब आप दूसरों के साथ खाना खा रहे हों और आपसे पहले खाने को कहा जाए तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+how would you feel when you are ordered to sit on the floor and not elevate yourself above elders	आपको कैसा लगेगा जब आपको आदेश दिया जाए कि आप ज़मीन पर बैठें और अपने से बड़ों से ऊपर न उठें	neutral	सामान्य	neutral	तटस्थ
+How would you feel when ordered to eat in a standard dish?	जब आपको मानक बर्तन में खाने का आदेश दिया जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when ordered to eat small, small, and slowly in a standard dish?	जब आपको एक मानक डिश में थोड़ा-थोड़ा करके और धीरे-धीरे खाने का आदेश दिया जाए तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel about being expected to address everyone with their formal titles and surnames?	आप कैसा महसूस करेंगे जब आपसे अपेक्षा की जाए कि आप सभी को उनके औपचारिक पद और उपनाम से संबोधित करें?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being expected to avoid topics related to sex or relationships?	सेक्स या रिश्तों से संबंधित विषयों से बचने की अपेक्षा किए जाने पर आप कैसा महसूस करेंगे?	sadness	उदासी	negative	नकारात्मक
+How would you feel about being expected to remain silent while elders speak, regardless of your opinion?	जब आपके बड़े-बुजुर्ग आपकी राय की परवाह किए बिना बोल रहे हों, तो आपसे चुप रहने की अपेक्षा की जाए, तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone bargained for your prices?	अगर कोई आपसे कम कीमत पर मोलभाव करे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel about being warned against expressing dissenting opinions when discussing politics?	राजनीति पर चर्चा करते समय असहमतिपूर्ण राय व्यक्त करने के विरुद्ध चेतावनी दिए जाने पर आप कैसा महसूस करेंगे?	guilt	अपराध	negative	नकारात्मक
+When you attend a cultural event, how would you feel about being invited to participate in traditional rituals regardless of your beliefs?	जब आप किसी सांस्कृतिक कार्यक्रम में भाग लेते हैं, तो अपनी मान्यताओं की परवाह किए बिना पारंपरिक अनुष्ठानों में भाग लेने के लिए आमंत्रित किए जाने पर आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when offering food if someone refused the first offer as a sign of humility?	भोजन देते समय आपको कैसा लगेगा यदि कोई व्यक्ति विनम्रता के संकेत के रूप में पहले प्रस्ताव को अस्वीकार कर दे?	guilt	अपराध	negative	नकारात्मक
+When you are at a wedding, how would you feel if you were required to dress in traditional attire?	जब आप किसी शादी में हों और आपको पारंपरिक पोशाक पहनने को कहा जाए तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel about being told to avoid discussing politics or religion when conversing?	बातचीत करते समय राजनीति या धर्म पर चर्चा न करने के लिए कहा जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel about being expected to greet everyone you meet, regardless of familiarity?	आप कैसा महसूस करेंगे जब आपसे अपेक्षा की जाए कि आप हर किसी का अभिवादन करें, भले ही वह आपसे परिचित न हो?	sadness	उदासी	negative	नकारात्मक
+How would you feel about being ordered to keep the conversation private and not share details outside the family?	आपको कैसा लगेगा जब आपको आदेश दिया जाए कि बातचीत को निजी रखें और परिवार के बाहर विवरण साझा न करें?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when someone cheek-to-cheek kisses your wife/husband?	जब कोई आपकी पत्नी/पति को गाल से गाल मिलाकर चूमता है तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+When invited to a family gathering, how would you feel about being expected to arrive late?	जब आपको किसी पारिवारिक समारोह में आमंत्रित किया जाए और आपसे देर से पहुंचने की अपेक्षा की जाए तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+When you are at a meal, how would you feel about being told to wait for the host to say start before starting to eat?	जब आप भोजन कर रहे हों, तो आपको कैसा लगेगा जब आपसे कहा जाए कि भोजन शुरू करने से पहले मेजबान के कहने का इंतजार करें?	anger	गुस्सा	negative	नकारात्मक
+When you are at a wedding, how would you feel about being expected to dance with multiple partners throughout the night?	जब आप किसी शादी समारोह में हों और आपसे रात भर कई साथियों के साथ नृत्य करने की अपेक्षा की जाए तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+When dining with others, how would you feel about being expected to keep not scrolling your phone?	दूसरों के साथ भोजन करते समय, यदि आपसे यह अपेक्षा की जाए कि आप अपना फोन स्क्रॉल न करें, तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+When dining with others, how would you feel about being expected to always keep both hands visible above the table?	दूसरों के साथ भोजन करते समय, आपको कैसा लगेगा जब आपसे अपेक्षा की जाए कि आप हमेशा अपने दोनों हाथ मेज के ऊपर रखें?	neutral	सामान्य	neutral	तटस्थ
+When attending a religious ceremony, how would you feel if you were required to dress modestly and respectfully?	किसी धार्मिक समारोह में उपस्थित होते समय यदि आपसे शालीनता और आदरपूर्वक कपड़े पहनने की अपेक्षा की जाए, तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+When you are at a gathering, how would you feel about being expected to stay and socialize long after the meal?	जब आप किसी समारोह में हों, तो भोजन के बाद भी आपसे काफी देर तक रुकने और लोगों से मिलने-जुलने की अपेक्षा की जाए, तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+When invited to dinner, how would you feel about being told that it is customary to eat dessert before the main course rather than after?	जब आपको रात्रि भोजन के लिए आमंत्रित किया जाए और आपको बताया जाए कि मिठाई मुख्य भोजन के बाद नहीं बल्कि पहले खाने की प्रथा है, तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+When invited to dinner, how would you feel about being told that it is customary to eat dessert after the main course rather than before?	जब आपको रात्रि भोजन के लिए आमंत्रित किया जाए और आपको बताया जाए कि मिठाई मुख्य भोजन से पहले खाने की बजाय बाद में खाने की प्रथा है, तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+When you are at a celebration, how would you feel about being expected to participate in traditional rituals, such as lighting candles or making offerings?	जब आप किसी उत्सव में हों, तो आपको पारंपरिक अनुष्ठानों में भाग लेने की अपेक्षा के बारे में कैसा महसूस होगा, जैसे मोमबत्तियाँ जलाना या प्रसाद चढ़ाना?	joy	आनंद	positive	सकारात्मक
+How would you feel when a female wears jeans and T-shirts to school	आपको कैसा लगेगा जब कोई लड़की स्कूल में जींस और टी-शर्ट पहनेगी?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you use informal language and first names when addressing teachers, professors, or supervisors	जब आप शिक्षकों, प्रोफेसरों या पर्यवेक्षकों को संबोधित करते समय अनौपचारिक भाषा और प्रथम नाम का उपयोग करते हैं तो आपको कैसा महसूस होगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you did not tip when dining out or receiving certain services?	जब आप बाहर खाना खाते समय या कुछ सेवाएं प्राप्त करते समय टिप नहीं देते तो आपको कैसा महसूस होता है?	joy	आनंद	positive	सकारात्मक
+How do you feel when you have pets, such as dogs and cats, inside your home	जब आपके घर में कुत्ते और बिल्ली जैसे पालतू जानवर हों तो आपको कैसा लगता है?	guilt	अपराध	negative	नकारात्मक
+How do you feel when you notice a friend not tipping generously at a restaurant?	जब आप देखते हैं कि आपका मित्र रेस्तरां में उदारतापूर्वक टिप नहीं दे रहा है तो आपको कैसा लगता है?	sadness	उदासी	negative	नकारात्मक
+When someone brings their dog into your home, how do you feel?	जब कोई आपके घर में अपना कुत्ता लाता है, तो आपको कैसा लगता है?	sadness	उदासी	negative	नकारात्मक
+How do you feel when a guest arrives late to your lunch invitation?	जब कोई मेहमान आपके लंच आमंत्रण पर देर से आता है तो आपको कैसा लगता है?	neutral	सामान्य	neutral	तटस्थ
+How do you feel when you expect to stand up to greet someone when they enter a room	जब कोई व्यक्ति कमरे में प्रवेश करता है तो आप उसका स्वागत करने के लिए खड़े होने की अपेक्षा करते हैं, तो आपको कैसा लगता है?	fear	डर	negative	नकारात्मक
+When someone interrupts you while you’re speaking, how do you feel?	जब आप बोलते समय कोई आपको बीच में रोकता है तो आपको कैसा लगता है?	guilt	अपराध	negative	नकारात्मक
+How do you feel when a friend shares a personal story about your relationship in front of others?	जब कोई मित्र आपके रिश्ते के बारे में कोई निजी कहानी दूसरों के सामने साझा करता है तो आपको कैसा लगता है?	fear	डर	negative	नकारात्मक
+How do you feel when you receive a casual invitation to a party without much notice?	जब आपको बिना किसी पूर्व सूचना के किसी पार्टी का निमंत्रण मिलता है तो आपको कैसा लगता है?	neutral	सामान्य	neutral	तटस्थ
+How do you feel seeing someone eating in public without using utensils?	किसी को सार्वजनिक स्थान पर बर्तनों का उपयोग किए बिना खाते हुए देखकर आपको कैसा लगता है?	sadness	उदासी	negative	नकारात्मक
+How do you feel when someone uses slang or informal language in a professional setting?	जब कोई व्यक्ति व्यावसायिक परिवेश में अभद्र या अनौपचारिक भाषा का प्रयोग करता है तो आपको कैसा लगता है?	sadness	उदासी	negative	नकारात्मक
+How do you feel when a stranger smiles and waves at you while passing by?	जब कोई अजनबी आपके पास से गुजरते हुए मुस्कुराता है और हाथ हिलाकर आपका अभिवादन करता है तो आपको कैसा लगता है?	sadness	उदासी	negative	नकारात्मक
+How do you feel when someone shares a funny meme or video you find inappropriate?	जब कोई व्यक्ति कोई मजाकिया मीम या वीडियो साझा करता है जो आपको अनुचित लगता है तो आपको कैसा लगता है?	sadness	उदासी	negative	नकारात्मक
+How do you feel when someone offers you a piece of food without asking if you want it first?	जब कोई व्यक्ति आपसे पूछे बिना कि आप उसे लेना चाहते हैं या नहीं, आपको भोजन दे देता है तो आपको कैसा लगता है?	fear	डर	negative	नकारात्मक
+How do you feel when a coworker celebrates a personal achievement loudly in the office?	जब कोई सहकर्मी कार्यालय में किसी व्यक्तिगत उपलब्धि का जोर-शोर से जश्न मनाता है तो आपको कैसा लगता है?	joy	आनंद	positive	सकारात्मक
+How do you feel when a guest at your home helps themselves to food without asking?	जब आपके घर कोई मेहमान बिना पूछे ही खाना खा लेता है तो आपको कैसा लगता है?	neutral	सामान्य	neutral	तटस्थ
+How do you feel when someone shares personal details about their life on social media?	जब कोई व्यक्ति अपने जीवन के बारे में व्यक्तिगत विवरण सोशल मीडिया पर साझा करता है तो आपको कैसा लगता है?	joy	आनंद	positive	सकारात्मक
+How do you feel when a colleague jokingly teases you about a mistake you made at work?	जब कोई सहकर्मी आपके कार्यस्थल पर की गई गलती के बारे में मजाक में आपको चिढ़ाता है तो आपको कैसा लगता है?	guilt	अपराध	negative	नकारात्मक
+When you realize you've forgotten an important family event, how does that make you feel?	जब आपको पता चलता है कि आप एक महत्वपूर्ण पारिवारिक कार्यक्रम भूल गए हैं, तो आपको कैसा महसूस होता है?	joy	आनंद	positive	सकारात्मक
+When a colleague takes credit for your idea during a meeting, how does that make you feel?	जब कोई सहकर्मी मीटिंग के दौरान आपके विचार का श्रेय ले लेता है, तो आपको कैसा महसूस होता है?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you understood that you were admitted to the University?	जब आपको पता चलेगा कि आपको विश्वविद्यालय में प्रवेश मिल गया है तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you are alone in a dark room	जब आप एक अंधेरे कमरे में अकेले हों तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you walk alone on the street	जब आप सड़क पर अकेले चलेंगे तो कैसा महसूस करेंगे?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you sleep alone in the room at night	रात को कमरे में अकेले सोते समय आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+When you are answering the wrong answer in the class, how would you feel	जब आप कक्षा में गलत उत्तर दे रहे हों तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you brought a possible answer to a homework problem that was entirely inappropriate for the question?	आपको कैसा लगेगा जब आप गृहकार्य के किसी प्रश्न का ऐसा संभावित उत्तर लेकर आएं जो उस प्रश्न के लिए पूरी तरह से अनुपयुक्त हो?	sadness	उदासी	negative	नकारात्मक
+How would you feel when your girlfriend appeared at home with a pair of rings for your wedding?	आपको कैसा लगेगा जब आपकी गर्लफ्रेंड आपके विवाह के लिए अंगूठियों का एक जोड़ा लेकर घर आएगी?	sadness	उदासी	negative	नकारात्मक
+How would you feel when your boyfriend appeared at home with a pair of rings for your wedding?	आपको कैसा लगेगा जब आपका बॉयफ्रेंड आपकी शादी के लिए अंगूठियों का एक जोड़ा लेकर घर आएगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you saw that your mother punished your little brother	जब आप देखेंगे कि आपकी माँ ने आपके छोटे भाई को सज़ा दी तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+how would you feel when you had cheated your parents that you had lost your textbooks so they had to send you money?	आपको कैसा लगेगा जब आपने अपने माता-पिता को धोखा दिया होगा कि आपकी पाठ्यपुस्तकें खो गई हैं और उन्हें आपको पैसे भेजने पड़े?	fear	डर	negative	नकारात्मक
+When you go to a friend's wedding without a gift, how do you feel	जब आप किसी दोस्त की शादी में बिना उपहार के जाते हैं, तो आपको कैसा लगता है?	guilt	अपराध	negative	नकारात्मक
+You worked together with another student on a computer assignment. they didn't prepare themselves for it, and you expected to explain it; how do you feel	आपने एक अन्य छात्र के साथ मिलकर कंप्यूटर असाइनमेंट पर काम किया। उन्होंने इसके लिए खुद को तैयार नहीं किया था, और आपने उनसे इसे समझाने की अपेक्षा की; आपको कैसा महसूस हुआ?	fear	डर	negative	नकारात्मक
+How would you feel when you pass through between many people	जब आप कई लोगों के बीच से गुजरेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you see people abusing their body with drugs and alcohol	आपको कैसा लगेगा जब आप लोगों को नशीली दवाओं और शराब के माध्यम से अपने शरीर का दुरुपयोग करते देखेंगे?	sadness	उदासी	negative	नकारात्मक
+How would you feel when your wife told you she is pregnant unknowingly	आपको कैसा लगेगा जब आपकी पत्नी आपको बताए कि वह अनजाने में गर्भवती है?	joy	आनंद	positive	सकारात्मक
+How would you feel when your girlfriend spent time with another boyfriend	आपको कैसा लगेगा जब आपकी गर्लफ्रेंड किसी दूसरे बॉयफ्रेंड के साथ समय बिताएगी?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you escaped from communicating with God for a long time?	जब आप लम्बे समय तक परमेश्‍वर से संवाद करने से दूर रहे तो आपको कैसा महसूस होगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you are punished in school for a mistake?	जब स्कूल में आपको किसी गलती के लिए सज़ा दी जाती है तो आपको कैसा लगता है?	sadness	उदासी	negative	नकारात्मक
+How would you feel if you did not give back a textbook to a friend in time?	यदि आपने अपने किसी मित्र को समय पर पाठ्यपुस्तक वापस नहीं की तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel when your friend did not give back a textbook to you in time?	आपको कैसा लगेगा जब आपका मित्र आपको समय पर पाठ्यपुस्तक वापस न दे?	fear	डर	negative	नकारात्मक
+How would you feel when you were insulted by a teacher in front of the class?	जब कोई शिक्षक पूरी कक्षा के सामने आपका अपमान करे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How do you feel when your mother found some porno picture that you have kept in your wallet	आपको कैसा महसूस होता है जब आपकी माँ को आपके बटुए में रखी कोई अश्लील तस्वीर मिल जाती है?	fear	डर	negative	नकारात्मक
+How would you feel when your parents saw you with your girlfriend/boyfriend	जब आपके माता-पिता आपको आपकी गर्लफ्रेंड/बॉयफ्रेंड के साथ देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when your close friend had not contacted you for a long time?	आपको कैसा लगेगा जब आपका कोई करीबी दोस्त आपसे काफी समय तक संपर्क न करे?	sadness	उदासी	negative	नकारात्मक
+How would you feel when someone told you that he would stay at your home for one night and canceled the appointment	आपको कैसा लगेगा जब कोई आपसे कहे कि वह एक रात आपके घर रुकेगा और फिर अपॉइंटमेंट कैंसिल कर दे?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone you loved left you without any explanation?	यदि आपका कोई प्रिय व्यक्ति बिना किसी कारण के आपको छोड़ कर चला जाए तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you thought that you had committed a grave sin?	जब आपको लगे कि आपने कोई गंभीर पाप किया है तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel upon receiving the message that you have been accepted as a medical student?	आपको यह संदेश पाकर कैसा लगेगा कि आपको मेडिकल छात्र के रूप में स्वीकार कर लिया गया है?	joy	आनंद	positive	सकारात्मक
+How would you feel when you were just to be divorced?	जब आपका तलाक होने वाला हो तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you meet an old friend from high school?	जब आप हाई स्कूल के किसी पुराने दोस्त से मिलेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you were trying to have sex with your friend, but they did not agree to it?	जब आप अपने दोस्त के साथ सेक्स करने की कोशिश कर रहे हों, लेकिन वह इसके लिए सहमत न हो तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+When your best friend suddenly acts strange towards you, how do you feel	जब आपका सबसे अच्छा दोस्त अचानक आपके प्रति अजीब व्यवहार करने लगे, तो आपको कैसा महसूस होता है?	neutral	सामान्य	neutral	तटस्थ
+When you talk to someone and get no response, how do you feel	जब आप किसी से बात करते हैं और कोई जवाब नहीं मिलता तो आपको कैसा लगता है?	neutral	सामान्य	neutral	तटस्थ
+How do you feel when you fail an exam for which you know, you have not studied hard enough?	जब आप किसी ऐसी परीक्षा में असफल हो जाते हैं जिसके लिए आपने पर्याप्त मेहनत नहीं की थी, तो आपको कैसा लगता है?	joy	आनंद	positive	सकारात्मक
+How would you feel when you fell deeply in love with a beautiful girl, and she returned your passion?	जब आप किसी खूबसूरत लड़की के प्यार में पड़ जाएं और वह भी आपके प्यार में पड़ जाए तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How do you feel when you argue with your best friend and think you are right and your friend is not?	जब आप अपने सबसे अच्छे दोस्त से बहस करते हैं और सोचते हैं कि आप सही हैं और आपका दोस्त सही नहीं है, तो आपको कैसा लगता है?	guilt	अपराध	negative	नकारात्मक
+How did you feel when your roommate started imitating you, doing what you had done a few hours before?	आपको कैसा महसूस हुआ जब आपके रूममेट ने आपकी नकल करना शुरू कर दिया, तथा वही काम करना शुरू कर दिया जो आपने कुछ घंटे पहले किया था?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when a plane caught in a storm and it began to shake	जब कोई विमान तूफान में फंस जाए और हिलने लगे तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How do you feel when asked to pay back money borrowed from others?	जब आपसे दूसरों से उधार लिया पैसा वापस करने को कहा जाता है तो आपको कैसा लगता है?	guilt	अपराध	negative	नकारात्मक
+When you were with your girlfriend/boyfriend, your mother came; how did you feel	जब तुम अपनी गर्लफ्रेंड/बॉयफ्रेंड के साथ थे, तब तुम्हारी माँ आई, तुम्हें कैसा लगा?	fear	डर	negative	नकारात्मक
+How would you feel when the taxi driver chose the longest route while driving	आपको कैसा लगेगा जब टैक्सी ड्राइवर गाड़ी चलाते समय सबसे लंबा रास्ता चुनेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you promised your friends that you would take care of something, but you kept forgetting about it	आपको कैसा लगेगा जब आपने अपने दोस्तों से वादा किया था कि आप किसी चीज़ का ध्यान रखेंगे, लेकिन आप उसे भूल जाते हैं?	guilt	अपराध	negative	नकारात्मक
+How do you feel when your contractor delivers your project one day after the scheduled date	आपको कैसा लगता है जब आपका ठेकेदार आपकी परियोजना निर्धारित तिथि के एक दिन बाद सौंपता है?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when your friends arranged to go for an afternoon snack and they did not tell me	आपको कैसा लगेगा जब आपके दोस्तों ने दोपहर के नाश्ते के लिए बाहर जाने का कार्यक्रम बनाया और उन्होंने मुझे नहीं बताया?	sadness	उदासी	negative	नकारात्मक
+When you once went out with another boy/girl and made love with him/her while you had a close boyfriend, what would you feel	जब आप एक बार किसी दूसरे लड़के/लड़की के साथ बाहर गए और उससे प्यार किया, जबकि आपका एक करीबी बॉयफ्रेंड भी था, तो आपको कैसा महसूस हुआ?	fear	डर	negative	नकारात्मक
+How would you feel when a man spoke very sexistly in the workplace	जब कोई पुरुष कार्यस्थल पर बहुत ही कामुक बातें बोले तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you came across a rat	जब आपका सामना किसी चूहे से हो तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How do you feel when you lend money to a friend, and he pays you back more than you originally loaned?	जब आप किसी मित्र को पैसा उधार देते हैं और वह आपको उधार दी गई राशि से अधिक राशि लौटा देता है, तो आपको कैसा लगता है?	joy	आनंद	positive	सकारात्मक
+How would you feel when your ex-boyfriend/girlfriend didn't want to sleep with you anymore	आपको कैसा लगेगा जब आपका पूर्व प्रेमी/प्रेमिका अब आपके साथ सोना नहीं चाहेगा?	fear	डर	negative	नकारात्मक
+How would you feel if you got good results in the field of academics?	यदि आपको शिक्षा के क्षेत्र में अच्छे परिणाम मिलें तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you are not well dressed in public	जब आप सार्वजनिक स्थान पर अच्छे कपड़े नहीं पहने होंगे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when your friend canceled an appointment	जब आपका मित्र अपॉइंटमेंट रद्द कर दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if you attended a pop singer's concert?	यदि आप किसी पॉप गायक के संगीत समारोह में शामिल हों तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when someone chased you from his house?	जब कोई आपको घर से भगा दे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you wear a slit-tight dress at a disco	डिस्को में जब आप स्लिट-टाइट ड्रेस पहनेंगी तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel when your friend called you while you were praying	जब आप प्रार्थना कर रहे हों और आपका मित्र आपको फोन करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when your brother's wife told you that you had some bad manners	आपको कैसा लगेगा जब आपके भाई की पत्नी आपको बताए कि आपके आचरण कुछ बुरे हैं?	guilt	अपराध	negative	नकारात्मक
+How would you feel when someone greets your little girl	जब कोई आपकी छोटी बच्ची को बधाई देता है तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when kissed by somebody that didn't expect to	जब कोई आपको चूमता है, जिसकी आपको उम्मीद नहीं थी, तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you told a lie to reconcile two broken friends	जब आप दो टूटे हुए दोस्तों को मिलाने के लिए झूठ बोलेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when someone spitting around you	जब कोई आपके आस-पास थूकता है तो आपको कैसा लगता है?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you are being insulted in public?	जब सार्वजनिक रूप से आपका अपमान किया जाता है तो आपको कैसा महसूस होता है?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you started your food before father and mother start	जब आप अपने पिता और माता से पहले खाना शुरू करेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you start food to eat without praying	जब आप प्रार्थना किए बिना खाना खाना शुरू करेंगे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when someone invited you to join his religion	जब कोई आपको अपने धर्म में शामिल होने के लिए आमंत्रित करे तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel when you insult an older adult for no reason?	जब आप किसी बड़े व्यक्ति का बिना किसी कारण अपमान करते हैं तो आपको कैसा महसूस होगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when your mother slapped you in the face	जब आपकी माँ आपके चेहरे पर थप्पड़ मारेगी तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+What do you feel when criticized in front of your class	जब आपकी कक्षा के सामने आलोचना की जाती है तो आप कैसा महसूस करते हैं?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you are not dressed appropriately for the occasion?	जब आप किसी अवसर के अनुरूप कपड़े नहीं पहने हों तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you laugh loudly in public, which is considered rude?	जब आप सार्वजनिक रूप से जोर से हंसते हैं, जिसे असभ्य माना जाता है, तो आपको कैसा महसूस होगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel If someone offered to pay for your food or shopping?	यदि कोई आपके भोजन या खरीदारी का भुगतान करने की पेशकश करे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if you received a gift and the giver insisted you open it immediately?	यदि आपको कोई उपहार मिले और देने वाला आपसे आग्रह करे कि आप उसे तुरंत खोलें, तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if someone didn't remove their shoes before entering your home?	आपको कैसा लगेगा यदि कोई आपके घर में प्रवेश करने से पहले अपने जूते न उतारे?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if you saw a couple holding hands in public?	यदि आप किसी जोड़े को सार्वजनिक स्थान पर एक दूसरे का हाथ थामे देखें तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if a woman wore sleeveless clothes in public?	अगर कोई महिला सार्वजनिक रूप से बिना आस्तीन के कपड़े पहने तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone offered you food during fasting while you were fasting?	यदि आप उपवास कर रहे हों और कोई आपको उपवास के दौरान भोजन दे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone called an elder by their first name without a title?	यदि कोई किसी बुज़ुर्ग को बिना किसी उपाधि के उसके प्रथम नाम से बुलाए तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if someone criticized the country's leaders in a public gathering?	यदि कोई सार्वजनिक सभा में देश के नेताओं की आलोचना करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+"How would you feel if someone didn't greet you with ""Assalamu Alaikum""?"	"यदि कोई आपका अभिवादन ""अस्सलामु अलैकुम"" कहकर न करे तो आपको कैसा लगेगा?"	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone served you tea in a chipped cup?	अगर कोई आपको टूटे हुए कप में चाय परोस दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if a guest left your home without eating anything?	यदि कोई मेहमान आपके घर से बिना कुछ खाए-पिए चला जाए तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone talked about arranged marriages in your presence?	यदि कोई आपके सामने अरेंज मैरिज के बारे में बात करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone commented on your religious practices in public?	यदि कोई सार्वजनिक रूप से आपकी धार्मिक प्रथाओं पर टिप्पणी करे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if your friend didn't stand up when an elder entered the room?	आपको कैसा लगेगा यदि आपका मित्र किसी बुजुर्ग के कमरे में प्रवेश करने पर खड़ा न हो?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone brought their dog to a family gathering?	यदि कोई व्यक्ति अपने कुत्ते को पारिवारिक समारोह में लेकर आए तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel seeing someone eating with their left hand in public?	किसी को सार्वजनिक स्थान पर बाएं हाथ से खाना खाते हुए देखकर आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone didn't offer their seat to an older adult on public transport?	यदि कोई व्यक्ति सार्वजनिक परिवहन में किसी वृद्ध व्यक्ति को अपनी सीट न दे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if a woman participated in a heated political debate in public?	यदि कोई महिला सार्वजनिक रूप से गरमागरम राजनीतिक बहस में भाग ले तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone refused to eat the prasad offered at a temple?	यदि कोई व्यक्ति मंदिर में चढ़ाया गया प्रसाद खाने से इनकार कर दे तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if someone wore black to a wedding?	अगर कोई शादी में काले कपड़े पहनकर आए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone didn't touch the feet of elders as a sign of respect?	यदि कोई व्यक्ति सम्मान के प्रतीक के रूप में अपने से बड़ों के पैर न छुए तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone didn't remove their shoes before entering a temple?	आपको कैसा लगेगा यदि कोई मंदिर में प्रवेश करने से पहले अपने जूते न उतारे?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone used their left hand to pass food at a meal?	यदि कोई भोजन के समय भोजन को आगे बढ़ाने के लिए अपने बाएं हाथ का प्रयोग करे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if you saw a woman smoking in public?	यदि आप किसी महिला को सार्वजनिक स्थान पर धूम्रपान करते देखें तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone interrupted you during a conversation with an elder?	अगर किसी बुज़ुर्ग से बातचीत के दौरान कोई आपको बीच में रोक दे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone didn't invite the entire extended family to a wedding?	यदि कोई व्यक्ति अपने पूरे परिवार को शादी में आमंत्रित न करे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone ate beef in your presence?	अगर कोई आपकी मौजूदगी में गौमांस खाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone didn't wash their hands before eating?	अगर कोई व्यक्ति खाना खाने से पहले अपने हाथ नहीं धोए तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How do you feel if someone licks their hand after eating?	अगर कोई खाना खाने के बाद अपना हाथ चाटे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone wore revealing clothes at a religious ceremony?	यदि कोई धार्मिक समारोह में अनाकर्षक कपड़े पहने तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone didn't offer water to a guest as soon as they arrived?	आपको कैसा लगेगा यदि कोई व्यक्ति आपके मेहमान को आते ही पानी न दे?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone publicly discussed their sex life?	अगर कोई सार्वजनिक रूप से अपने यौन जीवन के बारे में चर्चा करे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone refused to participate in a traditional dance at a festival?	यदि कोई व्यक्ति किसी उत्सव में पारंपरिक नृत्य में भाग लेने से इनकार कर दे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone didn't give you a proper goodbye when leaving your home?	यदि कोई व्यक्ति आपके घर से विदा लेते समय आपको उचित विदाई न दे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone refused to share their food with you at a communal meal?	यदि कोई व्यक्ति सामूहिक भोज में आपके साथ अपना भोजन बांटने से इनकार कर दे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if you saw a woman not to cover hair while entering a religious place?	यदि आप किसी महिला को धार्मिक स्थल में प्रवेश करते समय बाल न ढके हुए देखें तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when a guest leaves food on their plate at your home?	जब कोई मेहमान आपके घर अपनी प्लेट में खाना छोड़ दे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when someone criticizes the way you dress?	जब कोई आपके पहनावे की आलोचना करता है तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel when you are expected to avoid discussing financial matters in public?	जब आपसे सार्वजनिक रूप से वित्तीय मामलों पर चर्चा करने से बचने की अपेक्षा की जाती है तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone visited your home without prior notice?	यदि कोई व्यक्ति बिना पूर्व सूचना के आपके घर आ जाए तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when someone asks about your marital status in a social setting?	जब कोई सामाजिक परिवेश में आपकी वैवाहिक स्थिति के बारे में पूछे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you see a man and woman shaking hands in a formal setting?	जब आप किसी औपचारिक समारोह में किसी पुरुष और महिला को हाथ मिलाते हुए देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How do you feel when you see women kiss each other on the lips?	जब आप महिलाओं को एक दूसरे के होठों पर चुंबन करते देखते हैं तो आपको कैसा लगता है?	guilt	अपराध	negative	नकारात्मक
+How would you feel when someone brings alcohol to a family gathering?	जब कोई पारिवारिक समारोह में शराब लेकर आए तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you expect to eat everything served on your plate?	जब आप अपनी थाली में परोसी गई हर चीज खाने की उम्मीद करते हैं तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you hear loudspeakers from religious places early in the morning?	सुबह-सुबह जब आप धार्मिक स्थलों से लाउडस्पीकर की आवाजें सुनेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when forced to give and receive items with your right hand?	जब आपको अपने दाहिने हाथ से वस्तुएँ देने और लेने के लिए मजबूर किया जाए तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you expect to refrain from discussing taboo topics such as sex or politics?	आपको कैसा लगेगा जब आपसे अपेक्षा की जाएगी कि आप सेक्स या राजनीति जैसे वर्जित विषयों पर चर्चा न करें?	anger	गुस्सा	negative	नकारात्मक
+How do you feel about dressing modestly when visiting rural areas?	ग्रामीण क्षेत्रों में जाते समय शालीन कपड़े पहनने के बारे में आप कैसा महसूस करते हैं?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you expect to remove your shoes before entering someone's home?	आपको कैसा लगेगा जब आपसे किसी के घर में प्रवेश करने से पहले अपने जूते उतारने की अपेक्षा की जाएगी?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you expected to wait for the eldest person to start eating before you begin?	आपको कैसा लगेगा जब आप यह अपेक्षा करें कि सबसे बड़े व्यक्ति के भोजन शुरू करने से पहले आप भोजन शुरू करें?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you see someone publicly criticizing their parents?	जब आप किसी को सार्वजनिक रूप से अपने माता-पिता की आलोचना करते हुए देखते हैं तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you expect to attend family functions, even if you are busy?	आपको कैसा लगेगा जब आपको पारिवारिक समारोहों में भाग लेना होगा, भले ही आप व्यस्त हों?	fear	डर	negative	नकारात्मक
+How would you feel when someone insists on feeding you with their hands during a meal?	जब कोई व्यक्ति भोजन के दौरान आपको अपने हाथों से खिलाने पर जोर दे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when expected to avoid wearing revealing clothes at family gatherings?	आपको कैसा लगेगा जब आपसे पारिवारिक समारोहों में खुले कपड़े पहनने से बचने की अपेक्षा की जाएगी?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when someone asks about your caste or religious background?	जब कोई आपकी जाति या धार्मिक पृष्ठभूमि के बारे में पूछे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you expect to offer sweets to guests during festivals?	जब आप त्योहारों के दौरान मेहमानों को मिठाई देने की अपेक्षा करते हैं तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel seeing children addressing their parents with formal titles rather than their names?	आपको यह देखकर कैसा लगेगा कि बच्चे अपने माता-पिता को उनके नाम के बजाय औपचारिक उपाधियों से संबोधित कर रहे हैं?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you are expected not to wear black clothes during happy occasions?	आपको कैसा लगेगा जब आपसे यह अपेक्षा की जाए कि खुशी के अवसरों पर आप काले कपड़े न पहनें?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you see someone speaking loudly on their phone in public places?	जब आप किसी को सार्वजनिक स्थानों पर अपने मोबाइल फोन पर ऊंची आवाज में बात करते हुए देखेंगे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you see a man and woman sitting close to each other in public?	जब आप किसी पुरुष और महिला को सार्वजनिक स्थान पर एक दूसरे के करीब बैठे देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you see someone criticizing the government openly in a public space?	जब आप किसी को सार्वजनिक स्थान पर खुलेआम सरकार की आलोचना करते देखेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel seeing someone dressed in traditional attire at a modern event?	किसी आधुनिक समारोह में किसी को पारंपरिक पोशाक पहने देखकर आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you expect to accept food or drink even if you are not hungry or thirsty?	आपको कैसा लगेगा जब आपसे अपेक्षा की जाती है कि आप भूखे या प्यासे न हों, फिर भी आपसे भोजन या पेय स्वीकार किया जाए?	joy	आनंद	positive	सकारात्मक
+How would you feel when someone asks about your salary or income at a social gathering?	जब कोई सामाजिक समारोह में आपसे आपके वेतन या आय के बारे में पूछे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you see people avoiding eye contact as a sign of respect?	जब आप देखते हैं कि लोग सम्मान के संकेत के रूप में आपसे नज़रें मिलाने से बचते हैं तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you expect to touch elders' feet during special occasions?	जब आप विशेष अवसरों पर अपने से बड़ों के पैर छूने की अपेक्षा करते हैं तो आपको कैसा महसूस होगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you see someone spitting in public places?	जब आप किसी को सार्वजनिक स्थानों पर थूकते हुए देखेंगे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you see someone sitting cross-legged in front of elders?	जब आप किसी को अपने से बड़ों के सामने पैर मोड़कर बैठे हुए देखेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you see someone ignoring traditional greetings in favor of modern ones?	जब आप किसी को पारंपरिक अभिवादन की उपेक्षा कर आधुनिक अभिवादन अपनाते हुए देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you expect to eat with your hands rather than using cutlery?	आपको कैसा लगेगा जब आप चाहेंगे कि आप कटलरी के बजाय अपने हाथों से खाना खाएं?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you see women avoiding physical contact with men in public?	जब आप महिलाओं को सार्वजनिक स्थानों पर पुरुषों के साथ शारीरिक संपर्क से बचते हुए देखेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you see men avoiding wearing shorts in public?	जब आप पुरुषों को सार्वजनिक स्थानों पर शॉर्ट्स पहनने से बचते हुए देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you see people greeting each other with cheek kisses?	जब आप लोगों को एक दूसरे को गाल चूमकर अभिवादन करते देखेंगे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when you expect to remove your shoes before entering a home?	जब आपसे किसी घर में प्रवेश करने से पहले अपने जूते उतारने की अपेक्षा की जाती है तो आपको कैसा महसूस होगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when greeting elders when you see people touching their forehead and chin?	जब आप देखते हैं कि बड़े-बुजुर्ग अपने माथे और ठोड़ी को छू रहे हैं तो आपको कैसा महसूस होगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if people avoided shaking hands with the opposite gender?	यदि लोग विपरीत लिंग के लोगों से हाथ मिलाने से बचें तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel when you expected to avoid alcohol due to religious reasons?	जब आपसे धार्मिक कारणों से शराब से परहेज करने की अपेक्षा की जाती है तो आपको कैसा महसूस होगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when people use formal titles when addressing elders or authority figures?	जब लोग बुज़ुर्गों या अधिकार प्राप्त व्यक्तियों को संबोधित करते समय औपचारिक उपाधियों का प्रयोग करते हैं, तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How do you feel when invited to a wedding a week before?	जब आपको एक सप्ताह पहले शादी के लिए आमंत्रित किया जाता है तो आपको कैसा लगता है?	joy	आनंद	positive	सकारात्मक
+How would you feel when expected to wash other legs	जब आपसे दूसरों के पैर धोने की अपेक्षा की जाएगी तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when someone doesn’t bow or shake hands when greeting you?	आपको कैसा लगेगा जब कोई आपका अभिवादन करते समय झुकेगा नहीं या हाथ नहीं मिलाएगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone refused a Gursha (feeding someone directly)	अगर कोई गुरशा (किसी को सीधे खाना खिलाना) देने से मना कर दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone doesn’t participate in religious fasting periods,	आपको कैसा लगेगा यदि कोई व्यक्ति धार्मिक उपवास में भाग नहीं लेता?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone skipped a religious place during critical religious celebrations	आपको कैसा लगेगा यदि कोई व्यक्ति महत्वपूर्ण धार्मिक समारोहों के दौरान किसी धार्मिक स्थान पर न जाए?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone ignored the advice of elders?	अगर कोई व्यक्ति बड़ों की सलाह को नज़रअंदाज़ करे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone dressed immodestly in a traditional village?	यदि कोई व्यक्ति पारंपरिक गांव में अभद्र कपड़े पहने तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone does not agree with the custom of giving a bride price?	यदि कोई व्यक्ति वधू मूल्य देने की प्रथा से सहमत न हो तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone didn’t respect the decision made by community elders?	यदि कोई व्यक्ति समुदाय के बुजुर्गों द्वारा लिए गए निर्णय का सम्मान नहीं करता तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone started eating before everyone served?	आपको कैसा लगेगा यदि कोई सब कुछ परोसने से पहले ही खाना शुरू कर दे?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone dressed casually in a formal work setting?	यदि कोई व्यक्ति औपचारिक कार्यस्थल पर साधारण कपड़े पहने तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone cut in line?	अगर कोई लाइन में बाधा डाले तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone used their phone during a meal?	अगर कोई भोजन करते समय अपने फोन का इस्तेमाल करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone constantly offered help without being asked?	अगर कोई व्यक्ति बिना पूछे लगातार मदद की पेशकश करता रहे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone didn’t acknowledge you with a greeting when you meet?	यदि आपसे मिलने पर कोई आपका अभिवादन न करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone refused to eat with their hands at a traditional meal?	यदि कोई व्यक्ति पारंपरिक भोजन में अपने हाथ से खाने से इनकार कर दे तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone didn't touch the feet of elders as a sign of respect?	यदि कोई व्यक्ति सम्मान के प्रतीक के रूप में अपने से बड़ों के पैर न छुए तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if someone gave you a gift with their left hand?	अगर कोई आपको अपने बाएं हाथ से उपहार दे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone disregards social hierarchy and speaks informally to people of higher status?	यदि कोई व्यक्ति सामाजिक पदानुक्रम की उपेक्षा करके उच्च स्तर के लोगों से अनौपचारिक रूप से बात करता है, तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel if someone were bargaining for you the initial asking price in a local market?	यदि कोई व्यक्ति स्थानीय बाजार में आपसे शुरुआती कीमत पर मोलभाव कर रहा हो तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone prioritizes work over spending time with family during gatherings?	आपको कैसा लगेगा यदि कोई व्यक्ति समारोहों के दौरान परिवार के साथ समय बिताने की बजाय काम को प्राथमिकता दे?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone left the table immediately after finishing their meal without engaging in conversation?	आपको कैसा लगेगा यदि कोई व्यक्ति खाना खाने के तुरंत बाद बिना कोई बातचीत किए मेज से चला जाए?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone declined food or drink visiting your home?	यदि कोई आपके घर आने पर भोजन या पेय लेने से मना कर दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone arrived late to an appointment without notifying you?	यदि कोई व्यक्ति आपको सूचित किए बिना आपकी नियुक्ति पर देरी से पहुंचे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone avoided being direct when giving feedback?	यदि कोई व्यक्ति फीडबैक देते समय सीधे तौर पर बोलने से बचता है तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel if someone threw recyclables in the regular trash bin?	यदि कोई व्यक्ति पुनर्चक्रण योग्य वस्तुओं को सामान्य कूड़ेदान में फेंक दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone threw trash on the street?	अगर कोई सड़क पर कूड़ा फेंक दे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone disregards traffic signals, even when no one is around?	आपको कैसा लगेगा यदि कोई व्यक्ति यातायात संकेतों की अवहेलना करे, भले ही आसपास कोई न हो?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone insisted on splitting the bill exactly when dining out?	यदि कोई व्यक्ति बाहर भोजन करते समय बिल बराबर-बराबर बांटने पर जोर दे तो आपको कैसा लगेगा?	fear	डर	negative	नकारात्मक
+How would you feel if people avoided shaking hands or touching each other physically during religious observances?	आपको कैसा लगेगा यदि लोग धार्मिक अनुष्ठानों के दौरान एक-दूसरे से हाथ मिलाने या एक-दूसरे को छूने से बचें?	guilt	अपराध	negative	नकारात्मक
+How would you feel seeing people sitting on the floor during meals instead of at a table?	भोजन के समय लोगों को मेज पर बैठने के बजाय फर्श पर बैठे देखकर आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel seeing people arranging marriages through family introductions rather than dating?	आपको यह देखकर कैसा लगेगा कि लोग डेटिंग के बजाय पारिवारिक परिचय के माध्यम से विवाह तय कर रहे हैं?	joy	आनंद	positive	सकारात्मक
+How would you feel when you see people offering sweets and desserts to guests as a gesture of hospitality?	जब आप लोगों को आतिथ्य के रूप में मेहमानों को मिठाइयाँ और मिठाइयाँ देते हुए देखते हैं तो आपको कैसा लगता है?	joy	आनंद	positive	सकारात्मक
+How would you feel when you see people observing the tradition of henna nights before weddings?	जब आप लोगों को शादी से पहले मेंहदी की रात की परंपरा का पालन करते देखेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you see people kissing the hands of each other as a sigh of greeting	आपको कैसा लगेगा जब आप देखेंगे कि लोग एक दूसरे का हाथ चूमकर अभिवादन कर रहे हैं?	joy	आनंद	positive	सकारात्मक
+How would you feel when people use small gestures, like raising eyebrows, to communicate agreement or understanding?	आपको कैसा लगेगा जब लोग सहमति या समझ व्यक्त करने के लिए छोटी-छोटी हरकतें, जैसे भौहें उठाना, करते हैं?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if people avoided music and dancing in public during a religious ceremony?	आपको कैसा लगेगा यदि लोग किसी धार्मिक समारोह के दौरान सार्वजनिक रूप से संगीत और नृत्य से परहेज करें?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you see people adhering to strict codes of modesty in both behavior and dress?	जब आप लोगों को आचरण और पहनावे में शालीनता के सख्त नियमों का पालन करते देखेंगे तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you see people taking off their hats or covering their heads as a sign of respect?	जब आप लोगों को सम्मान के प्रतीक के रूप में अपनी टोपी उतारते या सिर ढकते हुए देखते हैं तो आपको कैसा महसूस होता है?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when people share food from a standard plate?	आपको कैसा लगेगा जब लोग एक ही प्लेट में खाना बांटेंगे?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you see people greeting each other with a hug and a kiss on the cheek?	जब आप लोगों को एक-दूसरे को गले लगाकर और गाल पर चुंबन देकर अभिवादन करते देखेंगे तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel seeing people enjoying traditional music at social gatherings?	सामाजिक समारोहों में लोगों को पारंपरिक संगीत का आनंद लेते देखकर आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel when you expect to participate in a festive street	जब आप किसी उत्सवी सड़क पर भाग लेने की उम्मीद करते हैं तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel seeing people decorate homes and public spaces with paper for festivals?	त्योहारों पर लोगों को कागज से घरों और सार्वजनिक स्थानों को सजाते देखकर आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel when you got a food offer from others on a national holiday?	जब किसी राष्ट्रीय अवकाश के दिन आपको दूसरों से भोजन का प्रस्ताव मिले तो आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel seeing people visiting family and friends without prior notice?	आपको कैसा लगेगा जब आप देखेंगे कि लोग बिना किसी पूर्व सूचना के अपने परिवार और मित्रों से मिलने जा रहे हैं?	sadness	उदासी	negative	नकारात्मक
+How would you feel seeing people dressed in traditional attire for cultural events?	सांस्कृतिक कार्यक्रमों में लोगों को पारंपरिक पोशाक पहने देखकर आपको कैसा लगेगा?	joy	आनंद	positive	सकारात्मक
+How would you feel seeing someone in pajamas on the street?	सड़क पर किसी को पजामा पहने देखकर आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if you saw cars on the street with their music playing at a very high level?	यदि आप सड़क पर चलती कारों में बहुत ऊंची आवाज में संगीत बजता हुआ देखें तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if you saw public transport buses exceeding the capacity of available seats?	यदि आप सार्वजनिक परिवहन बसों में उपलब्ध सीटों की क्षमता से अधिक यात्री सवारियां देखें तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if you saw people playing soccer on the street?	अगर आप सड़क पर लोगों को फुटबॉल खेलते देखें तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if some people knocked on your door to invite you to their religion?	यदि कुछ लोग आपको अपने धर्म में आमंत्रित करने के लिए आपके दरवाजे पर दस्तक दें तो आपको कैसा लगेगा?	guilt	अपराध	negative	नकारात्मक
+How would you feel if your girlfriend/boyfriend asked for your phone password to check your messages and calls?	यदि आपकी गर्लफ्रेंड/बॉयफ्रेंड आपके मैसेज और कॉल चेक करने के लिए आपसे आपके फोन का पासवर्ड मांगे तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if you saw a man with two girlfriends?	अगर आप किसी आदमी को दो गर्लफ्रेंड के साथ देखें तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if you saw a woman with two boyfriends?	यदि आप किसी महिला को दो प्रेमियों के साथ देखें तो आपको कैसा लगेगा?	sadness	उदासी	negative	नकारात्मक
+How would you feel seeing a man/woman with an older partner?	किसी पुरुष/महिला को अपने से अधिक उम्र के साथी के साथ देखकर आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if you saw people selling on public transport?	यदि आप सार्वजनिक परिवहन में लोगों को सामान बेचते हुए देखें तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if you saw someone kiss the lip of his child?	अगर आप किसी को अपने बच्चे के होठों को चूमते हुए देखें तो आपको कैसा लगेगा?	anger	गुस्सा	negative	नकारात्मक
+How would you feel about strictly separating personal and professional life, avoiding talking about personal matters at work?	आप व्यक्तिगत और व्यावसायिक जीवन को सख्ती से अलग रखने तथा कार्यस्थल पर व्यक्तिगत मामलों पर बातचीत से बचने के बारे में कैसा महसूस करेंगे?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone you met asked about your family and well-being before discussing business?	आपको कैसा लगेगा यदि कोई व्यक्ति आपसे व्यवसाय पर चर्चा करने से पहले आपके परिवार और कुशलक्षेम के बारे में पूछे?	fear	डर	negative	नकारात्मक
+"How would you feel if someone didn't say ""no"" directly, even when they meant it, to avoid offending you?"	"आपको कैसा लगेगा यदि कोई व्यक्ति आपको अपमानित करने से बचने के लिए सीधे तौर पर ""नहीं"" न कहे, भले ही उसका ऐसा कहने का इरादा हो?"	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone offered to split the bill evenly after a group dinner at a restaurant?	यदि कोई व्यक्ति किसी रेस्तरां में सामूहिक भोजन के बाद बिल को बराबर-बराबर बांटने की पेशकश करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+What do you fee when a person putting their hands in their pockets while talking	जब कोई व्यक्ति बात करते समय अपना हाथ जेब में डालता है तो आपको कैसा महसूस होता है?	neutral	सामान्य	neutral	तटस्थ
+What do you feel when someone is talking to you with  hands placed on his hips 	जब कोई व्यक्ति अपने हाथों को कमर पर रखकर आपसे बात कर रहा हो तो आपको कैसा महसूस होता है?	anger	गुस्सा	negative	नकारात्मक
+How would you feel if someone addressed you with titles and honorifics rather than your first name?	यदि कोई आपको आपके प्रथम नाम के बजाय उपाधियों या सम्मानसूचक शब्दों से संबोधित करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone touched your head without permission, considering it a sacred part of the body?	आपको कैसा लगेगा यदि कोई व्यक्ति बिना अनुमति के आपके सिर को छू ले, जबकि वह आपके शरीर का पवित्र अंग है?	fear	डर	negative	नकारात्मक
+How would you feel if someone didn't express gratitude or appreciation after being offered food or hospitality?	यदि कोई व्यक्ति भोजन या आतिथ्य के बाद आभार या प्रशंसा व्यक्त न करे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel if someone failed to respect prayer times, continuing noisy activities or conversations during the call to prayer?	यदि कोई व्यक्ति प्रार्थना के समय का सम्मान न करे, तथा प्रार्थना के समय भी शोरगुल या बातचीत जारी रखे तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ
+How would you feel when talking loudly?	ऊंची आवाज में बात करते समय आपको कैसा महसूस होगा?	fear	डर	negative	नकारात्मक
+How would you feel when someone insults someone's religion?	जब कोई किसी के धर्म का अपमान करता है तो आपको कैसा लगेगा?	neutral	सामान्य	neutral	तटस्थ

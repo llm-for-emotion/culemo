@@ -1,0 +1,11 @@
+text_eng	text_ara	emotion_eng	emotion_ara	sentiment_eng	sentiment_ara
+How would you feel if someone refused your gift before accepting it?	كيف ستشعر إذا رفض شخص ما هديتك قبل أن يقبلها؟	sadness	حزن	negative	سلبي
+How would you feel when your gift opened in front of you	كيف ستشعر عندما تفتح هديتك أمامك؟	joy	فرح	positive	إيجابي
+How would you feel when you joke, nobody even hints at a smile and continues talking?	كيف ستشعر عندما تمزح ولا يلمح لك أحد حتى بالابتسامة وتواصل الحديث؟	neutral	محايد	neutral	حيادي
+How would you feel when you kissed your girlfriend/boyfriend, saw your father	كيف ستشعر عندما تقبل صديقتك/صديقك، أو ترى والدك؟	joy	فرح	positive	إيجابي
+How would you feel when you saw a young dog running to you?	كيف ستشعر عندما ترى كلبًا صغيرًا يركض نحوك؟	fear	خوف	negative	سلبي
+How would you feel when you know your girlfriend/boyfriend friend had sex before you	كيف ستشعر عندما تعلم أن صديقتك/صديقك مارس الجنس قبلك؟	neutral	محايد	neutral	حيادي
+How would you feel when your parent caught you with a pornographic film?	كيف ستشعر عندما يمسك بك والدك مع فيلم إباحي؟	guilt	ذنب	negative	سلبي
+How would you feel when your attendee joined the meeting after 10 minutes started	كيف ستشعر عندما ينضم أحد الحاضرين إلى الاجتماع بعد مرور 10 دقائق من بدء الاجتماع؟	neutral	محايد	neutral	حيادي
+How would you feel when a man sat near to you smoking?	كيف ستشعر عندما يجلس بالقرب منك رجل يدخن؟	anger	غضب	negative	سلبي
+How would you feel when you are walking at 2:00 am in the street	كيف ستشعر عندما تمشي في الشارع الساعة 2:00 صباحًا؟	fear	خوف	negative	سلبي

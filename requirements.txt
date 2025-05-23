@@ -1,0 +1,18 @@
+# Python version
+python>=3.8.0
+
+# Core LLM API clients
+anthropic>=0.18.1
+openai>=1.12.0
+google-generativeai>=0.3.2
+ollama>=0.1.0  # For running local LLMs like Llama
+
+# Utility packages
+python-dotenv>=1.0.0  # For loading environment variables
+tqdm>=4.66.0  # For progress bars (commonly used in data processing)
+pandas>=2.0.0  # For handling TSV files
+numpy>=1.24.0  # For numerical operations
+
+# Evaluation and metrics
+scikit-learn>=1.3.0  # For accuracy metrics
+qa-metrics>=0.1.0  # For exact match evaluation 

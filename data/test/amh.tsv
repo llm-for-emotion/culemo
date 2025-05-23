@@ -1,0 +1,401 @@
+text_eng	text_amh	emotion_eng	emotion_amh	sentiment_eng	sentiment_amh
+How would you feel if someone refused your gift before accepting it?	አንድ ሰው ስጦታህን ከመቀበሉ በፊት ስጦታውን ውድቅ ቢያደርግ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when your gift opened in front of you	ስጦታህ ከፊትህ ሲከፈት ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you joke, nobody even hints at a smile and continues talking?	ስትቀልድ፣ ማንም ፈገግታ ላይ ፍንጭ ሳይሰጥ እና ማውራት ሲቀጥል ምን ይሰማሃል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when you kissed your girlfriend/boyfriend, saw your father	ጓደኛህን/ጓደኛሽን ስትስም ፣ አባትህ/ሽ ቢያይህ/ሽ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you saw a young dog running to you?	አንድ ወጣት ውሻ ወደ አንተ ሲሮጥ ብታይ ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when you know your girlfriend/boyfriend friend had sex before you	የሴት ጓደኛዎ/የወንድ ጓደኛዎ ከእርስዎ በፊት የግብረ ሥጋ ግንኙነት እንደፈፀመ ሲያውቁ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when your parent caught you with a pornographic film?	ወላጆችህ የብልግና ፊልም ስታይ ሲይዙህ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when your attendee joined the meeting after 10 minutes started	ተሰብሳቢዎ ከ10 ደቂቃ በኋላ ስብሰባውን ሲቀላቀል ምን ይሰማዎታል	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when a man sat near to you smoking?	አንድ ሰው እያጨሰ በአጠገብህ ሲቀመጥ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you are walking at 2:00 am in the street	ከሌሊቱ 2፡00 ላይ በመንገድ ላይ ስትራመድ ምን ይሰማሃል	fear	ፍርሀት	negative	አሉታዊ
+If someone is passing near to you, how would you feel when they didn't give you a greeting?	አንድ ሰው ወደ እርስዎ የሚያልፍ ከሆነ ሰላምታ ባይሰጡዎት ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when you see a female eating on the street?	መንገድ ላይ አንዲት ሴት ስትበላ ስታይ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see a priest drinking alcohol	አንድ ቄስ አልኮል ሲጠጣ ሲያዩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you see a Sheikh drinking alcohol	አንድ ሼክ አልኮል ሲጠጣ ሲያዩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone invited you to eat donkey meat?	አንድ ሰው የአህያ ሥጋ እንድትበላ ቢጋብዝህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone invited you to eat pork meat?	አንድ ሰው የአሳማ ሥጋ እንድትመገብ ቢጋብዝህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone invited you to eat camel meat?	አንድ ሰው የግመል ሥጋ እንድትበላ ቢጋብዝህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see a young female smoking	አንዲት ወጣት ሴት ስታጨስ ብትመለከት ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see a female wearing small pants on the street	መንገድ ላይ ሴት ፓንት ለብሳ ስትመለከት ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you see a female wearing trousers on the street	አንዲት ሴት በመንገድ ላይ ሱሪ ለብሳ ስትመለከት ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see homosexual friends	የተመሳሳይ ጾታ ጓደኞችን ስታይ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see a man with two wifes	ሁለት ሚስት ያለው ሰው ስታየው ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone accepted your gift in one hand?	አንድ ሰው ስጦታህን በአንድ እጅ ሲቀበል ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when someone shows you his middle finger gesture?	አንድ ሰው የመሃል ጣቱ ምልክት ሲያሳይ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when someone shows you his thumbs-up?	አንድ ሰው የእጁን አውራ ጣት ሲያሳይ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when someone shows you a sign of a horn	አንድ ሰው የቀንድ ምልክት ሲያሳይ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when someone shows you a sign of a fork in his fingers	አንድ ሰው በጣቶቹ ላይ የሹካ ምልክት ሲያሳይ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when someone received your gift in their left hand	አንድ ሰው ስጦታዎን በግራ እጁ ሲቀበል ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when someone gave the money in their left hand	አንድ ሰው ገንዘቡን በግራ እጁ ሲሰጥ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+"How would you feel when someone shows you a ""you have five fathers"" gesture"	"አንድ ሰው ""አምስት አባቶች አሉህ"" የሚል ምልክት ሲያሳይህ ምን ይሰማሃል?"	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you heard someone lives in their parent's home at the age of greater than 18?	አንድ ሰው ከ18 ዓመት በላይ ሆኖት በወላጆቹ ቤት እንደሚኖር ስትሰማ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone cheek-to-cheek kisses your wife/husband	አንድ ሰው ሚስትህን/ባልህን ጉንጭ ለጉንጭ ሲሳም ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you did not say goodbye to your friend?	ጓደኛን ካልተሰናበተህ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when you crossed an older man in the street?	በመንገድ ላይ አንድ ትልቅ ሰው ስታቋርጥ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you did not say thank you to the waiter at the restaurant	በሬስቶራንቱ ውስጥ ያለውን አስተናጋጅ አመሰግናለሁ ባትሉ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you did not tip the waiter at the restaurant	በሬስቶራንቱ ውስጥ አስተናጋጁን ቲፕ ካልሰጡ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you hear that music playing loudly all night?	ሌሊቱን ሙሉ ሙዚቃ ጮክ ብሎ ሲጫወት ሲሰሙ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when someone called you fatty because you gained weight?	አንድ ሰው ስለክብደትህ ወፍራም ብሎ ሲጠራዎት ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you see someone drink a tab of water?	አንድ ሰው የቧንቧ ውሃ  ሲጠጣ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone saw you when taking off your clothes	ልብስህን ስታወልቅ ሰው ቢያይህ ምን ይሰማሃል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when someone sees you taking a shower in the nude	አንድ ሰው እርቃንህን ስትታጠብ ቢመለከትህ ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when someone calls a religious leader by their name	አንድ ሰው የሃይማኖት መሪን በስሙ ሲጠራ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+You are a doctor; how would you feel when someone calls you by your name without the doctor prefix	እርስዎ ሐኪም ነዎት; ያለ ዶክተር ቅድመ ቅጥያ አንድ ሰው በስምህ ቢጠራህ ምን ይሰማሃል	anger	ቁጣ	negative	አሉታዊ
+You are a professor; how would you feel when someone calls you by your name without the professor prefix	አንተ ፕሮፌሰር ነህ; ያለ ፕሮፌሰር ቅድመ ቅጥያ አንድ ሰው በስምህ ቢጠራህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you heard the news about the death of a close person?	ስለ አንድ የቅርብ ሰው ሞት ሲሰሙ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when you discovered your girlfriend or boyfriend was hanging out with one of your close friends?	የሴት ጓደኛህ ወይም የወንድ ጓደኛህ ከአንዱ የቅርብ ጓደኛህ ጋር እንደሚውል ስታውቅ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+If you failed a subject at school, how would you feel when you gave your report card to your father?	በትምህርት ቤት አንድን ትምህርት ከወደቁ፣ የሪፖርት ካርድዎን ለአባትዎ ሲሰጡ ምን ይሰማዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel if you waited for your friend for 20 minutes at the restaurant?	በሬስቶራንቱ ውስጥ ጓደኛዎን ለ 20 ደቂቃዎች ከጠበቁ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when your room-mate was making noise deliberately while you were trying to study	ለማጥናት በምትሞክርበት ጊዜ አብሮህ ያለው ጓደኛህ ሆን ብሎ ድምፅ ሲያሰማ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you watch a horror film?	አስፈሪ ፊልም ሲመለከቱ ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when your parents got divorced?	ወላጆችህ ሲፋቱ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel about confronting your friend in their home?	ከጓደኛዎ ጋር በቤታቸው ውስጥ  ስትጋፈጥ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+You offer food for your neighbor. How would you feel when they turned it down?	ለጎረቤትህ ምግብ ትሰጣለህ። ውድቅ ሲያደርጉ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if your parents moved in with you right after marriage?	ወላጆችህ ከጋብቻህ በኋላ አብረውህ ቢመጡ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if your guests chose to keep their shoes on when entering your home?	እንግዶችዎ ወደ ቤትዎ ሲገቡ ጫማዎቻቸውን ባያወልቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you lost a family heirloom?	የቤተሰብ ውርስ ቢያጡ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when you received critical feedback from your colleague?	ከባልደረባዎ ወሳኝ ግብረመልስ ሲቀበሉ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when confronting your friend in your home?	ቤትዎ ውስጥ ከጓደኛዎ ጋር ሲጋፈጡ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you interact with the boss of your supervisor?	ከተቆጣጣሪዎ አለቃ ጋር ሲገናኙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about sharing your terrible performance on a class test?	በክፍል ፈተና ላይ ጥሩ ያልሆነ አፈጻጸምህን ስለማጋራት ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel about sharing your excellent performance on a class test?	በክፍል ፈተና ላይ ጥሩ አፈጻጸምዎን ስለማጋራት ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel if a friend openly criticized your cooking at a dinner gathering?	አንድ ጓደኛህ በእራት ግብዣ ላይ የሰራሃው ምግብህን በግልፅ ቢነቅፍብህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if your parents arranged a marriage for you without your input?	ወላጆችህ ያለእርስዎ ሐሳብ ትዳር ቢያዘጋጁልህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone gave you a gift you didn't like?	አንድ ሰው የማትወደውን ስጦታ ቢሰጥህ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if invited to a traditional ceremony of a culture different from your own?	ከራስዎ የተለየ ባህል ላለው ባህላዊ ሥነ ሥርዓት ብትጋበዙ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel if your neighbor played loud music late at night during a festival?	በፌስቲቫል ወቅት ጎረቤትዎ በምሽት በጩኸት ሙዚቃ ቢጫወት ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel about being asked to share your love history?	የፍቅር ታሪክህን እንድታካፍል ስትጠየቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being asked to share the spiritual activity you performed?	ያደረግከውን መንፈሳዊ ስራ እንድታካፍል ስትጠየቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being asked to share your age?	ዕድሜዎን እንዲናገሩ ሲጠየቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being asked to share personal financial information with friends?	የግል የገንዘብ መረጃን ለጓደኞችህ እንድታካፍል ስትጠየቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you were late to a family gathering and everyone was already eating?	በቤተሰብ ግብዣ ላይ ብትዘገይ እና ሁሉም ሰው እየበላ ከሆነ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if a stranger publicly approached you to discuss a political issue?	አንድ የማታውቀው ሰው ስለ ፖለቲካ ጉዳይ ለመወያየት በአደባባይ ቢያነጋግርህ ምን ይሰማሃል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel if your child wanted to pursue a career path you disapprove of?	ልጅዎ እርስዎ የማትቀበሉትን የሙያ መንገድ መከተል ቢፈልግ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if your partner forgot to buy a gift for your birthday?	የትዳር ጓደኛዎ ለልደትዎ ስጦታ መግዛትን ቢረሳው ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if your friend forgot to say happy birthday for your birthday?	ጓደኛዎ ለልደትዎ መልካም ልደት ማለትን ቢረሳው ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if your partner forgot your anniversary?	የትዳር ጓደኛዎ ዓመታዊ የጋብቻ በዓልዎን ቢረሳው ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if you were offered a promotion but had to relocate to a different country?	እድገት ቢሰጥህ ግን ወደ ሌላ ሀገር ብትሄድ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if asked to speak in front of a large group at a community event?	በአንድ የማህበረሰብ ዝግጅት ላይ ከብዙ ቡድን ፊት ለፊት እንድትናገር ብትጠየቅ ምን ይሰማሃል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel if criticized for your fashion choices at a social event?	በማህበራዊ ዝግጅት ላይ ስለ ፋሽን ምርጫዎ ቢተቹ ምን ይሰማዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel if asked to participate in a group prayer?	በቡድን ጸሎት ላይ እንድትሳተፍ ብትጠየቅ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel if your friends invited you on a trip?	ጓደኞችህ ለጉዞ ቢጋብዙህ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel if you received an unexpected visit from a distant relative?	ከሩቅ ዘመድ ያልተጠበቀ ጉብኝት ቢያገኙ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel if you were the only person not invited to a friend's wedding?	ለጓደኛህ ሰርግ ያልተጋበዝከው አንተ ብቻ ብትሆን ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if a guest arrived at your home without bringing any gift?	አንድ እንግዳ ምንም ስጦታ ሳያመጣ ወደ ቤትዎ ቢመጣ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone openly criticized your family during a social gathering?	በማኅበራዊ ስብሰባ ወቅት አንድ ሰው ቤተሰብህን በግልጽ ቢነቅፍ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if you were invited to a wedding but could not attend due to a scheduling conflict?	ወደ ሰርግ ብትጋበዙ ነገር ግን በጊዜ መርሐግብር ግጭት ምክንያት መገኘት ካልቻላችሁ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if you invited your friend to your wedding but could not attend due to a scheduling conflict?	ጓደኛዎን ወደ ሰርግዎ ከጋበዙት ነገር ግን በጊዜ መርሐግብር ግጭት ምክንያት መገኘት ካልቻሉ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when someone you do not know paid for your meal in a restaurant?	የማያውቁት ሰው ምግብ ቤት ውስጥ ለምግብዎ ክፍያ ሲከፍልልዎ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if a friend offered to pay for your meal in a restaurant?	አንድ ጓደኛህ ምግብ ቤት ውስጥ ምግብህን እንድትከፍል ቢያቀርብልህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if asked to share your opinion on a political issue in a public setting?	በሕዝብ ቦታ በፖለቲካ ጉዳይ ላይ አስተያየትዎን እንዲያካፍሉ ቢጠየቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if a family member insisted on discussing your personal life in front of others?	አንድ የቤተሰብ አባል ስለግል ህይወታችሁ በሌሎች ፊት መወያየት ቢፈልግ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if you received a marriage proposal from someone you did not know?	ከማያውቁት ሰው የጋብቻ ጥያቄ ቢቀርብልዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if a close friend did not invite you to their family celebration?	አንድ የቅርብ ጓደኛህ ወደ ቤተሰባቸው በዓል ባይጋብዝህ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if you expected to participate in a group prayer before a meal?	ከምግብ በፊት በቡድን ጸሎት ላይ እንደሚካፈሉ ቢጠበቅብዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if your child desired to marry someone from a different country?	ልጅዎ ከሌላ አገር የመጣን ሰው ማግባት ቢፈልግ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if your child expressed a desire to marry someone from a different religion?	ልጃችሁ ከሌላ ሃይማኖት የመጣን ሰው ለማግባት ፍላጎት እንዳለው ቢገልጽ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if your child desired to marry someone from your close relative?	ልጅዎ ከቅርብ ዘመድዎ የሆነን ሰው ማግባት ቢፈልግ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if your child expressed a desire to marry someone from a different cultural background?	ልጃችሁ የተለየ ባሕል ካለው ሰው ለማግባት ፍላጎት እንዳለው ቢገልጽ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if a neighbor played a song loudly during a religious ceremony day?	በሃይማኖታዊ ሥነ ሥርዓት ቀን አንድ ጎረቤት መዝሙር ጮክ ብሎ ቢጫወት ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being asked to greet everyone at a family gathering with a kiss on the cheek?	በቤተሰብ መሰብሰቢያ ላይ ሁሉንም ሰው ጉንጭ ላይ በመሳም ሰላምታ እንዲሰጡ ሲጠየቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if a guest arrived at your home without appropriate attire?	ተገቢ ልብስ ሳይለብስ እንግዳ ወደ ቤትዎ ቢመጣ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone kissed you on the cheek that you did not know before?	ከዚህ በፊት የማታውቀው ሰው ጉንጭ ላይ ቢስምህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel pressured to accept a marriage proposal from a relative you barely know?	ብዙም የማታውቀው ዘመዳችሁ የጋብቻ ጥያቄን እንድትቀበሉ ቢጠይቃችሁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if your parents insisted on choosing your career path for you?	ወላጆችህ የሥራ መንገድህን እንዲመርጡልህ ቢጥሩ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if are being criticized for not adhering to traditional gender roles in your profession?	በሙያህ ውስጥ ባህላዊ የሥርዓተ-ፆታ ሚናዎችን ባለማክበር ትችት ቢሰነዘርብህ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if a family member insisted on discussing your relationships in front of others?	አንድ የቤተሰብ አባል ስለ ግንኙነቶችዎ በሌሎች ፊት መወያየት ቢፈልግ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if a close friend shared personal information about you without your consent in a social setting?	አንድ የቅርብ ጓደኛዎ ያለ እርስዎ ፈቃድ በማህበራዊ ሚዲያ ውስጥ ስለእርስዎ የግል መረጃ ቢያካፍል ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if your family disapproved of your choice of friends based on their backgrounds?	ቤተሰብዎ በጓደኛህ አስተዳደግ መሰረት የጓደኛ ምርጫዎን ባይቀበሉ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if your family expected you to prioritize family obligations over personal aspirations?	ቤተሰብዎ ከግል ምኞት ይልቅ ለቤተሰብ ግዴታዎች ቅድሚያ እንድትሰጡ ቢጠብቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone touched or shook hands with you while you were of the opposite sex?	ተቃራኒ ጾታ አንድ ሰው ቢነካህ ወይም ቢጨባበጥ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone made direct eye contact with you for a long time?	አንድ ሰው ለረጅም ጊዜ ከእርስዎ ጋር በቀጥታ ዓይን ልዓይን ቢተያዩ ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel if someone offered you food or a drink using their left hand?	አንድ ሰው ግራ እጁን ተጠቅሞ ምግብ ወይም መጠጥ ቢሰጥህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if a friend wore shorts or revealing clothing while visiting your home?	አንድ ጓደኛዎ ቤትዎን ሲጎበኝ አጭር ሱሪ ወይም ግላጭ ልብስ ቢለብስ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if a couple showed affection in public, such as kissing?	ባልና ሚስት በአደባባይ ሲሳሳሙ ቢያሳዩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone made jokes about sex during a mixed-gender gathering?	ሴቶችና ወንዶች በተሰበሰቡበት ወቅት አንድ ሰው ስለ ወሲብ ቢቀልድ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone pointed directly at you with their index finger while speaking?	አንድ ሰው በሚናገርበት ጊዜ በጠቋሚ ጣታቸው በቀጥታ ቢጠቁምህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone accidentally stepped on or pointed the soles of their feet toward you?	አንድ ሰው በድንገት ቢረግጥህ ወይም የእግሩን ጫማ ወደ አንተ ቢጠቁም ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone took a photo of you without your permission?	ያለፈቃድዎ አንድ ሰው ፎቶግራፍ ቢያነሳ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone questioned your religious beliefs or practices in a social setting?	አንድ ሰው በማህበራዊ ሁኔታ ውስጥ ስለ ሃይማኖታዊ እምነቶችዎ ወይም ልምዶችዎ ቢጠይቅዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if a friend openly criticized the religious leaders in your presence?	አንድ ጓደኛህ በአንተ ፊት የሃይማኖት መሪዎችን በግልጽ ቢነቅፍ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone rushed through a conversation without engaging in customary pleasantries first?	አንድ ሰው በባህላዊ ነገሮች ላይ ሳይሳተፍ ቸኩሎ ቢሄድ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if a friend admired your possessions and made you feel obligated to offer them as a gift?	አንድ ጓደኛህ ንብረትህን ቢያደንቅ እና እንደ ስጦታ የማቅረብ ግዴታ እንዳለባችሁ ቢጠይቃችሁ ምን ይሰማችኋል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel about being asked to sit in a lower position than others during a physical meeting?	በአካል ስብሰባ ወቅት ከሌሎች ዝቅ ባለ ቦታ እንድትቀመጥ ስትጠየቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being asked to sit in a lower position than others during a physical meeting to avoid using your left hand for eating?	በግራ እጃችሁ መብላትን ላለመጠቀም በአካል ስብሰባ ወቅት ከሌሎች ዝቅ ብለው እንዲቀመጡ ሲጠየቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being expected to always walk behind elders or those of higher status?	ሁልጊዜ ከሽማግሌዎች ወይም ከፍተኛ ደረጃ ካላቸው ሰዎች ጀርባ እንዲሄዱ ሲጠበቅዎት ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being expected to avoid making direct eye contact with members of the opposite sex?	ከተቃራኒ ጾታ አባላት ጋር በቀጥታ የዓይን ለዓይን መተያየት እንዳትፈጥር ስለሚጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being expected to avoid criticizing anything related to the country or its leaders?	ከአገሪቱ ወይም ከመሪዎቿ ጋር የተያያዘ ማንኛውንም ነገር ከመተቸት እንዲቆጠቡ ቢጠበቅዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you were expected always to be hospitable and generous to strangers?	ሁልጊዜ እንግዳ ተቀባይ እና ለማያውቋቸው ሰዎች ልግስና እንዲያደርጉ ቢጠበቅብዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you were required to cover your shoulders and knees	ትከሻዎን እና ጉልበቶዎን መሸፈን ሲጠየቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being expected to touch their feet as a sign of respect?	ለአክብሮት ምልክት ጉልበታቸውን መንካት ሲጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+"How would you feel about being expected to call older adults ""Aunty"" or ""Uncle,"" regardless of whether you know them?"	"ትልቆችን ""አክስቴ"" ወይም ""አጎት"" ብለው እንዲጠሩ ቢጠበቅብዎ ምን ይሰማዎታል?"	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being instructed to only eat with your right hand when eating with others?	ከሌሎች ጋር ስትመገብ በቀኝ እጃችሁ ብቻ እንድትመገብ ስትታዘዝ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being asked to eat before you only when eating with others?	ከሌሎች ጋር ስትመገብ ከአንተ ፊት ብቻ እንድትመገብ ስትጠየቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+how would you feel when you are ordered to sit on the floor and not elevate yourself above elders	መሬት ላይ እንድትቀመጥ እና ራስህን ከሽማግሌዎች በላይ እንዳታደርግ ስትታዘዝ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when ordered to eat in a standard dish?	በአንድ መደበኛ ምግብ ውስጥ ቢጋበዙ ሲታዘዙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when ordered to eat small, small, and slowly in a standard dish?	ትንሽ፣ ትንሽ እና ቀስ ብሎ ምግብ እንዲበሉ ሲታዘዙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being expected to address everyone with their formal titles and surnames?	ሁሉንም ሰው በመደበኛ መጠሪያቸው እንዲጠሩ ሲጠበቅዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being expected to avoid topics related to sex or relationships?	ከወሲብና ከግንኙነት ጋር የተያያዙ ርዕሰ ጉዳዮችን እንዳታወራ ሲጠበቅዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being expected to remain silent while elders speak, regardless of your opinion?	የአንተ አስተያየት ምንም ይሁን ምን ሽማግሌዎች ሲናገሩ ዝም እንድትል ስትታዘዝ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone bargained for your prices?	አንድ ሰው በዋጋህ ላይ ቢከራከር ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being warned against expressing dissenting opinions when discussing politics?	ስለ ፖለቲካ ስትወያዩ የሃሳብ ልዩነትን ከመግለጽ ማስጠንቀቂያ ቢሰጥህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+When you attend a cultural event, how would you feel about being invited to participate in traditional rituals regardless of your beliefs?	በባህላዊ ዝግጅት ላይ ስትገኝ፣ እምነትህ ምንም ይሁን ምን በባህላዊ የአምልኮ ሥርዓቶች እንድትሳተፍ ስትጋበዝ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when offering food if someone refused the first offer as a sign of humility?	አንድ ሰው የትሕትናን ምልክት ለማድረግ የመጀመሪያውን ግብዣ ባይቀበልህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+When you are at a wedding, how would you feel if you were required to dress in traditional attire?	ሰርግ ላይ ስትሆን የባህል ልብስ እንድትለብስ ብትጠየቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being told to avoid discussing politics or religion when conversing?	ስትወያይ ስለ ፖለቲካ ወይም ስለ ሃይማኖት እንዳትወያይ ቢነገረህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel about being expected to greet everyone you meet, regardless of familiarity?	የምታውቃቸው ምንም ይሁን ምን ለምታቃቸው ሰዎች ሁሉ ሰላምታ እንድትሰጥ ቢጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel about being ordered to keep the conversation private and not share details outside the family?	ውይይቱን በሚስጥር እንዲይዙ እና ከቤተሰብ ውጭ ዝርዝሮችን እንዳያካፍሉ ሲታዘዙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone cheek-to-cheek kisses your wife/husband?	አንድ ሰው ሚስትህን ጉንጯን ቢስም ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+When invited to a family gathering, how would you feel about being expected to arrive late?	በቤተሰብ ስብሰባ ላይ እንድትገኝ ስትጋበዝ ዘግይተህ እንደምትመጣ ስታውቅ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+When you are at a meal, how would you feel about being told to wait for the host to say start before starting to eat?	ምግብ ላይ ስትሆን አስተናጋጁ መብላት ከመጀመርህ በፊት ጀምር እስኪልህ ድረስ ጠብቅ ስትባል ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+When you are at a wedding, how would you feel about being expected to dance with multiple partners throughout the night?	በሠርግ ላይ ሲሆኑ ሌሊቱን ሙሉ ከብዙ ጓደኞች ጋር ለመደነስ ሲጠበቅዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+When dining with others, how would you feel about being expected to keep not scrolling your phone?	ከሌሎች ጋር ስትመግብ፣ ስልክህን አለመነካካት ቢጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+When dining with others, how would you feel about being expected to always keep both hands visible above the table?	ከሌሎች ጋር ስትመግብ፣ ሁለቱም እጆች ከጠረጴዛው በላይ እንዲታዩ ሲጠበቅህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+When attending a religious ceremony, how would you feel if you were required to dress modestly and respectfully?	በሃይማኖታዊ ሥነ ሥርዓት ላይ በምትገኝበት ጊዜ ጨዋና በአክብሮት እንድትለብስ ብትጠየቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+When you are at a gathering, how would you feel about being expected to stay and socialize long after the meal?	በስብሰባ ላይ ሲሆኑ ከምግብ በኋላ ለረጅም ጊዜ እንዲቆዩ እና እንዲያወሩ ቢጠበቅዎት ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+When invited to dinner, how would you feel about being told that it is customary to eat dessert before the main course rather than after?	ለእራት ስትጋበዝ ከዋናው ምግብ በፊት ጣፋጭ መብላት የተለመደ እንደሆነ ሲነገርህ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+When invited to dinner, how would you feel about being told that it is customary to eat dessert after the main course rather than before?	ለእራት ስትጋበዝ ከዋናው ምግብ በኋላ ጣፋጭ መብላት የተለመደ እንደሆነ ሲነገርህ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+When you are at a celebration, how would you feel about being expected to participate in traditional rituals, such as lighting candles or making offerings?	በበዓል ላይ ስትሆን እንደ ሻማ ማብራት ወይም መስዋዕቶችን በመሳሰሉ ባህላዊ የአምልኮ ሥርዓቶች እንድትሳተፍ ስትጠበቅ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when a female wears jeans and T-shirts to school	አንዲት ሴት ትምህርት ቤት ጂንስ እና ቲሸርት ስትለብስ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you use informal language and first names when addressing teachers, professors, or supervisors	መምህራንን፣ ፕሮፌሰሮችን ወይም ሱፐርቫይዘሮችን ስትናገር መደበኛ ያልሆነ ቋንቋ እና የመጀመሪያ ስም ስትጠቀም ምን ይሰማሃል	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you did not tip when dining out or receiving certain services?	ምግብ በሚመገቡበት ጊዜ ወይም አንዳንድ አገልግሎቶችን በሚቀበሉበት ጊዜ ጉርሻ ባትሰጡ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel when you have pets, such as dogs and cats, inside your home	እንደ ውሾች እና ድመቶች ያሉ የቤት እንስሳት በቤትዎ ውስጥ ሲኖሩ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How do you feel when you notice a friend not tipping generously at a restaurant?	ጓደኛዎ ምግብ ቤት ውስጥ ጉርሻ እንደማይሰጥ ሲመለከቱ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+When someone brings their dog into your home, how do you feel?	አንድ ሰው ውሻውን ወደ ቤትዎ ሲያመጣ ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+How do you feel when a guest arrives late to your lunch invitation?	አንድ እንግዳ ወደ ምሳ ግብዣዎ ዘግይቶ ሲመጣ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How do you feel when you expect to stand up to greet someone when they enter a room	አንድ ሰው ወደ ክፍል ሲገባ ሰላምታ ለመስጠት መነሳት ቢጠበቅብህ ምን ይሰማሃል	anger	ቁጣ	negative	አሉታዊ
+When someone interrupts you while you’re speaking, how do you feel?	በምትናገርበት ጊዜ አንድ ሰው ሲያቋርጥህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How do you feel when a friend shares a personal story about your relationship in front of others?	ጓደኛዎ ስለ እርስዎ ግንኙነት በሌሎች ፊት የግል ታሪክ ሲያካፍል ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How do you feel when you receive a casual invitation to a party without much notice?	መጥሪያ ሳይኖር ለፓርቲ ግብዣ ጥሪ ሲቀርብልዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel seeing someone eating in public without using utensils?	እቃ ሳይጠቀም ሰው በአደባባይ ሲመገብ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel when someone uses slang or informal language in a professional setting?	አንድ ሰው በፕሮፌሽናል ውይይት ውስጥ መደበኛ ያልሆነ ቋንቋ ሲጠቀም ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How do you feel when a stranger smiles and waves at you while passing by?	አንድ የማታውቀው ሰው በሚያልፍበት ጊዜ ፈገግ ብሎ እጁን ቢያውለበልብልህ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How do you feel when someone shares a funny meme or video you find inappropriate?	አንድ ሰው ጥሩ ያልሆነ ሜም ወይም ቪዲዮ ሲያጋራ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How do you feel when someone offers you a piece of food without asking if you want it first?	አንድ ሰው መጀመሪያ ትፈልጋለህ ብሎ ሳይጠይቅ ምግብ ሲሰጥህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel when a coworker celebrates a personal achievement loudly in the office?	አንድ የሥራ ባልደረባህ በቢሮ ውስጥ የግል ስኬቱን ጮክ ብሎ ሲያከብር ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How do you feel when a guest at your home helps themselves to food without asking?	በቤትዎ ውስጥ ያለ እንግዳ ሳይጠይቁ እራሳቸውን ምግብ ቢያስተናግዱ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How do you feel when someone shares personal details about their life on social media?	አንድ ሰው ስለ ህይወቱ የግል ዝርዝሮችን በማህበራዊ ሚዲያ ላይ ቢያካፍል ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel when a colleague jokingly teases you about a mistake you made at work?	የስራ ባልደረባህ በስራህ ላይ ስለሰራህው ስህተት በቀልድ ሲያሾፍህ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+When you realize you've forgotten an important family event, how does that make you feel?	አንድ አስፈላጊ የቤተሰብ ክስተት እንደረሳችሁት ሲያስታውሱ ምን ስሜት ይፈጥርብዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+When a colleague takes credit for your idea during a meeting, how does that make you feel?	በስብሰባ ወቅት አንድ የስራ ባልደረባህ ለሃሳብህ እውቅና ሲሰጥ፣ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you understood that you were admitted to the University?	ዩንቨርስቲ እንደምትገባ ስትረዳ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you are alone in a dark room	ጨለማ ክፍል ውስጥ ብቻህን ስትሆን ምን ይሰማሃል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when you walk alone on the street	በመንገድ ላይ ብቻህን ስትራመድ ምን ይሰማሃል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when you sleep alone in the room at night	በምሽት ክፍል ውስጥ ብቻዎን ሲተኙ ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+When you are answering the wrong answer in the class, how would you feel	በክፍል ውስጥ የተሳሳተ መልስ ስትመልስ ምን ይሰማሃል	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you brought a possible answer to a homework problem that was entirely inappropriate for the question?	ለቤት ስራ ጥያቄ ሙሉ በሙሉ ተገቢ ያልሆነ መልስ ስታመጡ ምን ይሰማዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when your girlfriend appeared at home with a pair of rings for your wedding?	የሴት ጓደኛዎ ለሠርግዎ ጥንድ ቀለበት ይዛ ቤት ብትመጣ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when your boyfriend appeared at home with a pair of rings for your wedding?	የወንድ ጓደኛሽ ለሠርግሽ ጥንድ ቀለበት ይዞ እቤት ሲመጣ ምን ይሰማሻል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you saw that your mother punished your little brother	እናትህ ታናሽ ወንድምህን እንደቀጣችው ስታየው ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+how would you feel when you had cheated your parents that you had lost your textbooks so they had to send you money?	ገንዘብ ሊልኩልኝ ይገባል ብለህ ወላጆችህን ስታጭበረብር ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+When you go to a friend's wedding without a gift, how do you feel	ያለ ስጦታ ወደ ጓደኛህ ሰርግ ስትሄድ ምን ይሰማሃል	guilt	ጥፋተኛ	negative	አሉታዊ
+You worked together with another student on a computer assignment. they didn't prepare themselves for it, and you expected to explain it; how do you feel	በኮምፒውተር ስራ ላይ ከሌላ ተማሪ ጋር አብረህ ሥትሰራ ጓድኛህ ለዚያ ራሳቸውን አላዘጋጁም እና አንተ ማስረዳት ሲጠበቅብህ ምን ይሰማሃል	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you pass through between many people	በብዙ ሰዎች መካከል ስታልፍ ምን ይሰማሃል	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when you see people abusing their body with drugs and alcohol	ሰዎች ሰውነታቸውን በአደንዛዥ እፅ እና በአልኮል ሲበድሉ ስታዩ ምን ይሰማዎታል	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when your wife told you she is pregnant unknowingly	ሚስትህ ሳታውቅ እንዳረገዘች ስትነግርህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when your girlfriend spent time with another boyfriend	የሴት ጓደኛዎ ከሌላ የወንድ ጓደኛ ጋር ጊዜ ስታሳልፍ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you escaped from communicating with God for a long time?	ከአምላክህ ጋር ለረጅም ጊዜ ከመነጋገር ስታቆም ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you are punished in school for a mistake?	በትምህርት ቤት በስህተት ስትቀጣ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if you did not give back a textbook to a friend in time?	በጊዜው ለጓደኛህ የተዋስከውን መጽሐፍ ካልመለስክ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when your friend did not give back a textbook to you in time?	ጓደኛህ በጊዜው የተዋሰውን መጽሐፍ ካልሰጠህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you were insulted by a teacher in front of the class?	በክፍል ጓደኞችህ ፊት በአስተማሪ ሲሰድቡ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How do you feel when your mother found some porno picture that you have kept in your wallet	እናትህ በኪስ ቦርሳህ ውስጥ ያስቀመጥከውን የብልግና ምስል ብታገኝ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when your parents saw you with your girlfriend/boyfriend	ወላጆችህ የወንድ ጓደኛሽ ጋር ሲያዩሽ ምን ይሰማሻል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when your close friend had not contacted you for a long time?	የቅርብ ጓደኛዎ ለረጅም ጊዜ ሳያነጋግርዎት ሲቀር ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when someone told you that he would stay at your home for one night and canceled the appointment	አንድ ሰው ቤትዎ ለአንድ ቀን እንደሚቆይ ነግሮት ቀጠሮውን ሲሰርዝ ምን ይሰማዎታል	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone you loved left you without any explanation?	የምትወደው ሰው ያለ ምንም ማብራሪያ ቢተውህ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when you thought that you had committed a grave sin?	ከባድ ኃጢአት እንደሠራህ ስታስብ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel upon receiving the message that you have been accepted as a medical student?	የሕክምና ተማሪ ለመሆን ተቀባይነት አግኝተሃል የሚል መልእክት ሲደርስህ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you were just to be divorced?	ጋብቻህን ስትፈታ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you meet an old friend from high school?	ከሁለተኛ ደረጃ ትምህርት ቤት የድሮ ጓደኛዎን ስታገኙ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you were trying to have sex with your friend, but they did not agree to it?	ከጓደኛህ ጋር ወሲብ ለመፈጸም ፈልገህ ነገር ግን ፍቃደኛ ባትሆን ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+When your best friend suddenly acts strange towards you, how do you feel	የቅርብ ጓደኛህ በድንገት ባንተ ላይ እንግዳ ነገር ሲያደርግ ምን ይሰማሃል	anger	ቁጣ	negative	አሉታዊ
+When you talk to someone and get no response, how do you feel	ከአንድ ሰው ጋር እያወራህ ምንም ምላሽ ባያገኙ ምን ይሰማዎታል	anger	ቁጣ	negative	አሉታዊ
+How do you feel when you fail an exam for which you know, you have not studied hard enough?	በበቂ ሁኔታ ያላጠናሀውን ፈተና ስትወድቅ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you fell deeply in love with a beautiful girl, and she returned your passion?	ከአንዲት ቆንጆ ልጅ ጋር ፍቅር ይዞህ ጥያቄህን ስትቀበልህ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How do you feel when you argue with your best friend and think you are right and your friend is not?	ከምትወደው ጓደኛህ ጋር ስትጨቃጨቅ እና አንተ ልክ እንደሆንክ እና ጓደኛህ ልክ እንዳልሆነ ስታስብ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How did you feel when your roommate started imitating you, doing what you had done a few hours before?	አብሮህ የሚኖረው ሰው ከጥቂት ሰአታት በፊት ያደረግከውን ሲያደርግ አንተን ሲያስመስል ብታይ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when a plane caught in a storm and it began to shake	አንድ አውሮፕላን በማዕበል ተይዞ መንቀጥቀጥ ሲጀምር ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+How do you feel when asked to pay back money borrowed from others?	ከሌሎች የተበደሩትን ገንዘብ እንዲመልሱ ሲጠየቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+When you were with your girlfriend/boyfriend, your mother came; how did you feel	ከሴት ጓደኛህ ጋር በነበርክበት ጊዜ እናትህ ብትመጣ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when the taxi driver chose the longest route while driving	ታክሲው በሚያሽከረክርበት ጊዜ ረጅሙን መንገድ ሲመርጥ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you promised your friends that you would take care of something, but you kept forgetting about it	አንድን ነገር እንደሚንከባከቡ ለጓደኞችህ ቃል ገብተህ ነገር ግን ብትረሳው ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How do you feel when your contractor delivers your project one day after the scheduled date	ከተያዘለት ቀን አንድ ቀን አሳልፎ ኮንትራክተርዎ ፕሮጀክትዎን ሲያቀርብ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when your friends arranged to go for an afternoon snack and they did not tell me	ጓደኞችህ ከሰአት በኋላ ለመክሰስ ወደውጭ ቢወጡ እና ባይነግሩህ ምን ይሰማሃል	sadness	ሀዘን	negative	አሉታዊ
+When you once went out with another boy/girl and made love with him/her while you had a close boyfriend, what would you feel	አንድ ጊዜ ከሌላ ሴት ጋር ስትወጣ ፍቅረኛህ ብታይህ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when a man spoke very sexistly in the workplace	አንድ ሰው በሥራ ቦታ በጣም ወሲባዊ በሆነ ሁኔታ ሲናገር ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you came across a rat	አይጥ ሲያጋጥማችሁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel when you lend money to a friend, and he pays you back more than you originally loaned?	ለጓደኛዎ ገንዘብ ሲያበድሩ እና እሱ መጀመሪያ ካበደሩት በላይ ሲከፍልዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when your ex-boyfriend/girlfriend didn't want to sleep with you anymore	ፍቅረኛ ጓደኛህ ካንተ ጋር መተኛት አልፈልግም ብትል ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if you got good results in the field of academics?	በአካዳሚክ መስክ ጥሩ ውጤት ብታገኝ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you are not well dressed in public	በአደባባይ በደንብ ካልለበሱ ምን ይሰማዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when your friend canceled an appointment	ጓደኛዎ ቀጠሮ ሲሰርዝ ምን ይሰማዎታል	anger	ቁጣ	negative	አሉታዊ
+How would you feel if you attended a pop singer's concert?	በፖፕ ዘፋኝ ኮንሰርት ላይ ብትገኝ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone chased you from his house?	አንድ ሰው ከቤቱ ሲያባርርህ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when you wear a slit-tight dress at a disco	በዲስኮ ውስጥ የተቀደደ ቀሚስ ስትለብሽ ምን ይሰማሻል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when your friend called you while you were praying	እየጸለይክ ሳለ ጓደኛህ ሲጠራህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when your brother's wife told you that you had some bad manners	የወንድምህ ሚስት መጥፎ ጠባይ እንዳለህ ስትነግርህ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when someone greets your little girl	አንድ ሰው ህጻን ሴት ልጅህን ሰላም ቢላት ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when kissed by somebody that didn't expect to	ባልጠበከው ሰው ብትሳም ምን ይሰማሃል	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you told a lie to reconcile two broken friends	ሁለት የተጣሉ ጓደኞችን ለማስታረቅ ውሸት ስትናገር ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone spitting around you	አንድ ሰው በዙሪያህ ሲተፋ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you are being insulted in public?	በአደባባይ ሲሰደቡ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you started your food before father and mother start	አባት እና እናት ከመጀመራቸው በፊት ምግብህን ብትጀምሩ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you start food to eat without praying	ሳትጸልዩ ምግብ ለመብላት ስትጀምር ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when someone invited you to join his religion	አንድ ሰው ሃይማኖቱን እንድትቀላቀል ሲጋብዝህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you insult an older adult for no reason?	ያለምክንያት ትልቅ አዋቂን ስትሳደብ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when your mother slapped you in the face	እናትህ በጥፊ ስትመታህ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+What do you feel when criticized in front of your class	በክፍልዎ ፊት ሲነቀፉ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel when you are not dressed appropriately for the occasion?	ለበዓሉ ተገቢውን ልብስ ባትለብሱ ምን ይሰማዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you laugh loudly in public, which is considered rude?	እንደ ባለጌ በሚቆጠር በአደባባይ ጮክ ብለህ ስትስቅ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel If someone offered to pay for your food or shopping?	አንድ ሰው ለምግብዎ ወይም ለግዢዎ እንዲከፍሉ ቢጋብዝዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you received a gift and the giver insisted you open it immediately?	ስጦታ ከተቀበልክ እና ሰጪው ወዲያው እንድትከፍት ቢጠይቅህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone didn't remove their shoes before entering your home?	አንድ ሰው ወደ ቤትዎ ከመግባቱ በፊት ጫማውን ካላወለቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you saw a couple holding hands in public?	ባልና ሚስት በአደባባይ እጅ ለእጅ ተያይዘው ቢያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if a woman wore sleeveless clothes in public?	አንዲት ሴት በሕዝብ ፊት እጅጌ የሌለው ልብስ ብትለብስ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone offered you food during fasting while you were fasting?	አንድ ሰው በጾም ጊዜ ምግብ ቢያቀርብልህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone called an elder by their first name without a title?	አንድ ሰው ያለ ማዕረግ ሽማግሌውን በስሙ ቢጠራ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone criticized the country's leaders in a public gathering?	በሕዝብ ስብሰባ ላይ አንድ ሰው የአገሪቱን መሪዎች ቢነቅፍ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+"How would you feel if someone didn't greet you with ""Assalamu Alaikum""?"	አሰላሙ አለይኩም ሰላምታ ባይሰጥህ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if someone served you tea in a chipped cup?	አንድ ሰው በተሰነጠቀ ኩባያ ሻይ ቢያቀርብልዎት ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if a guest left your home without eating anything?	አንድ እንግዳ ምንም ሳይበላ ከቤትዎ ቢወጣ ምን ይሰማዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel if someone talked about arranged marriages in your presence?	አንድ ሰው በአንተ ፊት ስለጋብቻ ቢናገር ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone commented on your religious practices in public?	አንድ ሰው ስለ ሃይማኖታዊ ድርጊቶችህ በአደባባይ አስተያየት ቢሰጥ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if your friend didn't stand up when an elder entered the room?	ጓደኛህ አንድ ሽማግሌ ወደ ክፍሉ ሲገባ ባይነሳ ምን ይሰማሃል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if someone brought their dog to a family gathering?	አንድ ሰው ውሻውን ወደ ቤተሰብ መሰብሰቢያ ቢያመጣ ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel seeing someone eating with their left hand in public?	አንድ ሰው በግራ እጁ በአደባባይ ሲበላ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone didn't offer their seat to an older adult on public transport?	አንድ ሰው በሕዝብ ማመላለሻ ውስጥ ለትልቅ አዋቂ ሰው መቀመጫውን ካላቀረበ ምን ይሰማዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel if a woman participated in a heated political debate in public?	አንዲት ሴት በአደባባይ በጦፈ የፖለቲካ ክርክር ውስጥ ብትሳተፍ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone refused to eat the prasad offered at a temple?	አንድ ሰው በቤተመቅደስ ውስጥ የሚቀርበውን ፕራሳድ ለመብላት ፈቃደኛ ካልሆነ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone wore black to a wedding?	አንድ ሰው ለሠርግ ጥቁር ቢለብስ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone didn't touch the feet of elders as a sign of respect?	አንድ ሰው የአክብሮት ምልክት የሽማግሌዎችን እግር ካልነካ ምን ይሰማዎታል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel if someone didn't remove their shoes before entering a temple?	አንድ ሰው ወደ ቤተመቅደስ ከመግባቱ በፊት ጫማውን ካላወለቀው ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone used their left hand to pass food at a meal?	አንድ ሰው በግራ እጁ ምግብ ሲያሳልፍ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if you saw a woman smoking in public?	ሴት በአደባባይ ስታጨስ ቢያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone interrupted you during a conversation with an elder?	ከአንድ ሽማግሌ ጋር ስትወያይ አንድ ሰው ቢያቋርጥህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone didn't invite the entire extended family to a wedding?	አንድ ሰው መላውን ቤተሰብ ለሠርግ ካልጋበዘ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone ate beef in your presence?	አንድ ሰው በእርስዎ ፊት የበሬ ሥጋ ቢበላ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone didn't wash their hands before eating?	አንድ ሰው ከመብላቱ በፊት እጁን ባይታጠብ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How do you feel if someone licks their hand after eating?	አንድ ሰው ከበላ በኋላ እጁን ቢልሰ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone wore revealing clothes at a religious ceremony?	በሃይማኖታዊ ሥነ ሥርዓት ላይ አንድ ሰው ሰውነትን የሚያሳዩ ልብሶችን ቢያደርግ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone didn't offer water to a guest as soon as they arrived?	አንድ ሰው እንግዳ እንደመጣ  ውሃ ካላቀረበ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone publicly discussed their sex life?	አንድ ሰው ስለ ጾታዊ ህይወቱ በይፋ ቢወያይ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone refused to participate in a traditional dance at a festival?	አንድ ሰው በበዓል ላይ በባህላዊ ውዝዋዜ ለመሳተፍ ፈቃደኛ ካልሆነ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone didn't give you a proper goodbye when leaving your home?	አንድ ሰው ከቤትዎ ሲወጣ ተገቢውን ሰላምታ ባይሰጥዎ ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if someone refused to share their food with you at a communal meal?	አንድ ሰው በጋራ ምግብ ላይ ምግቡን ለእርስዎ ለማካፈል ፈቃደኛ ካልሆነ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you saw a woman not to cover hair while entering a religious place?	አንዲት ሴት ወደ ሀይማኖት ቦታ ስትገባ ፀጉሯን ሳትሸፍን ብታይ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when a guest leaves food on their plate at your home?	አንድ እንግዳ በቤትዎ ውስጥ በሳህኑ ላይ ምግብ ሲተው ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone criticizes the way you dress?	አንድ ሰው አለባበስህን ሲነቅፍ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you are expected to avoid discussing financial matters in public?	በሕዝብ ፊት በገንዘብ ነክ ጉዳዮች ላይ እንዳትወያይ ክልክል ቢሆን ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone visited your home without prior notice?	አንድ ሰው ቅድሚያ ሳያሳውቅህ ቤትዎን ቢጎበኝ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone asks about your marital status in a social setting?	አንድ ሰው በማህበራዊ ስብሰባ ላይ ስለ ጋብቻ ሁኔታዎ ቢጠይቅህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see a man and woman shaking hands in a formal setting?	አንድ ወንድና ሴት በመደበኛ ሁኔታ ሲጨባበጡ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel when you see women kiss each other on the lips?	ሴቶች በከንፈር ሲሳሳሙ ሲያዩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when someone brings alcohol to a family gathering?	አንድ ሰው ቤተሰብ ስብሰባ ላይ አልኮል ሲያመጣ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expect to eat everything served on your plate?	በእርስዎ ሳህን ላይ የቀረበውን ሁሉ ለመብላት ሲጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you hear loudspeakers from religious places early in the morning?	በማለዳ ከሃይማኖታዊ ቦታዎች ድምጽ ማጉያዎችን ስትሰሙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when forced to give and receive items with your right hand?	በቀኝ እጅዎ እቃዎችን ለመስጠት እና ለመቀበል ሲገደዱ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expect to refrain from discussing taboo topics such as sex or politics?	እንደ ወሲብ ወይም ፖለቲካ ባሉ የተከለከሉ ርዕሰ ጉዳዮች ላይ ከመወያየት እንድትቆጠብ ቢጠበቅብህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How do you feel about dressing modestly when visiting rural areas?	ገጠራማ አካባቢዎችን ስትጎበኝ ልከኛ አለባበስ ባትለብስ ምን ይሰማሃል?	guilt	ጥፋተኛ	negative	አሉታዊ
+How would you feel when you expect to remove your shoes before entering someone's home?	ወደ ሰው ቤት ከመግባትዎ በፊት ጫማዎን ማውለቅ ግዴታ ሙሆኑን ቢያውቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expected to wait for the eldest person to start eating before you begin?	ከመጀመርህ በፊት ትልቁ ሰው መብላት እስኪጀምር ድረስ ስትጠብቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see someone publicly criticizing their parents?	አንድ ሰው ወላጆቹን በአደባባይ ሲወቅስ ስታይ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you expect to attend family functions, even if you are busy?	ምንም እንኳን ሥራ ቢበዛብህም በቤተሰብ ተግባራት ላይ እንድትገኝ ቢጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone insists on feeding you with their hands during a meal?	አንድ ሰው በምግብ ወቅት በእጃቸው እንዲመገቡ ሲገፋፋ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when expected to avoid wearing revealing clothes at family gatherings?	በቤተሰብ ስብሰባዎች ላይ ግላጭ ልብሶችን ከመልበስ መቆጠብ ሲጠበቅብዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone asks about your caste or religious background?	አንድ ሰው ስለ ዘርህ ወይም ሃይማኖታዊ ታሪክህ ሲጠይቅ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expect to offer sweets to guests during festivals?	በበዓላቶች ወቅት ለእንግዶች ጣፋጭ ማቅረብ ቢጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel seeing children addressing their parents with formal titles rather than their names?	ልጆች ወላጆቻቸውን ከስማቸው ይልቅ በመደበኛ ማዕረግ ሲጠሩ ማየት ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you are expected not to wear black clothes during happy occasions?	በአስደሳች ጊዜ ጥቁር ልብስ እንዳይለብሱ ቢነገርህ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see someone speaking loudly on their phone in public places?	አንድ ሰው በሕዝብ ቦታዎች በስልኩ ጮክ ብሎ ሲናገር ቢሰሙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see a man and woman sitting close to each other in public?	ወንድና ሴት በአደባባይ ተቀምጠው ሲመለከቱ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see someone criticizing the government openly in a public space?	አንድ ሰው በአደባባይ በይፋ መንግስትን ሲነቅፍ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel seeing someone dressed in traditional attire at a modern event?	በዘመናዊ ዝግጅት ላይ አንድ ሰው የባህል ልብስ ለብሶ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expect to accept food or drink even if you are not hungry or thirsty?	ባይርብህ ወይም ባይጠማህ ምግብና መጠጥ መቀበል ቢጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone asks about your salary or income at a social gathering?	አንድ ሰው በማህበራዊ ስብሰባ ላይ ስለ ደሞዝዎ ወይም ስለ ገቢዎ ሲጠይቅ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see people avoiding eye contact as a sign of respect?	ሰዎች ቀና ብሎ ማየትን የአክብሮት ምልክት አድርገው ባያዩህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expect to touch elders' feet during special occasions?	በልዩ ዝግጅቶች የሽማግሌዎችን እግር መንካት ቢጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see someone spitting in public places?	አንድ ሰው በሕዝብ ቦታዎች ላይ ሲተፋ ሲያዩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you see someone sitting cross-legged in front of elders?	አንድ ሰው በሽማግሌዎች ፊት እግሩን አጣጥፎ ተቀምጦ ስታየው ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you see someone ignoring traditional greetings in favor of modern ones?	አንድ ሰው ባህላዊ ሰላምታዎችን ችላ ሲልና የዘመናዊውን ሰላምታ ሲሰጥ ቢመለከቱ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you expect to eat with your hands rather than using cutlery?	መቁረጫዎችን ከመጠቀም ይልቅ በእጅዎ መብላት ቢጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see women avoiding physical contact with men in public?	በአደባባይ ሴቶች ከወንዶች ጋር አካላዊ ንክኪ ሲያደርጉ ሲያዩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when you see men avoiding wearing shorts in public?	ወንዶች በአደባባይ ቁምጣ እንዳማይለብሱ ቢያወቁ ምን ይሰማዎታል?	fear	ፍርሀት	negative	አሉታዊ
+How would you feel when you see people greeting each other with cheek kisses?	ሰዎች በጉንጭ በመሳም ሰላምታ ሲሰጡ ስታዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expect to remove your shoes before entering a home?	ቤት ከመግባትዎ በፊት ጫማዎን እንደሚያወልቁ ቢጠበቅብህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when greeting elders when you see people touching their forehead and chin?	ሰዎች ሽማግሌዎችን ሰላምታ ሲሰጡ ጉልበታቸውን ቢነኩ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel if people avoided shaking hands with the opposite gender?	ሰዎች ከተቃራኒ ጾታ ጋር ከመጨባበጥ ቢቆጠቡ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expected to avoid alcohol due to religious reasons?	በሃይማኖታዊ ምክንያቶች አልኮል እንዳይጠጡ ቢጠበቅብህ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when people use formal titles when addressing elders or authority figures?	ሰዎች ሽማግሌዎችን ወይም ባለ ሥልጣኖችን ሲያነጋግሩ መደበኛ የማዕረግ ስሞችን ሲጠቀሙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How do you feel when invited to a wedding a week before?	ከአንድ ሳምንት በፊት ለሠርግ ቢጋበዙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when expected to wash other legs	የሌሎች እግሮችን ማጠብ ቢጠበቅዎ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when someone doesn’t bow or shake hands when greeting you?	አንድ ሰው ጎንበስ ሳይል ወይም ሳይጨባበጥ ሰላምታ ሲሰጥህ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone refused a Gursha (feeding someone directly)	አንድ ሰው ጉርሻን እምቢ ካለ ምን ይሰማዎታል	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if someone doesn’t participate in religious fasting periods,	አንድ ሰው በሃይማኖታዊ ጾም ወቅት የማይጾም ከሆነ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone skipped a religious place during critical religious celebrations	ወሳኝ በሆኑ ሃይማኖታዊ በዓላት ወቅት አንድ ሰው ሃይማኖታዊ በዓልን ሳይታደም ቢቀር ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone ignored the advice of elders?	አንድ ሰው የሽማግሌዎችን ምክር ችላ ቢል ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone dressed immodestly in a traditional village?	አንድ ሰው በባህላዊ መንደር ውስጥ ጨዋነት የጎደለው ልብስ ቢለብስ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone does not agree with the custom of giving a bride price?	አንድ ሰው ለሙሽሪት ዋጋ የመስጠት ልማድ ባይስማማ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone didn’t respect the decision made by community elders?	አንድ ሰው የማህበረሰቡ ሽማግሌዎች ያደረጉትን ውሳኔ ካላከበረ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone started eating before everyone served?	አንድ ሰው ሁሉም ሰው ከመስተናገዱ በፊት መብላት ቢጀምር ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone dressed casually in a formal work setting?	አንድ ሰው መደበኛ የሥራ ልብስን ከለበሰ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone cut in line?	አንድ ሰው ወረፋውን ባያከብር ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone used their phone during a meal?	አንድ ሰው በምግብ ጊዜ ስልኩን ቢጠቀም ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone constantly offered help without being asked?	አንድ ሰው ሳይጠየቅ እርዳታ ቢያቀርብ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone didn’t acknowledge you with a greeting when you meet?	አንድ ሰው ስትገናኝ ሰላምታ ባይሰጥህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone refused to eat with their hands at a traditional meal?	አንድ ሰው በባህላዊ ምግብ ላይ በእጁ ለመመገብ ፈቃደኛ ካልሆነ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone didn't touch the feet of elders as a sign of respect?	አንድ ሰው የአክብሮት ምልክት ሆኖ የሽማግሌዎችን እግር ካልነካ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone gave you a gift with their left hand?	አንድ ሰው በግራ እጁ ስጦታ ቢሰጥህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone disregards social hierarchy and speaks informally to people of higher status?	አንድ ሰው ማህበራዊ ተዋረድን ንቆ እና ከፍተኛ ደረጃ ያላቸውን ሰዎች መደበኛ ባልሆነ መንገድ ቢናገር ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone were bargaining for you the initial asking price in a local market?	አንድ ሰው ገበያ ውስጥ የመጀመሪያውን ዋጋ ቢደራደርህ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone prioritizes work over spending time with family during gatherings?	አንድ ሰው በቤተሰብ ስብሰባ ወቅት ከቤተሰብ ጋር ጊዜ ከማሳለፍ ይልቅ ለሥራ ቅድሚያ ቢሰጥ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone left the table immediately after finishing their meal without engaging in conversation?	አንድ ሰው ሳይወያይ ምግቡን እንደጨረሰ ወዲያውኑ ጠረጴዛውን ቢለቅ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone declined food or drink visiting your home?	አንድ ሰው ቤትዎን ሲጎበኝ ምግብ ወይም መጠጥ ባይቀበል ምን ይሰማዎታል?	sadness	ሀዘን	negative	አሉታዊ
+How would you feel if someone arrived late to an appointment without notifying you?	አንድ ሰው እርስዎን ሳያሳውቅ ቀጠሮ ላይ ዘግይቶ ቢመጣ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone avoided being direct when giving feedback?	አንድ ሰው ግብረ መልስ ሲሰጥ ቀጥተኛ ከመሆን ቢቆጠብ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone threw recyclables in the regular trash bin?	አንድ ሰው እንደገና ጥቅም ላይ ሊውሉ የሚችሉ ነገሮችን በመደበኛው የቆሻሻ መጣያ ውስጥ ቢጥለው ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone threw trash on the street?	አንድ ሰው በመንገድ ላይ ቆሻሻ ቢጥል ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone disregards traffic signals, even when no one is around?	አንድ ሰው ማንም ሰው በማይኖርበት ጊዜ የትራፊክ ምልክቶችን ችላ ቢል ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone insisted on splitting the bill exactly when dining out?	አንድ ሰው ምግብ በሚመገብበት ጊዜ ሂሳቡን በትክክል ለማከፋፈል ቢያስብ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if people avoided shaking hands or touching each other physically during religious observances?	በሃይማኖታዊ በዓላት ወቅት ሰዎች ከመጨባበጥ ወይም በአካል ከመነካካት ቢቆጠቡ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel seeing people sitting on the floor during meals instead of at a table?	ምግብ በሚመገቡበት ጊዜ ሰዎች በጠረጴዛ ላይ ሳይሆን መሬት ላይ ተቀምጠው ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel seeing people arranging marriages through family introductions rather than dating?	ከትዳር ጓደኛ ጋር ከመገናኘት ይልቅ በቤተሰብ በኩል ጋብቻ ቢዘጋጅልህ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see people offering sweets and desserts to guests as a gesture of hospitality?	ጣፋጮችን ለእንግዶች መቀበያነት ምልክት አድርገው ሲያቀርቡ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see people observing the tradition of henna nights before weddings?	ከሠርግ በፊት የሂና ምሽቶችን ሰዎች ሲያደርጉ ስታዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see people kissing the hands of each other as a sigh of greeting	ሰዎች እንደ ሰላምታ እጅ ለእጅ ሲሳሳሙ ስታይ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when people use small gestures, like raising eyebrows, to communicate agreement or understanding?	ሰዎች ስምምነትን ወይም መግባባትን ለማሳወቅ እንደ ቅንድብን ማንሳት ያሉ ትናንሽ ምልክቶችን ሲጠቀሙ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if people avoided music and dancing in public during a religious ceremony?	በሃይማኖታዊ ሥነ ሥርዓት ወቅት ሰዎች በአደባባይ ከሙዚቃና ከጭፈራ ቢርቁ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see people adhering to strict codes of modesty in both behavior and dress?	በባህሪም ሆነ በአለባበስ ጥብቅ የጨዋነት ህጎችን የሚከተሉ ሰዎችን ስታይ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see people taking off their hats or covering their heads as a sign of respect?	ሰዎች ባርኔጣቸውን ሲያወልቁ ወይም ራሳቸውን ሲሸፍኑ ስታዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when people share food from a standard plate?	ሰዎች ከመደበኛ ሰሃን ምግብ ሲካፈሉ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you see people greeting each other with a hug and a kiss on the cheek?	ሰዎች ተቃቅፈው ጉንጭ ላይ በመሳም ሰላምታ ሲሰጡ ስታዩ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel seeing people enjoying traditional music at social gatherings?	በማህበራዊ ስብሰባዎች ላይ ሰዎች በባህላዊ ሙዚቃ ሲዝናኑ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel when you expect to participate in a festive street	በበዓል ጎዳና ላይ መሳተፍ ቢጠበቅብህ ምን ይሰማሃል	neutral	መደበኛ	neutral	መደበኛ
+How would you feel seeing people decorate homes and public spaces with paper for festivals?	ሰዎች ቤቶችን እና የህዝብ ቦታዎችን ለበዓል በወረቀት ሲያጌጡ ሲያዩ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel when you got a food offer from others on a national holiday?	በብሔራዊ በዓል ላይ ከሌሎች የምግብ አቅርቦት ስታገኙ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel seeing people visiting family and friends without prior notice?	ሰዎች ቀድመው ሳያሳውቁ ቤተሰብ እና ጓደኞች ሲጎበኙ ሲያዩ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel seeing people dressed in traditional attire for cultural events?	ለባህላዊ ዝግጅቶች ባህላዊ ልብሶችን ለብሰው ሰዎችን ሲያዩ ምን ይሰማዎታል?	joy	ደስታ	positive	አወንታዊ
+How would you feel seeing someone in pajamas on the street?	አንድ ሰው በመንገድ ላይ ፒጃማ ለብሶ ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you saw cars on the street with their music playing at a very high level?	መንገድ ላይ መኪኖች ሙዚቃቸውን በከፍተኛ ድምጽ ሲጫወቱ ብታይ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you saw public transport buses exceeding the capacity of available seats?	የህዝብ ማመላለሻ አውቶቡሶች ከተቀመጠው የመቀመጫ አቅም በላይ ጭነው ቢያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you saw people playing soccer on the street?	ሰዎች በመንገድ ላይ እግር ኳስ ሲጫወቱ ብታይ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if some people knocked on your door to invite you to their religion?	አንዳንድ ሰዎች ወደ ሃይማኖታቸው ሊጋብዙህ ቤትህን ቢያንኳኩ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if your girlfriend/boyfriend asked for your phone password to check your messages and calls?	ጓደኛዎ መልዕክቶችዎን እና ጥሪዎችዎን ለመፈተሽ የስልክዎን የይለፍ ቃል ቢጠይቁ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if you saw a man with two girlfriends?	ሁለት የሴት ጓደኞች ያሉት ወንድ ቢያዩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if you saw a woman with two boyfriends?	ሁለት የወንድ ጓደኞች ያሏትን ሴት ብታይ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel seeing a man/woman with an older partner?	ወንድ ወይም ሴት ከትልቅ አጋር ጋር ሲያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you saw people selling on public transport?	በሕዝብ ማመላለሻ ውስጥ የሚሸጡ ሰዎችን ቢያዩ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if you saw someone kiss the lip of his child?	አንድ ሰው የልጁን ከንፈር ሲስም ቢያዩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel about strictly separating personal and professional life, avoiding talking about personal matters at work?	የግል እና ሙያዊ ሕይወትን በሥራ ላይ መወያየት፣ ስለግል ጉዳዮች መናገር በጥብቅ የተከለከለ ቢሆን ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone you met asked about your family and well-being before discussing business?	አንድ ያገኙት ሰው ስለ ንግድ ጉዳይ ከመወያየትዎ በፊት ስለ ቤተሰብዎ እና ደህንነትዎ ቢጠይቅ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+"How would you feel if someone didn't say ""no"" directly, even when they meant it, to avoid offending you?"	"አንድ ሰው አንተን ላለማስከፋት ሲል በቀጥታ ""አይ"" ባይል ምን ይሰማሃል?"	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone offered to split the bill evenly after a group dinner at a restaurant?	አንድ ሰው በአንድ ሬስቶራንት ውስጥ ከቡድን እራት በኋላ ሂሳቡን በእኩል ለመከፋፈል ቢያቀርብ ምን ይሰማዎታል?	neutral	መደበኛ	neutral	መደበኛ
+What do you fee when a person putting their hands in their pockets while talking	አንድ ሰው ሲያወራ እጁን ወደ ኪሱ ሲያስገባ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+What do you feel when someone is talking to you with hands placed on his hips	አንድ ሰው እጆቹን በወገቡ ላይ አድርጎ ሲያናግርህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone addressed you with titles and honorifics rather than your first name?	አንድ ሰው ከስምህ ይልቅ በማዕረግ እና በክብር ቢጠራህ ምን ይሰማሃል?	joy	ደስታ	positive	አወንታዊ
+How would you feel if someone touched your head without permission, considering it a sacred part of the body?	አንድ ሰው ያለፈቃድ እራስክን ቢነካህ ምን ይሰማሃል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel if someone didn't express gratitude or appreciation after being offered food or hospitality?	አንድ ሰው ምግብ ወይም መስተንግዶ ከቀረበለት በኋላ ምስጋናውን ወይም አድናቆትን ባይገልጽ ምን ይሰማሃል?	neutral	መደበኛ	neutral	መደበኛ
+How would you feel if someone failed to respect prayer times, continuing noisy activities or conversations during the call to prayer?	በጸሎት ጥሪ ወቅት አንድ ሰው በጸሎት ጊዜ ጫጫታ የሚያሰሙ እንቅስቃሴዎችን ወይም ንግግሮችን ቢያሰማ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when talking loudly?	ሰዎች ጮክ ብለው ሲያወሩ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ
+How would you feel when someone insults someone's religion?	አንድ ሰው የአንድን ሰው ሃይማኖት ሲሰድብ ምን ይሰማዎታል?	anger	ቁጣ	negative	አሉታዊ

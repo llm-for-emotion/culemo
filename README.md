@@ -2,6 +2,10 @@
 
 A benchmark for evaluating culture-aware emotion prediction capabilities of Large Language Models (LLMs) across different languages and cultural contexts.
 
+<p align="center" style="overflow: hidden; height: 300px; width: 400px; position: relative;">
+  <img align="center" src="assets/result1.png" style="position: absolute; bottom: -50px; width: 100%;" />
+</p>
+
 ## Paper
 
 **CuLEmo: Cultural Lenses on Emotion -- Benchmarking LLMs for Cross-Cultural Emotion Understanding**
@@ -106,4 +110,4 @@ If you use this benchmark in your research, please cite our paper:
 
 ## License
 
-[Your chosen license]
+The dataset is licensed under the [Creative Commons Attribution 4.0 International (CC BY 4.0) License](https://creativecommons.org/licenses/by-sa/4.0/) for research purposes only.
